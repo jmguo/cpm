@@ -1,0 +1,46 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-01 21:33:51 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 13 [Performance=5368.5 cover=4 (15%)]
+   S100MiB=N
+   Finest=N
+   INCompressor=N
+
+ Rule number: 10 [Performance=4762.5 cover=4 (15%)]
+   S100MiB=Y
+   Finest=Y
+   DirectNIO=N
+
+ Rule number: 7 [Performance=15837 cover=3 (12%)]
+   S100MiB=N
+   Finest=Y
+
+ Rule number: 12 [Performance=5237.66666666667 cover=3 (12%)]
+   S100MiB=N
+   Finest=N
+   INCompressor=Y
+
+ Rule number: 11 [Performance=4984.33333333333 cover=3 (12%)]
+   S100MiB=Y
+   Finest=Y
+   DirectNIO=Y
+
+ Rule number: 9 [Performance=3417.33333333333 cover=3 (12%)]
+   S100MiB=Y
+   Finest=N
+   Statistics=N
+
+ Rule number: 17 [Performance=3269.66666666667 cover=3 (12%)]
+   S100MiB=Y
+   Finest=N
+   Statistics=Y
+   SingleWriteNIO=N
+
+ Rule number: 16 [Performance=3168.33333333333 cover=3 (12%)]
+   S100MiB=Y
+   Finest=N
+   Statistics=Y
+   SingleWriteNIO=Y

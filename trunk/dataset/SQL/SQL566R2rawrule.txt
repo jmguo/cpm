@@ -1,0 +1,80 @@
+Time taken: 0.09 secs
+
+Rattle timestamp: 2012-08-02 11:05:42 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 67 [Performance=14.2593373493976 cover=83 (15%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREone=N
+   StandardPageSize=Y
+   StandardCacheSize=Y
+
+ Rule number: 38 [Performance=14.5712926829268 cover=82 (14%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=N
+   StandardPageSize=Y
+
+ Rule number: 39 [Performance=14.7073770491803 cover=61 (11%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=N
+   StandardPageSize=N
+
+ Rule number: 32 [Performance=13.9708448275862 cover=58 (10%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREone=N
+   StandardPageSize=N
+
+ Rule number: 11 [Performance=15.236125 cover=40 (7%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=Y
+   AutoVacuumOff=Y
+
+ Rule number: 6 [Performance=14.6376153846154 cover=39 (7%)]
+   SQLITE_TEMP_STOREtwo=Y
+   AutoVacuumOff=N
+
+ Rule number: 66 [Performance=14.0873684210526 cover=38 (7%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREone=N
+   StandardPageSize=Y
+   StandardCacheSize=N
+
+ Rule number: 17 [Performance=14.9505135135135 cover=37 (7%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREone=Y
+
+ Rule number: 7 [Performance=15.3007222222222 cover=36 (6%)]
+   SQLITE_TEMP_STOREtwo=Y
+   AutoVacuumOff=Y
+
+ Rule number: 36 [Performance=14.309 cover=36 (6%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_TEMP_STOREzero=N
+
+ Rule number: 10 [Performance=14.1728928571429 cover=28 (5%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=Y
+   AutoVacuumOff=N
+
+ Rule number: 37 [Performance=14.3815357142857 cover=28 (5%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREthree=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_TEMP_STOREzero=Y

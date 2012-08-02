@@ -1,0 +1,54 @@
+Time taken: 0.05 secs
+
+Rattle timestamp: 2012-08-02 10:27:58 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 10 [Performance=14.0353333333333 cover=6 (15%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREzero=N
+   SQLITE_OMIT_OR_OPTIMIZATION=Y
+
+ Rule number: 4 [Performance=13.9685 cover=6 (15%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREzero=Y
+
+ Rule number: 3 [Performance=15.3252 cover=5 (13%)]
+   SQLITE_TEMP_STOREtwo=Y
+
+ Rule number: 93 [Performance=14.871 cover=5 (13%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREzero=N
+   SQLITE_OMIT_OR_OPTIMIZATION=N
+   AutoVacuumOff=N
+   HigherCacheSize=N
+   SQLITE_SECURE_DELETE=N
+
+ Rule number: 44 [Performance=14.3112 cover=5 (13%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREzero=N
+   SQLITE_OMIT_OR_OPTIMIZATION=N
+   AutoVacuumOff=Y
+   StandardCacheSize=N
+
+ Rule number: 47 [Performance=15.28275 cover=4 (10%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREzero=N
+   SQLITE_OMIT_OR_OPTIMIZATION=N
+   AutoVacuumOff=N
+   HigherCacheSize=Y
+
+ Rule number: 92 [Performance=14.5555 cover=4 (10%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREzero=N
+   SQLITE_OMIT_OR_OPTIMIZATION=N
+   AutoVacuumOff=N
+   HigherCacheSize=N
+   SQLITE_SECURE_DELETE=Y
+
+ Rule number: 45 [Performance=14.9635 cover=4 (10%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREzero=N
+   SQLITE_OMIT_OR_OPTIMIZATION=N
+   AutoVacuumOff=Y
+   StandardCacheSize=Y

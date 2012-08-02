@@ -1,0 +1,21 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-01 20:58:36 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 6 [Performance=1200 cover=2 (22%) prob=1.00]
+   FollowSymLinks=N
+   KeepAlive=N
+
+ Rule number: 7 [Performance=1890 cover=2 (22%) prob=0.00]
+   FollowSymLinks=N
+   KeepAlive=Y
+
+ Rule number: 5 [Performance=2190 cover=2 (22%) prob=0.00]
+   FollowSymLinks=Y
+   KeepAlive=Y
+
+ Rule number: 4 [Performance=1140 cover=3 (33%) prob=0.00]
+   FollowSymLinks=Y
+   KeepAlive=N

@@ -1,0 +1,47 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-01 21:10:32 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 5 [Performance=1200 cover=5 (17%)]
+   KeepAlive=N
+   InMemory=Y
+
+ Rule number: 15 [Performance=2220 cover=4 (14%)]
+   KeepAlive=Y
+   Handle=N
+   FollowSymLinks=Y
+
+ Rule number: 28 [Performance=1762.5 cover=4 (14%)]
+   KeepAlive=Y
+   Handle=N
+   FollowSymLinks=N
+   EnableSendfile=N
+
+ Rule number: 18 [Performance=1087.5 cover=4 (14%)]
+   KeepAlive=N
+   InMemory=N
+   HostnameLookups=N
+   ExtendedStatus=Y
+
+ Rule number: 29 [Performance=1960 cover=3 (10%)]
+   KeepAlive=Y
+   Handle=N
+   FollowSymLinks=N
+   EnableSendfile=Y
+
+ Rule number: 6 [Performance=1210 cover=3 (10%)]
+   KeepAlive=Y
+   Handle=Y
+
+ Rule number: 19 [Performance=1140 cover=3 (10%)]
+   KeepAlive=N
+   InMemory=N
+   HostnameLookups=N
+   ExtendedStatus=N
+
+ Rule number: 8 [Performance=920 cover=3 (10%)]
+   KeepAlive=N
+   InMemory=N
+   HostnameLookups=Y

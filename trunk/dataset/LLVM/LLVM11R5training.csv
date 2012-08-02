@@ -1,0 +1,12 @@
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,Performance
+Y,N,N,Y,Y,N,N,Y,N,N,N,216.84
+Y,Y,Y,N,N,Y,Y,Y,N,Y,N,240.98
+Y,Y,N,Y,N,N,N,Y,N,N,Y,250.88
+Y,Y,Y,N,Y,N,Y,N,Y,Y,Y,253.49
+Y,Y,N,Y,N,N,Y,N,Y,N,N,236.24
+Y,N,Y,Y,N,N,Y,N,Y,Y,N,227.40
+Y,N,N,Y,Y,Y,Y,N,Y,Y,Y,262.67
+Y,Y,N,N,N,Y,N,N,N,N,Y,238.75
+Y,Y,N,Y,N,Y,Y,N,N,Y,Y,250.44
+Y,N,N,N,Y,N,Y,Y,Y,Y,Y,219.87
+Y,N,N,N,N,Y,N,Y,N,Y,N,201.47

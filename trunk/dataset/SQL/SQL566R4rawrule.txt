@@ -1,0 +1,87 @@
+Time taken: 0.09 secs
+
+Rattle timestamp: 2012-08-02 11:07:56 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 31 [Performance=15.4295540540541 cover=74 (13%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   AutoVacuumOff=Y
+
+ Rule number: 51 [Performance=14.2914090909091 cover=66 (12%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=Y
+   StandardPageSize=Y
+   StandardCacheSize=Y
+
+ Rule number: 14 [Performance=14.1506111111111 cover=54 (10%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=Y
+
+ Rule number: 104 [Performance=14.3871764705882 cover=51 (9%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=N
+   ExclusiveLock=Y
+   StandardPageSize=Y
+   StandardCacheSize=Y
+
+ Rule number: 24 [Performance=13.9215510204082 cover=49 (9%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=Y
+   StandardPageSize=N
+
+ Rule number: 53 [Performance=14.808847826087 cover=46 (8%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=N
+   ExclusiveLock=Y
+   StandardPageSize=N
+
+ Rule number: 60 [Performance=14.521027027027 cover=37 (7%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   AutoVacuumOff=N
+   SQLITE_TEMP_STOREone=N
+
+ Rule number: 4 [Performance=13.9120555555556 cover=36 (6%)]
+   SQLITE_TEMP_STOREzero=Y
+   AutoVacuumOff=Y
+
+ Rule number: 50 [Performance=14.2032 cover=35 (6%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=Y
+   StandardPageSize=Y
+   StandardCacheSize=N
+
+ Rule number: 5 [Performance=14.1268787878788 cover=33 (6%)]
+   SQLITE_TEMP_STOREzero=Y
+   AutoVacuumOff=N
+
+ Rule number: 105 [Performance=14.6551724137931 cover=29 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=N
+   ExclusiveLock=Y
+   StandardPageSize=Y
+   StandardCacheSize=N
+
+ Rule number: 61 [Performance=14.5691785714286 cover=28 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   AutoVacuumOff=N
+   SQLITE_TEMP_STOREone=Y
+
+ Rule number: 27 [Performance=15.0120714285714 cover=28 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=N
+   ExclusiveLock=N

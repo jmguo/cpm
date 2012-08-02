@@ -1,0 +1,16 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-01 20:55:47 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 2 [Performance=1200 cover=5 (56%) prob=1.00]
+   AccessLog=N
+
+ Rule number: 7 [Performance=1860 cover=2 (22%) prob=0.00]
+   AccessLog=Y
+   FollowSymLinks=N
+
+ Rule number: 6 [Performance=1110 cover=2 (22%) prob=0.00]
+   AccessLog=Y
+   FollowSymLinks=Y
