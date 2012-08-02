@@ -1,0 +1,21 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-01 20:57:52 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 5 [Performance=1080 cover=2 (22%) prob=1.00]
+   KeepAlive=N
+   EnableSendfile=N
+
+ Rule number: 7 [Performance=1770 cover=3 (33%) prob=0.00]
+   KeepAlive=Y
+   HostnameLookups=N
+
+ Rule number: 6 [Performance=1020 cover=2 (22%) prob=0.00]
+   KeepAlive=Y
+   HostnameLookups=Y
+
+ Rule number: 4 [Performance=960 cover=2 (22%) prob=0.00]
+   KeepAlive=N
+   EnableSendfile=Y

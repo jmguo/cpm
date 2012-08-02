@@ -1,0 +1,39 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-02 00:24:24 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 15 [Performance=260.872727272727 cover=11 (18%)]
+   inline=Y
+   licm=Y
+   iv_users=N
+
+ Rule number: 5 [Performance=239.289 cover=10 (16%)]
+   inline=N
+   gvn=Y
+
+ Rule number: 14 [Performance=254.915555555556 cover=9 (15%)]
+   inline=Y
+   licm=Y
+   iv_users=Y
+
+ Rule number: 12 [Performance=226.742222222222 cover=9 (15%)]
+   inline=Y
+   licm=N
+   instcombine=N
+
+ Rule number: 8 [Performance=219.261111111111 cover=9 (15%)]
+   inline=N
+   gvn=N
+   jump_threading=Y
+
+ Rule number: 13 [Performance=248.21 cover=8 (13%)]
+   inline=Y
+   licm=N
+   instcombine=Y
+
+ Rule number: 9 [Performance=228.886666666667 cover=6 (10%)]
+   inline=N
+   gvn=N
+   jump_threading=N

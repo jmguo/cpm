@@ -1,0 +1,45 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-02 11:32:50 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 11 [Performance=507.771714285714 cover=7 (15%)]
+   ref_9=N
+   ref_1=N
+   no_mixed_refs=N
+
+ Rule number: 10 [Performance=428.653714285714 cover=7 (15%)]
+   ref_9=N
+   ref_1=N
+   no_mixed_refs=Y
+
+ Rule number: 9 [Performance=295.349 cover=7 (15%)]
+   ref_9=N
+   ref_1=Y
+   no_mbtree=Y
+
+ Rule number: 15 [Performance=734.078333333333 cover=6 (12%)]
+   ref_9=Y
+   no_mixed_refs=N
+   no_fast_pskip=Y
+
+ Rule number: 8 [Performance=257.302 cover=6 (12%)]
+   ref_9=N
+   ref_1=Y
+   no_mbtree=N
+
+ Rule number: 14 [Performance=651.6514 cover=5 (10%)]
+   ref_9=Y
+   no_mixed_refs=N
+   no_fast_pskip=N
+
+ Rule number: 13 [Performance=641.97 cover=5 (10%)]
+   ref_9=Y
+   no_mixed_refs=Y
+   no_mbtree=Y
+
+ Rule number: 12 [Performance=572.712 cover=5 (10%)]
+   ref_9=Y
+   no_mixed_refs=Y
+   no_mbtree=N

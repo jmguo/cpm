@@ -1,0 +1,62 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-02 00:16:00 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 5 [Performance=243.333333333333 cover=3 (14%)]
+   licm=N
+   instcombine=Y
+
+ Rule number: 9 [Performance=213.413333333333 cover=3 (14%)]
+   licm=N
+   instcombine=N
+   jump_threading=N
+
+ Rule number: 63 [Performance=267.92 cover=2 (9%)]
+   licm=Y
+   inline=Y
+   ipsccp=N
+   print_used_types=N
+   gvn=N
+
+ Rule number: 62 [Performance=262.765 cover=2 (9%)]
+   licm=Y
+   inline=Y
+   ipsccp=N
+   print_used_types=N
+   gvn=Y
+
+ Rule number: 61 [Performance=260.365 cover=2 (9%)]
+   licm=Y
+   inline=Y
+   ipsccp=N
+   print_used_types=Y
+   sccp=Y
+
+ Rule number: 60 [Performance=249.195 cover=2 (9%)]
+   licm=Y
+   inline=Y
+   ipsccp=N
+   print_used_types=Y
+   sccp=N
+
+ Rule number: 14 [Performance=248.705 cover=2 (9%)]
+   licm=Y
+   inline=Y
+   ipsccp=Y
+
+ Rule number: 13 [Performance=245.2 cover=2 (9%)]
+   licm=Y
+   inline=N
+   ipsccp=N
+
+ Rule number: 12 [Performance=235.795 cover=2 (9%)]
+   licm=Y
+   inline=N
+   ipsccp=Y
+
+ Rule number: 8 [Performance=209.09 cover=2 (9%)]
+   licm=N
+   instcombine=N
+   jump_threading=Y

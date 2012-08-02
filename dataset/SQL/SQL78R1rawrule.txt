@@ -1,0 +1,36 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-02 10:31:52 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 29 [Performance=14.6198823529412 cover=17 (22%)]
+   SQLITE_DISABLE_LFS=N
+   StandardCacheSize=Y
+   ChooseSQLITE_TEMP_STORE=N
+   StandardPageSize=Y
+
+ Rule number: 30 [Performance=14.632 cover=15 (19%)]
+   SQLITE_DISABLE_LFS=N
+   StandardCacheSize=Y
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=N
+
+ Rule number: 2 [Performance=13.7782142857143 cover=14 (18%)]
+   SQLITE_DISABLE_LFS=Y
+
+ Rule number: 6 [Performance=14.1483846153846 cover=13 (17%)]
+   SQLITE_DISABLE_LFS=N
+   StandardCacheSize=N
+
+ Rule number: 28 [Performance=14.2406363636364 cover=11 (14%)]
+   SQLITE_DISABLE_LFS=N
+   StandardCacheSize=Y
+   ChooseSQLITE_TEMP_STORE=N
+   StandardPageSize=N
+
+ Rule number: 31 [Performance=15.587125 cover=8 (10%)]
+   SQLITE_DISABLE_LFS=N
+   StandardCacheSize=Y
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=Y

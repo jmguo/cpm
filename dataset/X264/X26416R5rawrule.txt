@@ -1,0 +1,40 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-02 11:27:43 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 12 [Performance=463.822333333333 cover=3 (19%)]
+   ref_1=N
+   rc_lookahead_40=N
+   no_cabac=N
+
+ Rule number: 5 [Performance=288.058666666667 cover=3 (19%)]
+   ref_1=Y
+   rc_lookahead_40=N
+
+ Rule number: 15 [Performance=675.2865 cover=2 (12%)]
+   ref_1=N
+   rc_lookahead_40=Y
+   no_cabac=Y
+
+ Rule number: 14 [Performance=596.5065 cover=2 (12%)]
+   ref_1=N
+   rc_lookahead_40=Y
+   no_cabac=N
+
+ Rule number: 27 [Performance=525.5915 cover=2 (12%)]
+   ref_1=N
+   rc_lookahead_40=N
+   no_cabac=Y
+   no_fast_pskip=Y
+
+ Rule number: 26 [Performance=521.01 cover=2 (12%)]
+   ref_1=N
+   rc_lookahead_40=N
+   no_cabac=Y
+   no_fast_pskip=N
+
+ Rule number: 4 [Performance=254.235 cover=2 (12%)]
+   ref_1=Y
+   rc_lookahead_40=Y

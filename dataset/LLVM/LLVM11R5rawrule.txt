@@ -1,0 +1,21 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-02 00:13:11 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 7 [Performance=254.663333333333 cover=3 (27%)]
+   licm=Y
+   inline=Y
+
+ Rule number: 6 [Performance=237.37 cover=3 (27%)]
+   licm=Y
+   inline=N
+
+ Rule number: 5 [Performance=234.873333333333 cover=3 (27%)]
+   licm=N
+   sccp=Y
+
+ Rule number: 4 [Performance=209.155 cover=2 (18%)]
+   licm=N
+   sccp=N

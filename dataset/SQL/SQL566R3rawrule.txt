@@ -1,0 +1,76 @@
+Time taken: 0.09 secs
+
+Rattle timestamp: 2012-08-02 11:06:50 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 67 [Performance=14.2209891304348 cover=92 (16%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREthree=N
+   StandardPageSize=Y
+   StandardCacheSize=Y
+
+ Rule number: 18 [Performance=14.2100694444444 cover=72 (13%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=Y
+
+ Rule number: 32 [Performance=13.945625 cover=64 (11%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREthree=N
+   StandardPageSize=N
+
+ Rule number: 76 [Performance=14.4610952380952 cover=63 (11%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=N
+   HigherCacheSize=N
+   StandardPageSize=Y
+
+ Rule number: 3 [Performance=15.0035344827586 cover=58 (10%)]
+   SQLITE_TEMP_STOREtwo=Y
+
+ Rule number: 77 [Performance=14.7225434782609 cover=46 (8%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=N
+   HigherCacheSize=N
+   StandardPageSize=N
+
+ Rule number: 66 [Performance=14.0133684210526 cover=38 (7%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREthree=N
+   StandardPageSize=Y
+   StandardCacheSize=N
+
+ Rule number: 11 [Performance=15.2433513513514 cover=37 (7%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=Y
+   StandardPageSize=Y
+
+ Rule number: 10 [Performance=14.3475 cover=34 (6%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=Y
+   StandardPageSize=N
+
+ Rule number: 17 [Performance=15.0945757575758 cover=33 (6%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=Y
+   SQLITE_TEMP_STOREthree=Y
+
+ Rule number: 39 [Performance=14.9898275862069 cover=29 (5%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=N
+   HigherCacheSize=Y

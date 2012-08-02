@@ -1,0 +1,27 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-02 00:11:29 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 7 [Performance=257.353333333333 cover=3 (27%)]
+   inline=Y
+   simplifycfg=Y
+
+ Rule number: 6 [Performance=238.41 cover=2 (18%)]
+   inline=Y
+   simplifycfg=N
+
+ Rule number: 5 [Performance=234.41 cover=2 (18%)]
+   inline=N
+   instcombine=Y
+
+ Rule number: 9 [Performance=229.215 cover=2 (18%)]
+   inline=N
+   instcombine=N
+   gvn=Y
+
+ Rule number: 8 [Performance=211.53 cover=2 (18%)]
+   inline=N
+   instcombine=N
+   gvn=N

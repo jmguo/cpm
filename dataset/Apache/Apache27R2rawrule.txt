@@ -1,0 +1,40 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-01 21:05:07 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 14 [Performance=1938 cover=5 (19%)]
+   KeepAlive=Y
+   Handle=N
+   InMemory=N
+
+ Rule number: 4 [Performance=1014 cover=5 (19%)]
+   KeepAlive=N
+   AccessLog=Y
+
+ Rule number: 15 [Performance=2190 cover=4 (15%)]
+   KeepAlive=Y
+   Handle=N
+   InMemory=Y
+
+ Rule number: 6 [Performance=1132.5 cover=4 (15%)]
+   KeepAlive=Y
+   Handle=Y
+
+ Rule number: 11 [Performance=1400 cover=3 (11%)]
+   KeepAlive=N
+   AccessLog=N
+   InMemory=Y
+
+ Rule number: 21 [Performance=1170 cover=3 (11%)]
+   KeepAlive=N
+   AccessLog=N
+   InMemory=N
+   ExtendedStatus=N
+
+ Rule number: 20 [Performance=1100 cover=3 (11%)]
+   KeepAlive=N
+   AccessLog=N
+   InMemory=N
+   ExtendedStatus=Y

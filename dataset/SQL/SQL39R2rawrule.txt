@@ -1,0 +1,51 @@
+Time taken: 0.05 secs
+
+Rattle timestamp: 2012-08-02 10:26:53 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 80 [Performance=14.01675 cover=8 (21%)]
+   HighestPageSize=N
+   SQLITE_OMIT_XFER_OPT=N
+   SQLITE_OMIT_BTREECOUNT=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   SQLITE_DISABLE_DIRSYNC=N
+   StandardCacheSize=Y
+
+ Rule number: 4 [Performance=13.759 cover=7 (18%)]
+   HighestPageSize=N
+   SQLITE_OMIT_XFER_OPT=Y
+
+ Rule number: 7 [Performance=15.185 cover=4 (10%)]
+   HighestPageSize=Y
+   SQLITE_DISABLE_LFS=N
+
+ Rule number: 6 [Performance=14.449 cover=4 (10%)]
+   HighestPageSize=Y
+   SQLITE_DISABLE_LFS=Y
+
+ Rule number: 11 [Performance=15.04125 cover=4 (10%)]
+   HighestPageSize=N
+   SQLITE_OMIT_XFER_OPT=N
+   SQLITE_OMIT_BTREECOUNT=Y
+
+ Rule number: 21 [Performance=14.7335 cover=4 (10%)]
+   HighestPageSize=N
+   SQLITE_OMIT_XFER_OPT=N
+   SQLITE_OMIT_BTREECOUNT=N
+   SQLITE_OMIT_SHARED_CACHE=Y
+
+ Rule number: 41 [Performance=14.43525 cover=4 (10%)]
+   HighestPageSize=N
+   SQLITE_OMIT_XFER_OPT=N
+   SQLITE_OMIT_BTREECOUNT=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   SQLITE_DISABLE_DIRSYNC=Y
+
+ Rule number: 81 [Performance=14.42225 cover=4 (10%)]
+   HighestPageSize=N
+   SQLITE_OMIT_XFER_OPT=N
+   SQLITE_OMIT_BTREECOUNT=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   SQLITE_DISABLE_DIRSYNC=N
+   StandardCacheSize=N

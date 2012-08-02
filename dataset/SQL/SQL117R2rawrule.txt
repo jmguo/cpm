@@ -1,0 +1,99 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-02 10:58:53 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 97 [Performance=14.3013333333333 cover=12 (10%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=N
+   ExclusiveLock=Y
+   SQLITE_SECURE_DELETE=N
+   StandardPageSize=Y
+   AutoVacuumOff=Y
+
+ Rule number: 49 [Performance=14.4316363636364 cover=11 (9%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=N
+   ExclusiveLock=Y
+   SQLITE_SECURE_DELETE=N
+   StandardPageSize=N
+
+ Rule number: 10 [Performance=14.1788181818182 cover=11 (9%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=Y
+   SQLITE_OMIT_LOOKASIDE=Y
+   SQLITE_OMIT_QUICKBALANCE=Y
+
+ Rule number: 61 [Performance=15.1554 cover=10 (9%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=Y
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   SQLITE_TEMP_STOREone=N
+
+ Rule number: 25 [Performance=14.7399 cover=10 (9%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=N
+   ExclusiveLock=Y
+   SQLITE_SECURE_DELETE=Y
+
+ Rule number: 29 [Performance=14.5642857142857 cover=7 (6%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=N
+   SQLITE_TEMP_STOREtwo=Y
+
+ Rule number: 56 [Performance=14.1684285714286 cover=7 (6%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=N
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=N
+
+ Rule number: 9 [Performance=13.862 cover=7 (6%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=Y
+   SQLITE_OMIT_LOOKASIDE=N
+   AutoVacuumOff=Y
+
+ Rule number: 31 [Performance=15.7103333333333 cover=6 (5%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=Y
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=Y
+
+ Rule number: 60 [Performance=15.0771666666667 cover=6 (5%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=Y
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   SQLITE_TEMP_STOREone=Y
+
+ Rule number: 57 [Performance=14.3183333333333 cover=6 (5%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=Y
+   AutoVacuumOff=N
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_TEMP_STOREone=Y
+
+ Rule number: 13 [Performance=15.0078333333333 cover=6 (5%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=N
+   ExclusiveLock=N
+
+ Rule number: 96 [Performance=13.7456666666667 cover=6 (5%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=N
+   ChooseSQLITE_TEMP_STORE=N
+   ExclusiveLock=Y
+   SQLITE_SECURE_DELETE=N
+   StandardPageSize=Y
+   AutoVacuumOff=N
+
+ Rule number: 11 [Performance=14.5033333333333 cover=6 (5%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=Y
+   SQLITE_OMIT_LOOKASIDE=Y
+   SQLITE_OMIT_QUICKBALANCE=N
+
+ Rule number: 8 [Performance=13.8288333333333 cover=6 (5%)]
+   SQLITE_OMIT_LIKE_OPTIMIZATION=Y
+   SQLITE_OMIT_LOOKASIDE=N
+   AutoVacuumOff=N

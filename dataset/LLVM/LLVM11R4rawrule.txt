@@ -1,0 +1,27 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-02 00:12:19 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 6 [Performance=247.576666666667 cover=3 (27%)]
+   gvn=Y
+   simplifycfg=Y
+
+ Rule number: 15 [Performance=250.645 cover=2 (18%)]
+   gvn=Y
+   simplifycfg=N
+   iv_users=Y
+
+ Rule number: 14 [Performance=248.205 cover=2 (18%)]
+   gvn=Y
+   simplifycfg=N
+   iv_users=N
+
+ Rule number: 5 [Performance=246.765 cover=2 (18%)]
+   gvn=N
+   sccp=N
+
+ Rule number: 4 [Performance=214.165 cover=2 (18%)]
+   gvn=N
+   sccp=Y

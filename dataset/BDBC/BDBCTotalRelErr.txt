@@ -1,0 +1,17 @@
+
+       N                 2N                3N        
+ Min.   : 0.0000   Min.   : 0.0000   Min.   :0.0000  
+ 1st Qu.: 0.1214   1st Qu.: 0.1318   1st Qu.:0.0445  
+ Median : 0.3216   Median : 0.3418   Median :0.2486  
+ Mean   : 1.1238   Mean   : 0.9831   Mean   :0.4678  
+ 3rd Qu.: 0.7771   3rd Qu.: 0.7285   3rd Qu.:0.4867  
+ Max.   :40.9802   Max.   :20.2744   Max.   :5.2725  
+                   NA's   :90        NA's   :180     
+       I2        
+ Min.   :0.0000  
+ 1st Qu.:0.0068  
+ Median :0.0197  
+ Mean   :0.0780  
+ 3rd Qu.:0.0781  
+ Max.   :0.8479  
+ NA's   :605     

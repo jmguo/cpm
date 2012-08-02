@@ -1,0 +1,21 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-01 20:56:44 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 6 [Performance=1800 cover=2 (22%) prob=1.00]
+   ExtendedStatus=Y
+   AccessLog=Y
+
+ Rule number: 7 [Performance=2130 cover=2 (22%) prob=0.00]
+   ExtendedStatus=Y
+   AccessLog=N
+
+ Rule number: 5 [Performance=2190 cover=3 (33%) prob=0.00]
+   ExtendedStatus=N
+   KeepAlive=Y
+
+ Rule number: 4 [Performance=900 cover=2 (22%) prob=0.00]
+   ExtendedStatus=N
+   KeepAlive=N

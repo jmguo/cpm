@@ -1,0 +1,39 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-01 21:45:26 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 6 [Performance=4846.5 cover=10 (19%)]
+   Finest=Y
+   S100MiB=Y
+
+ Rule number: 10 [Performance=5285.125 cover=8 (15%)]
+   Finest=N
+   S100MiB=N
+   Statistics=N
+
+ Rule number: 9 [Performance=3299.75 cover=8 (15%)]
+   Finest=N
+   S100MiB=Y
+   Verifier=Y
+
+ Rule number: 8 [Performance=3164.875 cover=8 (15%)]
+   Finest=N
+   S100MiB=Y
+   Verifier=N
+
+ Rule number: 15 [Performance=15543.1666666667 cover=6 (12%)]
+   Finest=Y
+   S100MiB=N
+   Verifier=N
+
+ Rule number: 14 [Performance=14998.6666666667 cover=6 (12%)]
+   Finest=Y
+   S100MiB=N
+   Verifier=Y
+
+ Rule number: 11 [Performance=5368.83333333333 cover=6 (12%)]
+   Finest=N
+   S100MiB=N
+   Statistics=Y
