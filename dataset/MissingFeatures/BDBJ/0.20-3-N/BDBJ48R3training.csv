@@ -1,0 +1,17 @@
+Base,Persistence,IO,OldIO,NewIO,NIOBase,NIOType,ChunkedNIO,SingleWriteNIO,DirectNIO,LogSize,S100MiB,S1MiB,Checksum,BTreeFeatures,INCompressor,IEvictor,Evictor,Critical_Eviction,Verifier,ITracing,Tracing,TracingLevel,Severe,Finest,Statistics,Performance
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,N,14638
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,4903
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,Y,5338
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,14562
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,5241
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,4881
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,4768
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y,3398
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,14905
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,4787
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,N,Y,Y,Y,N,N,N,N,N,N,N,3451
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,N,Y,Y,Y,N,N,N,N,N,N,N,5231
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,N,Y,Y,Y,N,N,N,N,N,N,Y,5289
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,Y,3333
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y,5304
+Y,Y,Y,Y,N,N,N,N,N,N,Y,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,N,4714

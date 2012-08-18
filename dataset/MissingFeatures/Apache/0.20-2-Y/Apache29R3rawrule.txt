@@ -1,0 +1,27 @@
+Time taken: 0.01 secs
+
+Rattle timestamp: 2012-08-10 10:58:07 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 5 [Performance=2088 cover=5 (28%)]
+   AccessLog=Y
+   HostnameLookups=N
+
+ Rule number: 6 [Performance=2325 cover=4 (22%)]
+   AccessLog=N
+   ExtendedStatus=Y
+
+ Rule number: 7 [Performance=2510 cover=3 (17%)]
+   AccessLog=N
+   ExtendedStatus=N
+
+ Rule number: 9 [Performance=2020 cover=3 (17%)]
+   AccessLog=Y
+   HostnameLookups=Y
+   ExtendedStatus=N
+
+ Rule number: 8 [Performance=1880 cover=3 (17%)]
+   AccessLog=Y
+   HostnameLookups=Y
+   ExtendedStatus=Y

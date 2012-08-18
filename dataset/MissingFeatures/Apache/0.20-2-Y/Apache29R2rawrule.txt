@@ -1,0 +1,45 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 10:57:25 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 15 [Performance=2268 cover=5 (17%)]
+   Handle=N
+   InMemory=Y
+   AccessLog=N
+
+ Rule number: 13 [Performance=1968 cover=5 (17%)]
+   Handle=N
+   InMemory=N
+   AccessLog=N
+
+ Rule number: 14 [Performance=1987.5 cover=4 (14%)]
+   Handle=N
+   InMemory=Y
+   AccessLog=Y
+
+ Rule number: 12 [Performance=1700 cover=3 (10%)]
+   Handle=N
+   InMemory=N
+   AccessLog=Y
+
+ Rule number: 11 [Performance=1340 cover=3 (10%)]
+   Handle=Y
+   FollowSymLinks=N
+   EnableSendfile=Y
+
+ Rule number: 10 [Performance=1170 cover=3 (10%)]
+   Handle=Y
+   FollowSymLinks=N
+   EnableSendfile=N
+
+ Rule number: 9 [Performance=1200 cover=3 (10%)]
+   Handle=Y
+   FollowSymLinks=Y
+   AccessLog=Y
+
+ Rule number: 8 [Performance=1130 cover=3 (10%)]
+   Handle=Y
+   FollowSymLinks=Y
+   AccessLog=N

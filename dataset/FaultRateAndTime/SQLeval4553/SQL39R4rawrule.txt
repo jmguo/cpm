@@ -1,0 +1,42 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-02 10:28:59 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 3 [Performance=15.0588333333333 cover=6 (15%)]
+   SQLITE_TEMP_STOREtwo=Y
+
+ Rule number: 23 [Performance=14.9306666666667 cover=6 (15%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=N
+
+ Rule number: 22 [Performance=14.3776666666667 cover=6 (15%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   AutoVacuumOff=N
+   ChooseSQLITE_TEMP_STORE=Y
+
+ Rule number: 20 [Performance=13.6666666666667 cover=6 (15%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   AutoVacuumOff=Y
+   SQLITE_ENABLE_STAT2=N
+
+ Rule number: 9 [Performance=13.8765 cover=6 (15%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_SHARED_CACHE=Y
+   StandardCacheSize=Y
+
+ Rule number: 21 [Performance=14.561 cover=5 (13%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   AutoVacuumOff=Y
+   SQLITE_ENABLE_STAT2=Y
+
+ Rule number: 8 [Performance=13.72425 cover=4 (10%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_SHARED_CACHE=Y
+   StandardCacheSize=N

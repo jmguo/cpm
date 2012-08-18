@@ -1,0 +1,11 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 10:53:28 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 3 [Performance=1230 cover=4 (57%) prob=1.00]
+   HostnameLookups=N
+
+ Rule number: 2 [Performance=1770 cover=3 (43%) prob=0.00]
+   HostnameLookups=Y

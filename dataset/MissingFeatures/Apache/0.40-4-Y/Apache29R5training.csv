@@ -1,0 +1,8 @@
+Base,HostnameLookups,KeepAlive,EnableSendfile,FollowSymLinks,AccessLog,ExtendedStatus,InMemory,Handle,Performance
+Y,N,Y,Y,Y,Y,Y,Y,N,2070
+Y,N,Y,Y,N,Y,Y,N,Y,1230
+Y,N,Y,Y,N,Y,Y,N,N,1830
+Y,Y,Y,Y,Y,Y,Y,N,N,1800
+Y,N,Y,Y,Y,Y,Y,N,N,1890
+Y,Y,Y,Y,N,Y,Y,N,N,1770
+Y,Y,Y,Y,Y,Y,Y,Y,N,1860

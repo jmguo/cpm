@@ -1,0 +1,10 @@
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,rc_lookahead_40,rc_lookahead_60,ref,ref_1,ref_5,ref_9,Performance
+Y,N,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,295.410
+Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,279.247
+Y,N,Y,Y,Y,Y,Y,N,Y,N,N,Y,Y,Y,N,N,299.677
+Y,Y,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y,N,N,275.390
+Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,275.460
+Y,N,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y,N,N,295.620
+Y,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,Y,N,N,279.853
+Y,N,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,N,N,295.683
+Y,Y,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y,N,N,275.987

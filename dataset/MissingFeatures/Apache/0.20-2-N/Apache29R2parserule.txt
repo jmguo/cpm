@@ -1,0 +1,7 @@
+3Y 9N 6Y 
+3N 6N 7N 
+3N 6Y 9N 
+3Y 9N 6N 
+3Y 9Y 
+3N 6N 7Y 
+3N 6Y 9Y 

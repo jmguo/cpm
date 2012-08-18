@@ -1,0 +1,11 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-10 12:54:47 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 3 [Performance=483.968090909091 cover=11 (58%)]
+   no_weightb=Y
+
+ Rule number: 2 [Performance=362.022125 cover=8 (42%)]
+   no_weightb=N

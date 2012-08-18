@@ -1,0 +1,16 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 13:57:46 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 3 [Performance=4902.83333333333 cover=6 (38%)]
+   Finest=Y
+
+ Rule number: 5 [Performance=3308.2 cover=5 (31%)]
+   Finest=N
+   ITracing=Y
+
+ Rule number: 4 [Performance=3262 cover=5 (31%)]
+   Finest=N
+   ITracing=N

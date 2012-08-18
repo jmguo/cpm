@@ -1,0 +1,52 @@
+Time taken: 0.04 secs
+
+Rattle timestamp: 2012-08-02 10:32:51 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 43 [Performance=14.4465714285714 cover=14 (18%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_QUICKBALANCE=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=N
+   StandardPageSize=Y
+
+ Rule number: 3 [Performance=15.2927272727273 cover=11 (14%)]
+   SQLITE_TEMP_STOREtwo=Y
+
+ Rule number: 42 [Performance=14.3467 cover=10 (13%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_QUICKBALANCE=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=N
+   StandardPageSize=N
+
+ Rule number: 22 [Performance=14.7618888888889 cover=9 (12%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_QUICKBALANCE=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_TEMP_STOREone=N
+
+ Rule number: 41 [Performance=14.3206666666667 cover=9 (12%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_QUICKBALANCE=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=Y
+   StandardCacheSize=Y
+
+ Rule number: 4 [Performance=13.7512222222222 cover=9 (12%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_QUICKBALANCE=Y
+
+ Rule number: 23 [Performance=14.939625 cover=8 (10%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_QUICKBALANCE=N
+   ChooseSQLITE_TEMP_STORE=Y
+   SQLITE_TEMP_STOREone=Y
+
+ Rule number: 40 [Performance=13.764 cover=8 (10%)]
+   SQLITE_TEMP_STOREtwo=N
+   SQLITE_OMIT_QUICKBALANCE=N
+   ChooseSQLITE_TEMP_STORE=N
+   AutoVacuumOff=Y
+   StandardCacheSize=N

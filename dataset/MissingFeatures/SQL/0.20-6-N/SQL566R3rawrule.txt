@@ -1,0 +1,50 @@
+Time taken: 0.05 secs
+
+Rattle timestamp: 2012-08-10 17:25:33 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 30 [Performance=14.8720869565217 cover=46 (22%)]
+   SQLITE_TEMP_STOREzero=N
+   AutoVacuumOn=Y
+   ChooseSQLITE_TEMP_STORE=N
+   StandardPageSize=Y
+
+ Rule number: 51 [Performance=14.0749032258064 cover=31 (15%)]
+   SQLITE_TEMP_STOREzero=N
+   AutoVacuumOn=N
+   ChooseSQLITE_TEMP_STORE=N
+   SQLITE_SECURE_DELETE=N
+   StandardPageSize=Y
+
+ Rule number: 14 [Performance=14.2917586206897 cover=29 (14%)]
+   SQLITE_TEMP_STOREzero=N
+   AutoVacuumOn=Y
+   ChooseSQLITE_TEMP_STORE=Y
+
+ Rule number: 13 [Performance=15.0295172413793 cover=29 (14%)]
+   SQLITE_TEMP_STOREzero=N
+   AutoVacuumOn=N
+   ChooseSQLITE_TEMP_STORE=Y
+
+ Rule number: 31 [Performance=15.1937826086956 cover=23 (11%)]
+   SQLITE_TEMP_STOREzero=N
+   AutoVacuumOn=Y
+   ChooseSQLITE_TEMP_STORE=N
+   StandardPageSize=N
+
+ Rule number: 50 [Performance=13.9575 cover=22 (11%)]
+   SQLITE_TEMP_STOREzero=N
+   AutoVacuumOn=N
+   ChooseSQLITE_TEMP_STORE=N
+   SQLITE_SECURE_DELETE=N
+   StandardPageSize=N
+
+ Rule number: 2 [Performance=13.7472941176471 cover=17 (8%)]
+   SQLITE_TEMP_STOREzero=Y
+
+ Rule number: 24 [Performance=13.8721 cover=10 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   AutoVacuumOn=N
+   ChooseSQLITE_TEMP_STORE=N
+   SQLITE_SECURE_DELETE=Y

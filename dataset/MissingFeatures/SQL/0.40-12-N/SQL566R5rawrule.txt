@@ -1,0 +1,129 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-10 17:50:05 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 835 [Performance=14.4569090909091 cover=11 (9%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   StandardCacheSize=Y
+   SQLITE_OMIT_QUICKBALANCE=N
+   SQLITE_OMIT_XFER_OPT=N
+
+ Rule number: 2 [Performance=13.6142727272727 cover=11 (9%)]
+   SQLITE_TEMP_STOREzero=Y
+
+ Rule number: 55 [Performance=15.0508 cover=10 (8%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=Y
+   HigherPageSize=N
+
+ Rule number: 15 [Performance=14.870875 cover=8 (7%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=N
+   HighestPageSize=N
+
+ Rule number: 212 [Performance=14.492 cover=8 (7%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=Y
+   SQLITE_OMIT_XFER_OPT=N
+   SQLITE_OMIT_SHARED_CACHE=N
+
+ Rule number: 107 [Performance=14.6197142857143 cover=7 (6%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=Y
+   SQLITE_OMIT_XFER_OPT=Y
+
+ Rule number: 210 [Performance=14.4658571428571 cover=7 (6%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=N
+   SQLITE_OMIT_SHARED_CACHE=Y
+   HigherPageSize=Y
+
+ Rule number: 416 [Performance=14.1075714285714 cover=7 (6%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   StandardCacheSize=Y
+   SQLITE_OMIT_QUICKBALANCE=Y
+
+ Rule number: 25 [Performance=14.3954285714286 cover=7 (6%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=Y
+   LowerPageSize=N
+
+ Rule number: 24 [Performance=13.9545714285714 cover=7 (6%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=Y
+   LowerPageSize=Y
+
+ Rule number: 14 [Performance=14.8273333333333 cover=6 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=N
+   HighestPageSize=Y
+
+ Rule number: 54 [Performance=14.217 cover=6 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=Y
+   HigherPageSize=Y
+
+ Rule number: 213 [Performance=14.5538333333333 cover=6 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=Y
+   SQLITE_OMIT_XFER_OPT=N
+   SQLITE_OMIT_SHARED_CACHE=Y
+
+ Rule number: 211 [Performance=14.4975 cover=6 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=N
+   SQLITE_OMIT_SHARED_CACHE=Y
+   HigherPageSize=N
+
+ Rule number: 209 [Performance=14.4993333333333 cover=6 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   StandardCacheSize=N
+
+ Rule number: 834 [Performance=14.0168333333333 cover=6 (5%)]
+   SQLITE_TEMP_STOREzero=N
+   ExclusiveLock=Y
+   SQLITE_TEMP_STOREthree=N
+   SQLITE_OMIT_BETWEEN_OPTIMIZATION=N
+   LowerPageSize=N
+   SQLITE_OMIT_SHARED_CACHE=N
+   StandardCacheSize=Y
+   SQLITE_OMIT_QUICKBALANCE=N
+   SQLITE_OMIT_XFER_OPT=Y

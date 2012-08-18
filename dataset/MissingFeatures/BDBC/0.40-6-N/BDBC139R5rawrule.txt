@@ -1,0 +1,60 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 13:31:46 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 7 [Performance=1.26597272727273 cover=11 (13%)]
+   PS16K=Y
+   HAVE_HASH=Y
+
+ Rule number: 8 [Performance=0.377554545454545 cover=11 (13%)]
+   PS16K=N
+   PS1K=Y
+   HAVE_HASH=Y
+
+ Rule number: 23 [Performance=0.76307 cover=10 (12%)]
+   PS16K=N
+   PS1K=N
+   HAVE_HASH=Y
+   DIAGNOSTIC=Y
+
+ Rule number: 21 [Performance=0.51451 cover=10 (12%)]
+   PS16K=N
+   PS1K=N
+   HAVE_HASH=N
+   DIAGNOSTIC=Y
+
+ Rule number: 18 [Performance=0.51983 cover=10 (12%)]
+   PS16K=N
+   PS1K=Y
+   HAVE_HASH=N
+   DIAGNOSTIC=N
+
+ Rule number: 20 [Performance=0.5024875 cover=8 (9%)]
+   PS16K=N
+   PS1K=N
+   HAVE_HASH=N
+   DIAGNOSTIC=N
+
+ Rule number: 13 [Performance=0.646514285714286 cover=7 (8%)]
+   PS16K=Y
+   HAVE_HASH=N
+   HAVE_VERIFY=Y
+
+ Rule number: 12 [Performance=0.631885714285714 cover=7 (8%)]
+   PS16K=Y
+   HAVE_HASH=N
+   HAVE_VERIFY=N
+
+ Rule number: 22 [Performance=0.7471 cover=6 (7%)]
+   PS16K=N
+   PS1K=N
+   HAVE_HASH=Y
+   DIAGNOSTIC=N
+
+ Rule number: 19 [Performance=0.57418 cover=5 (6%)]
+   PS16K=N
+   PS1K=Y
+   HAVE_HASH=N
+   DIAGNOSTIC=Y

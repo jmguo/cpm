@@ -1,0 +1,82 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 13:16:25 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 16 [Performance=0.476647619047619 cover=21 (15%)]
+   HAVE_CRYPTO=N
+   PS32K=N
+   PS16K=N
+   PS1K=Y
+
+ Rule number: 25 [Performance=10.8022705882353 cover=17 (12%)]
+   HAVE_CRYPTO=Y
+   PS32K=N
+   PS16K=N
+   PS1K=N
+
+ Rule number: 11 [Performance=2.21785833333333 cover=12 (9%)]
+   HAVE_CRYPTO=N
+   PS32K=Y
+   HAVE_HASH=Y
+
+ Rule number: 34 [Performance=0.511591666666667 cover=12 (9%)]
+   HAVE_CRYPTO=N
+   PS32K=N
+   PS16K=N
+   PS1K=N
+   HAVE_HASH=N
+
+ Rule number: 27 [Performance=21.2560090909091 cover=11 (8%)]
+   HAVE_CRYPTO=Y
+   PS32K=N
+   PS16K=Y
+   HAVE_HASH=Y
+
+ Rule number: 9 [Performance=0.929772727272727 cover=11 (8%)]
+   HAVE_CRYPTO=N
+   PS32K=N
+   PS16K=Y
+
+ Rule number: 15 [Performance=38.94646 cover=10 (7%)]
+   HAVE_CRYPTO=Y
+   PS32K=Y
+   HAVE_HASH=Y
+
+ Rule number: 14 [Performance=37.72435 cover=10 (7%)]
+   HAVE_CRYPTO=Y
+   PS32K=Y
+   HAVE_HASH=N
+
+ Rule number: 35 [Performance=0.754588888888889 cover=9 (6%)]
+   HAVE_CRYPTO=N
+   PS32K=N
+   PS16K=N
+   PS1K=N
+   HAVE_HASH=Y
+
+ Rule number: 49 [Performance=3.2743625 cover=8 (6%)]
+   HAVE_CRYPTO=Y
+   PS32K=N
+   PS16K=N
+   PS1K=Y
+   HAVE_HASH=N
+
+ Rule number: 26 [Performance=19.9659714285714 cover=7 (5%)]
+   HAVE_CRYPTO=Y
+   PS32K=N
+   PS16K=Y
+   HAVE_HASH=N
+
+ Rule number: 48 [Performance=2.06271666666667 cover=6 (4%)]
+   HAVE_CRYPTO=Y
+   PS32K=N
+   PS16K=N
+   PS1K=Y
+   HAVE_HASH=Y
+
+ Rule number: 10 [Performance=0.91716 cover=5 (4%)]
+   HAVE_CRYPTO=N
+   PS32K=Y
+   HAVE_HASH=N

@@ -1,0 +1,112 @@
+Time taken: 0.03 secs
+
+Rattle timestamp: 2012-08-10 13:17:40 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 10 [Performance=0.632276923076923 cover=13 (9%)]
+   PS32K=N
+   PS16K=Y
+   HAVE_HASH=N
+
+ Rule number: 11 [Performance=1.28305833333333 cover=12 (9%)]
+   PS32K=N
+   PS16K=Y
+   HAVE_HASH=Y
+
+ Rule number: 7 [Performance=2.19429090909091 cover=11 (8%)]
+   PS32K=Y
+   HAVE_HASH=Y
+
+ Rule number: 66 [Performance=0.4441 cover=11 (8%)]
+   PS32K=N
+   PS16K=N
+   PS8K=N
+   DIAGNOSTIC=N
+   PS1K=N
+   HAVE_HASH=N
+
+ Rule number: 32 [Performance=0.421318181818182 cover=11 (8%)]
+   PS32K=N
+   PS16K=N
+   PS8K=N
+   DIAGNOSTIC=N
+   PS1K=Y
+
+ Rule number: 37 [Performance=0.51203 cover=10 (7%)]
+   PS32K=N
+   PS16K=N
+   PS8K=Y
+   HAVE_HASH=N
+   HAVE_VERIFY=Y
+
+ Rule number: 69 [Performance=0.537488888888889 cover=9 (6%)]
+   PS32K=N
+   PS16K=N
+   PS8K=N
+   DIAGNOSTIC=Y
+   HAVE_HASH=Y
+   PS1K=N
+
+ Rule number: 13 [Performance=0.9523125 cover=8 (6%)]
+   PS32K=Y
+   HAVE_HASH=N
+   DIAGNOSTIC=Y
+
+ Rule number: 38 [Performance=0.75705 cover=8 (6%)]
+   PS32K=N
+   PS16K=N
+   PS8K=Y
+   HAVE_HASH=Y
+   DIAGNOSTIC=N
+
+ Rule number: 70 [Performance=0.468125 cover=8 (6%)]
+   PS32K=N
+   PS16K=N
+   PS8K=N
+   DIAGNOSTIC=Y
+   HAVE_HASH=N
+   PS1K=N
+
+ Rule number: 67 [Performance=0.517625 cover=8 (6%)]
+   PS32K=N
+   PS16K=N
+   PS8K=N
+   DIAGNOSTIC=N
+   PS1K=N
+   HAVE_HASH=Y
+
+ Rule number: 12 [Performance=0.926816666666667 cover=6 (4%)]
+   PS32K=Y
+   HAVE_HASH=N
+   DIAGNOSTIC=N
+
+ Rule number: 39 [Performance=0.7774 cover=6 (4%)]
+   PS32K=N
+   PS16K=N
+   PS8K=Y
+   HAVE_HASH=Y
+   DIAGNOSTIC=Y
+
+ Rule number: 36 [Performance=0.49555 cover=6 (4%)]
+   PS32K=N
+   PS16K=N
+   PS8K=Y
+   HAVE_HASH=N
+   HAVE_VERIFY=N
+
+ Rule number: 71 [Performance=0.577116666666667 cover=6 (4%)]
+   PS32K=N
+   PS16K=N
+   PS8K=N
+   DIAGNOSTIC=Y
+   HAVE_HASH=N
+   PS1K=Y
+
+ Rule number: 68 [Performance=0.3845 cover=6 (4%)]
+   PS32K=N
+   PS16K=N
+   PS8K=N
+   DIAGNOSTIC=Y
+   HAVE_HASH=Y
+   PS1K=Y

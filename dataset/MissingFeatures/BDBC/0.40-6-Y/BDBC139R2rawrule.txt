@@ -1,0 +1,11 @@
+Time taken: 0.01 secs
+
+Rattle timestamp: 2012-08-10 13:38:31 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 3 [Performance=21.2425666666667 cover=6 (50%)]
+   HAVE_STATISTICS=N
+
+ Rule number: 2 [Performance=21.1886666666667 cover=6 (50%)]
+   HAVE_STATISTICS=Y
