@@ -1,0 +1,9 @@
+Base,Persistence,IO,OldIO,NewIO,NIOBase,NIOType,ChunkedNIO,SingleWriteNIO,DirectNIO,LogSize,S100MiB,S1MiB,Checksum,BTreeFeatures,INCompressor,IEvictor,Evictor,Critical_Eviction,Verifier,ITracing,Tracing,TracingLevel,Severe,Finest,Statistics,Performance
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,14562
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,N,N,5228
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,14580
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,14786
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,N,Y,5328
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,N,5220
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,5310
+Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,N,Y,N,14638

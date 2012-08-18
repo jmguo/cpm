@@ -1,0 +1,21 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 11:54:52 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 5 [Performance=470.417 cover=11 (28%)]
+   ref_5=Y
+   no_mixed_refs=N
+
+ Rule number: 7 [Performance=653.3364 cover=10 (26%)]
+   ref_5=N
+   no_mixed_refs=N
+
+ Rule number: 4 [Performance=400.5003 cover=10 (26%)]
+   ref_5=Y
+   no_mixed_refs=Y
+
+ Rule number: 6 [Performance=533.728875 cover=8 (21%)]
+   ref_5=N
+   no_mixed_refs=Y

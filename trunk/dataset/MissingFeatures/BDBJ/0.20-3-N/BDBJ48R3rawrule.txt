@@ -1,0 +1,11 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 14:04:53 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 3 [Performance=8813.5 cover=8 (50%)]
+   S100MiB=N
+
+ Rule number: 2 [Performance=4279.375 cover=8 (50%)]
+   S100MiB=Y

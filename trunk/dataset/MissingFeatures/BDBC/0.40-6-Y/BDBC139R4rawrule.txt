@@ -1,0 +1,11 @@
+Time taken: 0.02 secs
+
+Rattle timestamp: 2012-08-10 13:39:45 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 3 [Performance=19.965 cover=3 (50%) prob=1.00]
+   CS16MB=N
+
+ Rule number: 2 [Performance=19.9592 cover=3 (50%) prob=0.00]
+   CS16MB=Y

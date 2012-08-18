@@ -1,0 +1,16 @@
+Time taken: 0.01 secs
+
+Rattle timestamp: 2012-08-10 14:09:23 James
+======================================================================
+Tree as rules: 
+
+ Rule number: 7 [Performance=5461 cover=8 (36%)]
+   S100MiB=N
+   DirectNIO=Y
+
+ Rule number: 2 [Performance=3200 cover=8 (36%)]
+   S100MiB=Y
+
+ Rule number: 6 [Performance=5272.33333333333 cover=6 (27%)]
+   S100MiB=N
+   DirectNIO=N
