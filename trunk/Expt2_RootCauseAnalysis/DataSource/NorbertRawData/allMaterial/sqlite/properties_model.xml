@@ -1,0 +1,21 @@
+<NfpModel>
+  <DirectlyAssigned />
+  <Inferred />
+  <Runtime>
+    <Performance>
+      <measurement name="SQLite Measurement" type="runtime">
+        <appFile>C:\Workspace\CaseStudies_Performance\sqlite-src-3070400\ReadMakeResult.exe</appFile>
+        <envVariables>
+        </envVariables>
+        <startArgs>
+        </startArgs>
+        <execProcedurePerFeature>FALSE</execProcedurePerFeature>
+        <inclFiles />
+        <outputPattern outputType="XML-based">
+          <XmlFile>$appFolder\result.xml</XmlFile>
+          <XpathExpr>//results</XpathExpr>
+        </outputPattern>
+      </measurement>
+    </Performance>
+  </Runtime>
+</NfpModel>

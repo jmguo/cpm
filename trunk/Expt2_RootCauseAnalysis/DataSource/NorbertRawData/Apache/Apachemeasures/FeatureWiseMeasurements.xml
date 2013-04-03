@@ -1,0 +1,38 @@
+<results>
+  <row>
+    <data columname="Configuration">Base,</data>
+    <data columname="Measured Value">1200</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Handle,</data>
+    <data columname="Measured Value">1230</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,EnableSendfile,</data>
+    <data columname="Measured Value">1320</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,KeepAlive,</data>
+    <data columname="Measured Value">2040</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,ExtendedStatus,</data>
+    <data columname="Measured Value">1110</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,HostnameLookups,</data>
+    <data columname="Measured Value">990</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,AccessLog,</data>
+    <data columname="Measured Value">1080</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,InMemory,</data>
+    <data columname="Measured Value">1410</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,FollowSymLinks,</data>
+    <data columname="Measured Value">1200</data>
+  </row>
+</results>

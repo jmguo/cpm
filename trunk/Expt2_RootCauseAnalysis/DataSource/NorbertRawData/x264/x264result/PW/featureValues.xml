@@ -1,0 +1,147 @@
+<results>
+  <row>
+    <data columnname="Name">no_asm</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">no_8x8dct</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-14,186</data>
+  </row>
+  <row>
+    <data columnname="Name">no_cabac</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-8,428</data>
+  </row>
+  <row>
+    <data columnname="Name">no_deblock</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,752</data>
+  </row>
+  <row>
+    <data columnname="Name">no_fast_pskip</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">7,134</data>
+  </row>
+  <row>
+    <data columnname="Name">no_mbtree</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">36,42</data>
+  </row>
+  <row>
+    <data columnname="Name">no_mixed_refs</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,096</data>
+  </row>
+  <row>
+    <data columnname="Name">no_weightb</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,112</data>
+  </row>
+  <row>
+    <data columnname="Name">rc_lookahead</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">rc_lookahead_20</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">268,816</data>
+  </row>
+  <row>
+    <data columnname="Name">rc_lookahead_40</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">270,586</data>
+  </row>
+  <row>
+    <data columnname="Name">rc_lookahead_60</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">271,97</data>
+  </row>
+  <row>
+    <data columnname="Name">ref</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">ref_1</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">ref_5</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">173,218</data>
+  </row>
+  <row>
+    <data columnname="Name">ref_9</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">341,624</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_rc_lookahead_20_ref_5</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">201,936</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_rc_lookahead_20_ref_9</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">33,53</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_rc_lookahead_40_ref_5</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">200,166</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_rc_lookahead_40_ref_9</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">31,76</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_rc_lookahead_60_ref_5</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">198,782</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_rc_lookahead_60_ref_9</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30,376</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_ref_1_rc_lookahead_40</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">373,384</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_ref_1_rc_lookahead_60</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">372</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_no_mbtree_rc_lookahead_20</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">338,734</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_no_mbtree_rc_lookahead_40</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-36,4200000000001</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_no_mbtree_rc_lookahead_60</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-36,4200000000001</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_no_mbtree_ref_5</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-375,154</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_no_mbtree_ref_9</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-375,154</data>
+  </row>
+</results>

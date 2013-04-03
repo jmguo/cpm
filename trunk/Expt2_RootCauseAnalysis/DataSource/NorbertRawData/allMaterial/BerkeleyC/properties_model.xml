@@ -1,0 +1,21 @@
+<NfpModel>
+  <DirectlyAssigned />
+  <Inferred />
+  <Runtime>
+    <Performance>
+      <measurement name="DB Benchmark" type="runtime">
+        <appFile>C:\Workspace\measurementFootprint\measure_C\db-4.4.20_VS8\build_win32\Release\db_dll.exe</appFile>
+        <envVariables>
+        </envVariables>
+        <startArgs>
+        </startArgs>
+        <execProcedurePerFeature>True</execProcedurePerFeature>
+        <inclFiles />
+        <outputPattern outputType="XML-based">
+          <XmlFile>$appFolder\result001.xml</XmlFile>
+          <XpathExpr>//time</XpathExpr>
+        </outputPattern>
+      </measurement>
+    </Performance>
+  </Runtime>
+</NfpModel>

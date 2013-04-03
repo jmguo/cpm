@@ -1,0 +1,185 @@
+#Configurations: 92
+no_asm,no_8x8dct,ref_1,rc_lookahead_20,
+value: 254,63
+no_asm,rc_lookahead_60,ref_1,
+value: 271,97
+no_asm,ref_5,rc_lookahead_20,
+value: 442,034
+no_asm,ref_9,rc_lookahead_20,
+value: 610,44
+no_asm,no_cabac,ref_1,rc_lookahead_20,
+value: 260,388
+no_asm,no_deblock,ref_1,rc_lookahead_20,
+value: 268,064
+no_asm,no_fast_pskip,ref_1,rc_lookahead_20,
+value: 275,95
+no_asm,no_mbtree,ref_1,rc_lookahead_20,
+value: 305,236
+no_asm,no_mixed_refs,ref_1,rc_lookahead_20,
+value: 268,72
+no_asm,no_weightb,ref_1,rc_lookahead_20,
+value: 268,704
+no_asm,rc_lookahead_20,ref_1,
+value: 268,816
+no_asm,rc_lookahead_40,ref_1,
+value: 270,586
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_20,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_20,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_20,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_20,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_40,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_40,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_40,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_40,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_60,ref,ref_9,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_60,ref,ref_1,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,
+value: 643,97
+no_asm,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_weightb,rc_lookahead,rc_lookahead_60,ref,ref_5,
+value: 643,97
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,rc_lookahead,rc_lookahead_60,ref,ref_5,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_20,ref,ref_5,derivative_rc_lookahead_20_ref_5,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_20,ref,ref_9,derivative_rc_lookahead_20_ref_9,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_40,ref,ref_5,derivative_rc_lookahead_40_ref_5,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_40,ref,ref_9,derivative_rc_lookahead_40_ref_9,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_60,ref,ref_5,derivative_rc_lookahead_60_ref_5,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_60,ref,ref_9,derivative_rc_lookahead_60_ref_9,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_40,ref,ref_1,derivative_ref_1_rc_lookahead_40,
+value: 643,97
+no_asm,rc_lookahead,rc_lookahead_60,ref,ref_1,derivative_ref_1_rc_lookahead_60,
+value: 643,97

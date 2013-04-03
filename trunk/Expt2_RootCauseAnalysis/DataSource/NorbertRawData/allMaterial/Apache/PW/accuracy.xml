@@ -1,0 +1,1538 @@
+<results>
+  <row>
+    <data columnname="Configuration">0</data>
+    <data columnname="Elements">Base, </data>
+    <data columnname="Estimated Value">1200</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">1</data>
+    <data columnname="Elements">Base, Handle, </data>
+    <data columnname="Estimated Value">1230</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">2</data>
+    <data columnname="Elements">Base, EnableSendfile, </data>
+    <data columnname="Estimated Value">1320</data>
+    <data columnname="Measured Value">1320</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">3</data>
+    <data columnname="Elements">Base, KeepAlive, </data>
+    <data columnname="Estimated Value">2040</data>
+    <data columnname="Measured Value">2040</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4</data>
+    <data columnname="Elements">Base, ExtendedStatus, </data>
+    <data columnname="Estimated Value">1110</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">5</data>
+    <data columnname="Elements">Base, HostnameLookups, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">6</data>
+    <data columnname="Elements">Base, AccessLog, </data>
+    <data columnname="Estimated Value">1080</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">7</data>
+    <data columnname="Elements">Base, InMemory, </data>
+    <data columnname="Estimated Value">1410</data>
+    <data columnname="Measured Value">1410</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">8</data>
+    <data columnname="Elements">Base, FollowSymLinks, </data>
+    <data columnname="Estimated Value">1200</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">9</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, derivative_KeepAlive_FollowSymLinks, </data>
+    <data columnname="Estimated Value">2100</data>
+    <data columnname="Measured Value">2100</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">10</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, ExtendedStatus, InMemory, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">2340</data>
+    <data columnname="Measured Value">2310</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">11</data>
+    <data columnname="Elements">Base, EnableSendfile, AccessLog, InMemory, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">1380</data>
+    <data columnname="Measured Value">1260</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">12</data>
+    <data columnname="Elements">Base, EnableSendfile, AccessLog, ExtendedStatus, InMemory, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1320</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">-180</data>
+    <data columnname="Difference in %">-16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">13</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, AccessLog, InMemory, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">2130</data>
+    <data columnname="Measured Value">2100</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">14</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, AccessLog, ExtendedStatus, InMemory, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2070</data>
+    <data columnname="Measured Value">1980</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">15</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, InMemory, derivative_HostnameLookups_EnableSendfile, </data>
+    <data columnname="Estimated Value">1260</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">-150</data>
+    <data columnname="Difference in %">-14</data>
+  </row>
+  <row>
+    <data columnname="Configuration">16</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">2280</data>
+    <data columnname="Measured Value">2160</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">17</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, AccessLog, InMemory, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">1140</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">-150</data>
+    <data columnname="Difference in %">-15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">18</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, AccessLog, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">2010</data>
+    <data columnname="Measured Value">1890</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">19</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, ExtendedStatus, InMemory, derivative_HostnameLookups_EnableSendfile, </data>
+    <data columnname="Estimated Value">1170</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">-150</data>
+    <data columnname="Difference in %">-15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">20</data>
+    <data columnname="Elements">Base, FollowSymLinks, AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1020</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">21</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1080</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">22</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">2190</data>
+    <data columnname="Measured Value">2160</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">23</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1950</data>
+    <data columnname="Measured Value">1860</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">24</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, InMemory, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">1560</data>
+    <data columnname="Measured Value">1470</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">25</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, InMemory, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">2520</data>
+    <data columnname="Measured Value">2640</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">26</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, ExtendedStatus, InMemory, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1500</data>
+    <data columnname="Measured Value">1380</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">27</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, ExtendedStatus, InMemory, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2460</data>
+    <data columnname="Measured Value">2430</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">28</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, InMemory, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">1260</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">29</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, ExtendedStatus, InMemory, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1200</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">30</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">2340</data>
+    <data columnname="Measured Value">2340</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">31</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, AccessLog, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1770</data>
+    <data columnname="Measured Value">1830</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">32</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2280</data>
+    <data columnname="Measured Value">2190</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">33</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, AccessLog, InMemory, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1350</data>
+    <data columnname="Measured Value">1260</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">34</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, InMemory, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">2160</data>
+    <data columnname="Measured Value">2190</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">35</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, AccessLog, InMemory, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1080</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">-60</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">36</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">2010</data>
+    <data columnname="Measured Value">2100</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">37</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1320</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">38</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">-60</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">39</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2130</data>
+    <data columnname="Measured Value">2070</data>
+    <data columnname="Difference Absolut">-60</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">40</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1980</data>
+    <data columnname="Measured Value">1860</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">41</data>
+    <data columnname="Elements">Base, FollowSymLinks, ExtendedStatus, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1140</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">42</data>
+    <data columnname="Elements">Base, ExtendedStatus, Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1080</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">43</data>
+    <data columnname="Elements">Base, AccessLog, Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">1050</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">44</data>
+    <data columnname="Elements">Base, AccessLog, ExtendedStatus, Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">930</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">150</data>
+    <data columnname="Difference in %">14</data>
+  </row>
+  <row>
+    <data columnname="Configuration">45</data>
+    <data columnname="Elements">Base, FollowSymLinks, Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">1260</data>
+    <data columnname="Measured Value">1260</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">46</data>
+    <data columnname="Elements">Base, FollowSymLinks, AccessLog, Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">1020</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">180</data>
+    <data columnname="Difference in %">15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">47</data>
+    <data columnname="Elements">Base, FollowSymLinks, ExtendedStatus, Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1140</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">48</data>
+    <data columnname="Elements">Base, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">930</data>
+    <data columnname="Measured Value">1050</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">49</data>
+    <data columnname="Elements">Base, EnableSendfile, Handle, derivative_EnableSendfile_Handle, </data>
+    <data columnname="Estimated Value">1200</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">50</data>
+    <data columnname="Elements">Base, EnableSendfile, ExtendedStatus, Handle, derivative_EnableSendfile_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">51</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">1260</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">-60</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">52</data>
+    <data columnname="Elements">Base, FollowSymLinks, AccessLog, ExtendedStatus, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">53</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, ExtendedStatus, Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1140</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">54</data>
+    <data columnname="Elements">Base, EnableSendfile, AccessLog, Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">55</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, AccessLog, Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">150</data>
+    <data columnname="Difference in %">13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">56</data>
+    <data columnname="Elements">Base, EnableSendfile, AccessLog, ExtendedStatus, Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">870</data>
+    <data columnname="Measured Value">1050</data>
+    <data columnname="Difference Absolut">180</data>
+    <data columnname="Difference in %">17</data>
+  </row>
+  <row>
+    <data columnname="Configuration">57</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">900</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">210</data>
+    <data columnname="Difference in %">19</data>
+  </row>
+  <row>
+    <data columnname="Configuration">58</data>
+    <data columnname="Elements">Base, KeepAlive, Handle, derivative_KeepAlive_Handle, </data>
+    <data columnname="Estimated Value">1200</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">59</data>
+    <data columnname="Elements">Base, KeepAlive, ExtendedStatus, Handle, derivative_KeepAlive_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">1350</data>
+    <data columnname="Difference Absolut">300</data>
+    <data columnname="Difference in %">22</data>
+  </row>
+  <row>
+    <data columnname="Configuration">60</data>
+    <data columnname="Elements">Base, KeepAlive, AccessLog, Handle, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">870</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">360</data>
+    <data columnname="Difference in %">29</data>
+  </row>
+  <row>
+    <data columnname="Configuration">61</data>
+    <data columnname="Elements">Base, KeepAlive, AccessLog, ExtendedStatus, Handle, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1260</data>
+    <data columnname="Difference Absolut">477</data>
+    <data columnname="Difference in %">38</data>
+  </row>
+  <row>
+    <data columnname="Configuration">62</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_Handle, derivative_EnableSendfile_Handle, </data>
+    <data columnname="Estimated Value">1230</data>
+    <data columnname="Measured Value">1290</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">63</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, ExtendedStatus, derivative_KeepAlive_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2040</data>
+    <data columnname="Measured Value">1950</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">64</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, AccessLog, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">870</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">150</data>
+    <data columnname="Difference in %">15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">65</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, ExtendedStatus, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_Handle, derivative_EnableSendfile_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1080</data>
+    <data columnname="Measured Value">1320</data>
+    <data columnname="Difference Absolut">240</data>
+    <data columnname="Difference in %">18</data>
+  </row>
+  <row>
+    <data columnname="Configuration">66</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, AccessLog, ExtendedStatus, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">447</data>
+    <data columnname="Difference in %">36</data>
+  </row>
+  <row>
+    <data columnname="Configuration">67</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">1290</data>
+    <data columnname="Measured Value">1380</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">68</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, ExtendedStatus, Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1170</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">-60</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">69</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">1350</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">-150</data>
+    <data columnname="Difference in %">-12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">70</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, ExtendedStatus, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1230</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">71</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, AccessLog, Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">900</data>
+    <data columnname="Measured Value">1350</data>
+    <data columnname="Difference Absolut">450</data>
+    <data columnname="Difference in %">33</data>
+  </row>
+  <row>
+    <data columnname="Configuration">72</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">930</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">270</data>
+    <data columnname="Difference in %">22</data>
+  </row>
+  <row>
+    <data columnname="Configuration">73</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">810</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">420</data>
+    <data columnname="Difference in %">34</data>
+  </row>
+  <row>
+    <data columnname="Configuration">74</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, AccessLog, ExtendedStatus, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1740</data>
+    <data columnname="Measured Value">1740</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">75</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">840</data>
+    <data columnname="Measured Value">1170</data>
+    <data columnname="Difference Absolut">330</data>
+    <data columnname="Difference in %">28</data>
+  </row>
+  <row>
+    <data columnname="Configuration">76</data>
+    <data columnname="Elements">Base, HostnameLookups, Handle, derivative_HostnameLookups_Handle, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">77</data>
+    <data columnname="Elements">Base, HostnameLookups, ExtendedStatus, Handle, derivative_HostnameLookups_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">840</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">78</data>
+    <data columnname="Elements">Base, HostnameLookups, AccessLog, Handle, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">840</data>
+    <data columnname="Measured Value">930</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">79</data>
+    <data columnname="Elements">Base, HostnameLookups, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">870</data>
+    <data columnname="Difference Absolut">87</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">80</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, Handle, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">81</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, AccessLog, Handle, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">930</data>
+    <data columnname="Difference Absolut">147</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">82</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, ExtendedStatus, Handle, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">870</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">83</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">900</data>
+    <data columnname="Difference Absolut">117</data>
+    <data columnname="Difference in %">13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">84</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_Handle, derivative_KeepAlive_Handle, </data>
+    <data columnname="Estimated Value">1080</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">85</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_Handle, derivative_KeepAlive_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">930</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">86</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">1140</data>
+    <data columnname="Measured Value">1320</data>
+    <data columnname="Difference Absolut">180</data>
+    <data columnname="Difference in %">14</data>
+  </row>
+  <row>
+    <data columnname="Configuration">87</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1020</data>
+    <data columnname="Measured Value">1170</data>
+    <data columnname="Difference Absolut">150</data>
+    <data columnname="Difference in %">13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">88</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, AccessLog, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">417</data>
+    <data columnname="Difference in %">35</data>
+  </row>
+  <row>
+    <data columnname="Configuration">89</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, AccessLog, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">297</data>
+    <data columnname="Difference in %">28</data>
+  </row>
+  <row>
+    <data columnname="Configuration">90</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">357</data>
+    <data columnname="Difference in %">31</data>
+  </row>
+  <row>
+    <data columnname="Configuration">91</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1500</data>
+    <data columnname="Difference Absolut">717</data>
+    <data columnname="Difference in %">48</data>
+  </row>
+  <row>
+    <data columnname="Configuration">92</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_Handle, derivative_EnableSendfile_Handle, </data>
+    <data columnname="Estimated Value">900</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">93</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, ExtendedStatus, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_Handle, derivative_EnableSendfile_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">177</data>
+    <data columnname="Difference in %">18</data>
+  </row>
+  <row>
+    <data columnname="Configuration">94</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, AccessLog, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">930</data>
+    <data columnname="Difference Absolut">147</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">95</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">2220</data>
+    <data columnname="Measured Value">2220</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">96</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">870</data>
+    <data columnname="Difference Absolut">87</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">97</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_Handle, derivative_EnableSendfile_Handle, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">1170</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">98</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, AccessLog, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">297</data>
+    <data columnname="Difference in %">28</data>
+  </row>
+  <row>
+    <data columnname="Configuration">99</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_Handle, derivative_EnableSendfile_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">900</data>
+    <data columnname="Measured Value">1170</data>
+    <data columnname="Difference Absolut">270</data>
+    <data columnname="Difference in %">23</data>
+  </row>
+  <row>
+    <data columnname="Configuration">100</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1470</data>
+    <data columnname="Difference Absolut">687</data>
+    <data columnname="Difference in %">47</data>
+  </row>
+  <row>
+    <data columnname="Configuration">101</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">930</data>
+    <data columnname="Measured Value">1050</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">102</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, ExtendedStatus, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">810</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">180</data>
+    <data columnname="Difference in %">18</data>
+  </row>
+  <row>
+    <data columnname="Configuration">103</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_Handle, </data>
+    <data columnname="Estimated Value">1140</data>
+    <data columnname="Measured Value">1050</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">104</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">1020</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">180</data>
+    <data columnname="Difference in %">15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">105</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, AccessLog, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">930</data>
+    <data columnname="Difference Absolut">147</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">106</data>
+    <data columnname="Elements">Base, EnableSendfile, ExtendedStatus, </data>
+    <data columnname="Estimated Value">1230</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">107</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_Handle, derivative_AccessLog_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">1170</data>
+    <data columnname="Difference Absolut">387</data>
+    <data columnname="Difference in %">33</data>
+  </row>
+  <row>
+    <data columnname="Configuration">108</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">870</data>
+    <data columnname="Difference Absolut">87</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">109</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, Handle, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_HostnameLookups_Handle, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_KeepAlive_Handle, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_EnableSendfile_Handle, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_FollowSymLinks_Handle, derivative_AccessLog_ExtendedStatus, derivative_AccessLog_Handle, derivative_ExtendedStatus_Handle, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">870</data>
+    <data columnname="Difference Absolut">87</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">110</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, ExtendedStatus, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">2130</data>
+    <data columnname="Measured Value">2130</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">111</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">1350</data>
+    <data columnname="Measured Value">1350</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">112</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, ExtendedStatus, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1290</data>
+    <data columnname="Measured Value">1170</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">113</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">2310</data>
+    <data columnname="Measured Value">2370</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">114</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, ExtendedStatus, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2250</data>
+    <data columnname="Measured Value">2190</data>
+    <data columnname="Difference Absolut">-60</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">115</data>
+    <data columnname="Elements">Base, EnableSendfile, AccessLog, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">1170</data>
+    <data columnname="Measured Value">1170</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">116</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">1920</data>
+    <data columnname="Measured Value">1980</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">117</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1140</data>
+    <data columnname="Measured Value">1200</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">118</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1950</data>
+    <data columnname="Measured Value">2040</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">119</data>
+    <data columnname="Elements">Base, EnableSendfile, AccessLog, ExtendedStatus, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1110</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">120</data>
+    <data columnname="Elements">Base, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1110</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">121</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, AccessLog, ExtendedStatus, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1860</data>
+    <data columnname="Measured Value">1830</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">122</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1920</data>
+    <data columnname="Measured Value">1890</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">123</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, derivative_HostnameLookups_KeepAlive, </data>
+    <data columnname="Estimated Value">1950</data>
+    <data columnname="Measured Value">1950</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">124</data>
+    <data columnname="Elements">Base, HostnameLookups, ExtendedStatus, </data>
+    <data columnname="Estimated Value">900</data>
+    <data columnname="Measured Value">900</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">125</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, ExtendedStatus, derivative_HostnameLookups_KeepAlive, </data>
+    <data columnname="Estimated Value">1860</data>
+    <data columnname="Measured Value">1830</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">126</data>
+    <data columnname="Elements">Base, HostnameLookups, AccessLog, derivative_HostnameLookups_AccessLog, </data>
+    <data columnname="Estimated Value">900</data>
+    <data columnname="Measured Value">900</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">127</data>
+    <data columnname="Elements">Base, HostnameLookups, AccessLog, ExtendedStatus, derivative_HostnameLookups_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">840</data>
+    <data columnname="Measured Value">840</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">128</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, AccessLog, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_AccessLog, </data>
+    <data columnname="Estimated Value">1710</data>
+    <data columnname="Measured Value">1710</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">129</data>
+    <data columnname="Elements">Base, KeepAlive, ExtendedStatus, </data>
+    <data columnname="Estimated Value">1950</data>
+    <data columnname="Measured Value">1920</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">130</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, AccessLog, ExtendedStatus, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1650</data>
+    <data columnname="Measured Value">1620</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">131</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, derivative_HostnameLookups_EnableSendfile, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">1050</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">132</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">2070</data>
+    <data columnname="Measured Value">2130</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">133</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, AccessLog, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">930</data>
+    <data columnname="Measured Value">930</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">134</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, AccessLog, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, </data>
+    <data columnname="Estimated Value">1800</data>
+    <data columnname="Measured Value">1890</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">135</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, ExtendedStatus, derivative_HostnameLookups_EnableSendfile, </data>
+    <data columnname="Estimated Value">960</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">136</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, AccessLog, ExtendedStatus, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">870</data>
+    <data columnname="Measured Value">900</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">137</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, ExtendedStatus, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">1980</data>
+    <data columnname="Measured Value">2010</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">138</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, AccessLog, ExtendedStatus, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1740</data>
+    <data columnname="Measured Value">1770</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">139</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, derivative_HostnameLookups_FollowSymLinks, </data>
+    <data columnname="Estimated Value">960</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">140</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_FollowSymLinks, </data>
+    <data columnname="Estimated Value">1980</data>
+    <data columnname="Measured Value">1950</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">141</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, ExtendedStatus, derivative_HostnameLookups_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">900</data>
+    <data columnname="Measured Value">930</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">142</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, ExtendedStatus, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1920</data>
+    <data columnname="Measured Value">1890</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">143</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">1080</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">144</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, ExtendedStatus, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">990</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">145</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, </data>
+    <data columnname="Estimated Value">2130</data>
+    <data columnname="Measured Value">2220</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">146</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, ExtendedStatus, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_EnableSendfile_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2070</data>
+    <data columnname="Measured Value">2070</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">147</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, AccessLog, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">810</data>
+    <data columnname="Measured Value">900</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">148</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, AccessLog, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1680</data>
+    <data columnname="Measured Value">1770</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">149</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, AccessLog, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">870</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">150</data>
+    <data columnname="Elements">Base, AccessLog, ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1020</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">151</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1800</data>
+    <data columnname="Measured Value">1920</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">152</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, AccessLog, ExtendedStatus, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">783</data>
+    <data columnname="Measured Value">840</data>
+    <data columnname="Difference Absolut">57</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">153</data>
+    <data columnname="Elements">Base, HostnameLookups, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">840</data>
+    <data columnname="Measured Value">900</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">154</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, AccessLog, ExtendedStatus, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1650</data>
+    <data columnname="Measured Value">1680</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">155</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, EnableSendfile, FollowSymLinks, AccessLog, ExtendedStatus, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_EnableSendfile, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_EnableSendfile, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_EnableSendfile_FollowSymLinks, derivative_EnableSendfile_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1770</data>
+    <data columnname="Measured Value">1800</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">156</data>
+    <data columnname="Elements">Base, KeepAlive, InMemory, </data>
+    <data columnname="Estimated Value">2250</data>
+    <data columnname="Measured Value">2490</data>
+    <data columnname="Difference Absolut">240</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">157</data>
+    <data columnname="Elements">Base, ExtendedStatus, InMemory, </data>
+    <data columnname="Estimated Value">1320</data>
+    <data columnname="Measured Value">1290</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">158</data>
+    <data columnname="Elements">Base, KeepAlive, ExtendedStatus, InMemory, </data>
+    <data columnname="Estimated Value">2160</data>
+    <data columnname="Measured Value">2250</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">159</data>
+    <data columnname="Elements">Base, AccessLog, InMemory, </data>
+    <data columnname="Estimated Value">1290</data>
+    <data columnname="Measured Value">1260</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">160</data>
+    <data columnname="Elements">Base, KeepAlive, AccessLog, derivative_KeepAlive_AccessLog, </data>
+    <data columnname="Estimated Value">1770</data>
+    <data columnname="Measured Value">1770</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">161</data>
+    <data columnname="Elements">Base, AccessLog, ExtendedStatus, InMemory, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1230</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">162</data>
+    <data columnname="Elements">Base, KeepAlive, AccessLog, InMemory, derivative_KeepAlive_AccessLog, </data>
+    <data columnname="Estimated Value">1980</data>
+    <data columnname="Measured Value">2130</data>
+    <data columnname="Difference Absolut">150</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">163</data>
+    <data columnname="Elements">Base, KeepAlive, AccessLog, ExtendedStatus, InMemory, derivative_KeepAlive_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1920</data>
+    <data columnname="Measured Value">1980</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">164</data>
+    <data columnname="Elements">Base, FollowSymLinks, InMemory, </data>
+    <data columnname="Estimated Value">1410</data>
+    <data columnname="Measured Value">1410</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">165</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, InMemory, derivative_KeepAlive_FollowSymLinks, </data>
+    <data columnname="Estimated Value">2310</data>
+    <data columnname="Measured Value">2400</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">166</data>
+    <data columnname="Elements">Base, FollowSymLinks, AccessLog, InMemory, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1230</data>
+    <data columnname="Measured Value">1320</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">167</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, AccessLog, InMemory, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1980</data>
+    <data columnname="Measured Value">2190</data>
+    <data columnname="Difference Absolut">210</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">168</data>
+    <data columnname="Elements">Base, FollowSymLinks, ExtendedStatus, InMemory, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1350</data>
+    <data columnname="Measured Value">1380</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">169</data>
+    <data columnname="Elements">Base, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1200</data>
+    <data columnname="Measured Value">1230</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">170</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, ExtendedStatus, InMemory, derivative_KeepAlive_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2250</data>
+    <data columnname="Measured Value">2430</data>
+    <data columnname="Difference Absolut">180</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">171</data>
+    <data columnname="Elements">Base, KeepAlive, AccessLog, ExtendedStatus, derivative_KeepAlive_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1710</data>
+    <data columnname="Measured Value">1680</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">172</data>
+    <data columnname="Elements">Base, KeepAlive, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1950</data>
+    <data columnname="Measured Value">2100</data>
+    <data columnname="Difference Absolut">150</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">173</data>
+    <data columnname="Elements">Base, HostnameLookups, InMemory, </data>
+    <data columnname="Estimated Value">1200</data>
+    <data columnname="Measured Value">1110</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">174</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, InMemory, derivative_HostnameLookups_KeepAlive, </data>
+    <data columnname="Estimated Value">2160</data>
+    <data columnname="Measured Value">2280</data>
+    <data columnname="Difference Absolut">120</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">175</data>
+    <data columnname="Elements">Base, HostnameLookups, ExtendedStatus, InMemory, </data>
+    <data columnname="Estimated Value">1110</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">176</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, </data>
+    <data columnname="Estimated Value">2070</data>
+    <data columnname="Measured Value">2160</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">177</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, InMemory, derivative_HostnameLookups_FollowSymLinks, </data>
+    <data columnname="Estimated Value">1170</data>
+    <data columnname="Measured Value">1140</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">178</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, ExtendedStatus, InMemory, derivative_HostnameLookups_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1110</data>
+    <data columnname="Measured Value">1050</data>
+    <data columnname="Difference Absolut">-60</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">179</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_FollowSymLinks, </data>
+    <data columnname="Estimated Value">2190</data>
+    <data columnname="Measured Value">2280</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">180</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_KeepAlive_FollowSymLinks, derivative_FollowSymLinks_ExtendedStatus, </data>
+    <data columnname="Estimated Value">2130</data>
+    <data columnname="Measured Value">2190</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">181</data>
+    <data columnname="Elements">Base, HostnameLookups, AccessLog, InMemory, derivative_HostnameLookups_AccessLog, </data>
+    <data columnname="Estimated Value">1110</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">-90</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">182</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, AccessLog, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_AccessLog, </data>
+    <data columnname="Estimated Value">1920</data>
+    <data columnname="Measured Value">1980</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">183</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, AccessLog, InMemory, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1020</data>
+    <data columnname="Measured Value">1020</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">184</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, AccessLog, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, </data>
+    <data columnname="Estimated Value">1890</data>
+    <data columnname="Measured Value">2070</data>
+    <data columnname="Difference Absolut">180</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">185</data>
+    <data columnname="Elements">Base, HostnameLookups, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1050</data>
+    <data columnname="Measured Value">930</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">186</data>
+    <data columnname="Elements">Base, HostnameLookups, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">990</data>
+    <data columnname="Measured Value">960</data>
+    <data columnname="Difference Absolut">-30</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">187</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_AccessLog, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1860</data>
+    <data columnname="Measured Value">1860</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">188</data>
+    <data columnname="Elements">Base, HostnameLookups, KeepAlive, FollowSymLinks, AccessLog, ExtendedStatus, InMemory, derivative_HostnameLookups_KeepAlive, derivative_HostnameLookups_FollowSymLinks, derivative_HostnameLookups_AccessLog, derivative_KeepAlive_FollowSymLinks, derivative_KeepAlive_AccessLog, derivative_FollowSymLinks_AccessLog, derivative_FollowSymLinks_ExtendedStatus, derivative_AccessLog_ExtendedStatus, </data>
+    <data columnname="Estimated Value">1860</data>
+    <data columnname="Measured Value">1920</data>
+    <data columnname="Difference Absolut">60</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">189</data>
+    <data columnname="Elements">Base, EnableSendfile, InMemory, </data>
+    <data columnname="Estimated Value">1530</data>
+    <data columnname="Measured Value">1410</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">190</data>
+    <data columnname="Elements">Base, KeepAlive, EnableSendfile, InMemory, derivative_KeepAlive_EnableSendfile, </data>
+    <data columnname="Estimated Value">2430</data>
+    <data columnname="Measured Value">2460</data>
+    <data columnname="Difference Absolut">30</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">191</data>
+    <data columnname="Elements">Base, EnableSendfile, ExtendedStatus, InMemory, </data>
+    <data columnname="Estimated Value">1440</data>
+    <data columnname="Measured Value">1320</data>
+    <data columnname="Difference Absolut">-120</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+</results>

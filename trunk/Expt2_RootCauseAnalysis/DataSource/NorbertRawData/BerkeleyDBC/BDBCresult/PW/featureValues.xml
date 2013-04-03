@@ -1,0 +1,162 @@
+<results>
+  <row>
+    <data columnname="Name">HAVE_CRYPTO</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">2,71640117948718</data>
+  </row>
+  <row>
+    <data columnname="Name">HAVE_HASH</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,137106435897436</data>
+  </row>
+  <row>
+    <data columnname="Name">HAVE_REPLICATION</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,015650358974359</data>
+  </row>
+  <row>
+    <data columnname="Name">HAVE_VERIFY</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,032669102564103</data>
+  </row>
+  <row>
+    <data columnname="Name">HAVE_SEQUENCE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,002848948717949</data>
+  </row>
+  <row>
+    <data columnname="Name">HAVE_STATISTICS</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,015788794871795</data>
+  </row>
+  <row>
+    <data columnname="Name">DIAGNOSTIC</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,070169615384616</data>
+  </row>
+  <row>
+    <data columnname="Name">PAGESIZE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">PS1K</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,502896333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">PS4K</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,432443897435898</data>
+  </row>
+  <row>
+    <data columnname="Name">PS8K</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,482040052631579</data>
+  </row>
+  <row>
+    <data columnname="Name">PS16K</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,616064289473684</data>
+  </row>
+  <row>
+    <data columnname="Name">PS32K</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,917929</data>
+  </row>
+  <row>
+    <data columnname="Name">CACHESIZE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">CS32MB</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">CS16MB</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,001511166666667</data>
+  </row>
+  <row>
+    <data columnname="Name">CS64MB</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,000689205128205</data>
+  </row>
+  <row>
+    <data columnname="Name">CS512MB</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,000453666666666</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_CRYPTO_PS4K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">3,37617615384616</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_HASH_PS4K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">0,220130435897435</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_DIAGNOSTIC_PS4K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-0,03823135897436</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_CRYPTO_PS8K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">7,55450721524964</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_HASH_PS8K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">0,404599562753036</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_DIAGNOSTIC_PS8K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-0,0454126680161949</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_CRYPTO_PS16K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">16,6689679904986</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_HASH_PS16K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">0,774434672739542</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_DIAGNOSTIC_PS16K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-0,0462835202429159</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_CRYPTO_PS32K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">34,1566166363023</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_HASH_PS32K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">1,60474830431849</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_DIAGNOSTIC_PS32K</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-0,036122666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_CRYPTO_HAVE_HASH</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-1,05852643589743</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HAVE_HASH_DIAGNOSTIC</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-0,0502578205128209</data>
+  </row>
+</results>

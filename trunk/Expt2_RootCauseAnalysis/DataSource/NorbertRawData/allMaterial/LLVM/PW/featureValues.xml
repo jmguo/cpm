@@ -1,0 +1,192 @@
+<results>
+  <row>
+    <data columnname="Name">timepasses</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">210,44</data>
+  </row>
+  <row>
+    <data columnname="Name">gvn</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">24,24</data>
+  </row>
+  <row>
+    <data columnname="Name">instcombine</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">9,196666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">inline</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-1,52</data>
+  </row>
+  <row>
+    <data columnname="Name">jumpthreading</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-2,393333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">simplifycfg</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-3,54</data>
+  </row>
+  <row>
+    <data columnname="Name">sccp</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-5,453333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">printusedtypes</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-6,386666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">ipsccp</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-9,286666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">ivusers</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,1</data>
+  </row>
+  <row>
+    <data columnname="Name">licm</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">48,386666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_gvn_instcombine</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-11,176666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_gvn_licm</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-15,64</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_gvn_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">14,856666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_jumpthreading</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">16,836666666666</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_licm</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-10,690000000001</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">8,46666666666701</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">6,833333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_jumpthreading_licm</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-36,353333333334</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_jumpthreading_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">10,763333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_licm_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-36,273333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_licm_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-36,44</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_ipsccp_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">10,07</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_gvn_instcombine_licm</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-16,526666666666</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_gvn_instcombine_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-8,83999999999998</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_gvn_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">8,28333333333299</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_jumpthreading_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-13,863333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_jumpthreading_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-25,829999999999</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_licm_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">11,756666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_licm_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30,040000000001</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_instcombine_ipsccp_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-7,18666666666701</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_licm_gvn_jumpthreading</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">27,543333333333</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_licm_gvn_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">10,75</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_licm_jumpthreading_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">39,34</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_licm_jumpthreading_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">73,4399999999999</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_licm_ipsccp_inline</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">58,416666666666</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_inline_gvn_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-12,556666666667</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_inline_jumpthreading_ipsccp</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-6,80000000000001</data>
+  </row>
+</results>

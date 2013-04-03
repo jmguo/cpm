@@ -1,0 +1,810 @@
+<results>
+  <row>
+    <data columnname="Configuration">4551</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,7613160040105</data>
+    <data columnname="Measured Value">13,4100699787362</data>
+    <data columnname="Difference Absolut">-3,3512460252743</data>
+    <data columnname="Difference in %">-25</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4552</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,7447749048674</data>
+    <data columnname="Measured Value">14,3002223948001</data>
+    <data columnname="Difference Absolut">-2,4445525100673</data>
+    <data columnname="Difference in %">-17</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4553</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,7020706158553</data>
+    <data columnname="Measured Value">14,3349691398149</data>
+    <data columnname="Difference Absolut">-1,3671014760404</data>
+    <data columnname="Difference in %">-10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4554</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,8030466627801</data>
+    <data columnname="Measured Value">14,6922295586067</data>
+    <data columnname="Difference Absolut">-2,1108171041734</data>
+    <data columnname="Difference in %">-14</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4555</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">17,3276031201075</data>
+    <data columnname="Measured Value">14,2197865114149</data>
+    <data columnname="Difference Absolut">-3,1078166086926</data>
+    <data columnname="Difference in %">-22</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4556</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">17,7122676941937</data>
+    <data columnname="Measured Value">14,1672907204663</data>
+    <data columnname="Difference Absolut">-3,5449769737274</data>
+    <data columnname="Difference in %">-25</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4557</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">14,2468809352156</data>
+    <data columnname="Measured Value">14,1503863876905</data>
+    <data columnname="Difference Absolut">-0,0964945475251007</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4558</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,214249852133</data>
+    <data columnname="Measured Value">14,0346447320394</data>
+    <data columnname="Difference Absolut">-2,1796051200936</data>
+    <data columnname="Difference in %">-16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4559</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,3452321853788</data>
+    <data columnname="Measured Value">14,4640784412702</data>
+    <data columnname="Difference Absolut">0,1188462558914</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4560</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">14,9390824913584</data>
+    <data columnname="Measured Value">14,4915465873346</data>
+    <data columnname="Difference Absolut">-0,447535904023798</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4561</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,010167074427</data>
+    <data columnname="Measured Value">14,4725532973252</data>
+    <data columnname="Difference Absolut">-1,5376137771018</data>
+    <data columnname="Difference in %">-11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4562</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,8923047883487</data>
+    <data columnname="Measured Value">14,3822636085909</data>
+    <data columnname="Difference Absolut">-0,510041179757799</data>
+    <data columnname="Difference in %">-4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4563</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,0903891238279</data>
+    <data columnname="Measured Value">14,0332777143732</data>
+    <data columnname="Difference Absolut">-2,0571114094547</data>
+    <data columnname="Difference in %">-15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4564</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,526441921199</data>
+    <data columnname="Measured Value">14,2799074743015</data>
+    <data columnname="Difference Absolut">-1,2465344468975</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4565</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">17,1086742799656</data>
+    <data columnname="Measured Value">14,3459209633793</data>
+    <data columnname="Difference Absolut">-2,7627533165863</data>
+    <data columnname="Difference in %">-19</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4566</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,658565916503</data>
+    <data columnname="Measured Value">13,7604685316534</data>
+    <data columnname="Difference Absolut">-2,8980973848496</data>
+    <data columnname="Difference in %">-21</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4567</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,0963749314022</data>
+    <data columnname="Measured Value">14,297781853361</data>
+    <data columnname="Difference Absolut">-1,7985930780412</data>
+    <data columnname="Difference in %">-13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4568</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,1528023002118</data>
+    <data columnname="Measured Value">14,3139291047097</data>
+    <data columnname="Difference Absolut">-1,8388731955021</data>
+    <data columnname="Difference in %">-13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4569</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,3098137076279</data>
+    <data columnname="Measured Value">13,944481677684</data>
+    <data columnname="Difference Absolut">-2,3653320299439</data>
+    <data columnname="Difference in %">-17</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4570</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,7252271070657</data>
+    <data columnname="Measured Value">13,5423491418696</data>
+    <data columnname="Difference Absolut">-2,1828779651961</data>
+    <data columnname="Difference in %">-16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4571</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,8528685354668</data>
+    <data columnname="Measured Value">14,4408116230193</data>
+    <data columnname="Difference Absolut">-0,4120569124475</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4572</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">13,8932670624486</data>
+    <data columnname="Measured Value">14,0407600085172</data>
+    <data columnname="Difference Absolut">0,147492946068601</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4573</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,921440041397</data>
+    <data columnname="Measured Value">13,8834230793187</data>
+    <data columnname="Difference Absolut">-1,0380169620783</data>
+    <data columnname="Difference in %">-7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4574</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,3228641909992</data>
+    <data columnname="Measured Value">13,9356823531302</data>
+    <data columnname="Difference Absolut">-1,387181837869</data>
+    <data columnname="Difference in %">-10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4575</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,0167943191458</data>
+    <data columnname="Measured Value">14,1485032320817</data>
+    <data columnname="Difference Absolut">-0,868291087064101</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4576</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">14,0958863860528</data>
+    <data columnname="Measured Value">14,1641935727699</data>
+    <data columnname="Difference Absolut">0,0683071867171012</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4577</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,3519808074499</data>
+    <data columnname="Measured Value">13,7736645320512</data>
+    <data columnname="Difference Absolut">-1,5783162753987</data>
+    <data columnname="Difference in %">-11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4578</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,1428775980429</data>
+    <data columnname="Measured Value">14,4205638321897</data>
+    <data columnname="Difference Absolut">-0,722313765853199</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4579</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,0577026315697</data>
+    <data columnname="Measured Value">16,3945735824904</data>
+    <data columnname="Difference Absolut">1,3368709509207</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4580</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">13,8250427076145</data>
+    <data columnname="Measured Value">15,9413676597829</data>
+    <data columnname="Difference Absolut">2,1163249521684</data>
+    <data columnname="Difference in %">13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4581</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,9007108269922</data>
+    <data columnname="Measured Value">16,05409835556</data>
+    <data columnname="Difference Absolut">-0,846612471432199</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4582</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,4901590718729</data>
+    <data columnname="Measured Value">16,0207825577468</data>
+    <data columnname="Difference Absolut">0,530623485873898</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4583</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">17,5815175184788</data>
+    <data columnname="Measured Value">15,4185444312174</data>
+    <data columnname="Difference Absolut">-2,1629730872614</data>
+    <data columnname="Difference in %">-14</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4584</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,5107238563452</data>
+    <data columnname="Measured Value">16,1667586551848</data>
+    <data columnname="Difference Absolut">0,656034798839601</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4585</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,0407581073142</data>
+    <data columnname="Measured Value">16,3155961012723</data>
+    <data columnname="Difference Absolut">0,274837993958098</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4586</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,3146235583199</data>
+    <data columnname="Measured Value">16,2082479490372</data>
+    <data columnname="Difference Absolut">-0,106375609282701</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4587</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,0975384273965</data>
+    <data columnname="Measured Value">16,2547960642775</data>
+    <data columnname="Difference Absolut">1,157257636881</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4588</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,5731755829769</data>
+    <data columnname="Measured Value">16,1267463746129</data>
+    <data columnname="Difference Absolut">0,553570791636</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4589</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,927770813355</data>
+    <data columnname="Measured Value">16,1567121859265</data>
+    <data columnname="Difference Absolut">-0,771058627428499</data>
+    <data columnname="Difference in %">-5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4590</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,408907007967</data>
+    <data columnname="Measured Value">16,3747192485736</data>
+    <data columnname="Difference Absolut">0,965812240606603</data>
+    <data columnname="Difference in %">6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4591</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">14,9460389008528</data>
+    <data columnname="Measured Value">15,7588575441802</data>
+    <data columnname="Difference Absolut">0,812818643327402</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4592</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">13,0181650966861</data>
+    <data columnname="Measured Value">16,5112592089512</data>
+    <data columnname="Difference Absolut">3,4930941122651</data>
+    <data columnname="Difference in %">21</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4593</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,0966214185486</data>
+    <data columnname="Measured Value">16,2059464151769</data>
+    <data columnname="Difference Absolut">1,1093249966283</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4594</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,7369446384826</data>
+    <data columnname="Measured Value">16,3032952254749</data>
+    <data columnname="Difference Absolut">0,566350586992302</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4595</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,6581709097134</data>
+    <data columnname="Measured Value">16,4028162797928</data>
+    <data columnname="Difference Absolut">0,744645370079398</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4596</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">14,714144959808</data>
+    <data columnname="Measured Value">16,1285103400819</data>
+    <data columnname="Difference Absolut">1,4143653802739</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4597</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,6395617487888</data>
+    <data columnname="Measured Value">16,2590477370451</data>
+    <data columnname="Difference Absolut">1,6194859882563</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4598</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,0555779271983</data>
+    <data columnname="Measured Value">16,2711287132145</data>
+    <data columnname="Difference Absolut">1,2155507860162</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4599</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,3675151120953</data>
+    <data columnname="Measured Value">15,94398313982</data>
+    <data columnname="Difference Absolut">0,576468027724701</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4600</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,8487284238714</data>
+    <data columnname="Measured Value">15,8977785994603</data>
+    <data columnname="Difference Absolut">0,049050175588901</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4601</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,5201766678701</data>
+    <data columnname="Measured Value">15,2443239191038</data>
+    <data columnname="Difference Absolut">-1,2758527487663</data>
+    <data columnname="Difference in %">-8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4602</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HighestPageSize, </data>
+    <data columnname="Estimated Value">14,6910776251771</data>
+    <data columnname="Measured Value">15,8069052559591</data>
+    <data columnname="Difference Absolut">1,115827630782</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4603</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,6086550313553</data>
+    <data columnname="Measured Value">15,8711057592608</data>
+    <data columnname="Difference Absolut">1,2624507279055</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4604</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,7116675850488</data>
+    <data columnname="Measured Value">15,759063762445</data>
+    <data columnname="Difference Absolut">-0,9526038226038</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4605</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,2256885585337</data>
+    <data columnname="Measured Value">16,082352114306</data>
+    <data columnname="Difference Absolut">1,8566635557723</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4606</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,0060728891873</data>
+    <data columnname="Measured Value">15,6346858691987</data>
+    <data columnname="Difference Absolut">-0,371387019988598</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4607</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,6062850092775</data>
+    <data columnname="Measured Value">16,1315951887074</data>
+    <data columnname="Difference Absolut">1,5253101794299</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4608</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,5634745361634</data>
+    <data columnname="Measured Value">16,1278575094943</data>
+    <data columnname="Difference Absolut">-0,435617026669096</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4609</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,5007002249065</data>
+    <data columnname="Measured Value">15,6883109872956</data>
+    <data columnname="Difference Absolut">0,187610762389099</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4610</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,1545634613191</data>
+    <data columnname="Measured Value">16,0909298391142</data>
+    <data columnname="Difference Absolut">-0,0636336222049003</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4611</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">14,9620246381878</data>
+    <data columnname="Measured Value">15,7345445535858</data>
+    <data columnname="Difference Absolut">0,772519915398</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4612</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,4965273305097</data>
+    <data columnname="Measured Value">15,8155101807394</data>
+    <data columnname="Difference Absolut">-0,6810171497703</data>
+    <data columnname="Difference in %">-4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4613</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,3244897816317</data>
+    <data columnname="Measured Value">16,1186897307093</data>
+    <data columnname="Difference Absolut">0,7941999490776</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4614</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">14,4755901214851</data>
+    <data columnname="Measured Value">15,5489614378719</data>
+    <data columnname="Difference Absolut">1,0733713163868</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4615</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,36363317328</data>
+    <data columnname="Measured Value">15,9499308501545</data>
+    <data columnname="Difference Absolut">-0,4137023231255</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4616</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,7884471153613</data>
+    <data columnname="Measured Value">15,9044035252785</data>
+    <data columnname="Difference Absolut">-0,884043590082801</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4617</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,7777964108481</data>
+    <data columnname="Measured Value">15,8653259931155</data>
+    <data columnname="Difference Absolut">-0,912470417732601</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4618</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,1165133720687</data>
+    <data columnname="Measured Value">16,0303552865557</data>
+    <data columnname="Difference Absolut">-0,0861580855129986</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4619</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_OR_OPTIMIZATION, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,4077377649944</data>
+    <data columnname="Measured Value">16,0604751391198</data>
+    <data columnname="Difference Absolut">0,652737374125399</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4620</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">14,2088493474222</data>
+    <data columnname="Measured Value">15,6902689397387</data>
+    <data columnname="Difference Absolut">1,4814195923165</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4621</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,0810045281097</data>
+    <data columnname="Measured Value">15,944514203738</data>
+    <data columnname="Difference Absolut">-0,136490324371698</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4622</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,5842263271745</data>
+    <data columnname="Measured Value">16,1697909106498</data>
+    <data columnname="Difference Absolut">-0,4144354165247</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4623</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">13,6188424847771</data>
+    <data columnname="Measured Value">16,1942390229842</data>
+    <data columnname="Difference Absolut">2,5753965382071</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4624</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,8107270213461</data>
+    <data columnname="Measured Value">15,720628370168</data>
+    <data columnname="Difference Absolut">-0,0900986511780992</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4625</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,0127964373685</data>
+    <data columnname="Measured Value">16,2824561389759</data>
+    <data columnname="Difference Absolut">0,269659701607399</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4626</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,0745885788861</data>
+    <data columnname="Measured Value">16,0104484382669</data>
+    <data columnname="Difference Absolut">0,935859859380798</data>
+    <data columnname="Difference in %">6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4627</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_OR_OPTIMIZATION, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">13,2382033910101</data>
+    <data columnname="Measured Value">15,7577479568159</data>
+    <data columnname="Difference Absolut">2,5195445658058</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4628</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,3072056541113</data>
+    <data columnname="Measured Value">15,9861433690311</data>
+    <data columnname="Difference Absolut">0,678937714919799</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4629</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HighestPageSize, </data>
+    <data columnname="Estimated Value">17,018696085939</data>
+    <data columnname="Measured Value">15,5650628645668</data>
+    <data columnname="Difference Absolut">-1,4536332213722</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4630</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,2197802654525</data>
+    <data columnname="Measured Value">16,2630818325679</data>
+    <data columnname="Difference Absolut">1,0433015671154</data>
+    <data columnname="Difference in %">6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4631</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,4938845041597</data>
+    <data columnname="Measured Value">16,1947578131856</data>
+    <data columnname="Difference Absolut">0,700873309025901</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4632</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">13,9638978654901</data>
+    <data columnname="Measured Value">15,6600976142918</data>
+    <data columnname="Difference Absolut">1,6961997488017</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4633</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,0032864848464</data>
+    <data columnname="Measured Value">15,4642662385358</data>
+    <data columnname="Difference Absolut">0,460979753689401</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4634</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,9546618223969</data>
+    <data columnname="Measured Value">15,812884948567</data>
+    <data columnname="Difference Absolut">-0,141776873829901</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4635</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">16,5610669859295</data>
+    <data columnname="Measured Value">16,1022138556891</data>
+    <data columnname="Difference Absolut">-0,458853130240399</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4636</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,2181140536789</data>
+    <data columnname="Measured Value">15,9679420937042</data>
+    <data columnname="Difference Absolut">0,749828040025301</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4637</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,1596176535717</data>
+    <data columnname="Measured Value">15,3961991355221</data>
+    <data columnname="Difference Absolut">0,236581481950401</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4638</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">14,428240563859</data>
+    <data columnname="Measured Value">15,3489406104788</data>
+    <data columnname="Difference Absolut">0,920700046619801</data>
+    <data columnname="Difference in %">6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4639</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,1899093409196</data>
+    <data columnname="Measured Value">15,946382364682</data>
+    <data columnname="Difference Absolut">-0,243526976237598</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4640</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,8033834083567</data>
+    <data columnname="Measured Value">15,7227189064348</data>
+    <data columnname="Difference Absolut">-0,0806645019219001</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4641</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">15,0814466139483</data>
+    <data columnname="Measured Value">15,8382784471534</data>
+    <data columnname="Difference Absolut">0,7568318332051</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4642</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">14,1434996439628</data>
+    <data columnname="Measured Value">16,0462845495881</data>
+    <data columnname="Difference Absolut">1,9027849056253</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4643</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREzero, EnableFeatures, DisableFeatures, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">15,5094301130762</data>
+    <data columnname="Measured Value">15,8019579575495</data>
+    <data columnname="Difference Absolut">0,2925278444733</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4644</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, OmitFeatures, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,2973050080682</data>
+    <data columnname="Measured Value">15,9232473513479</data>
+    <data columnname="Difference Absolut">-0,3740576567203</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4645</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">16,4564411513457</data>
+    <data columnname="Measured Value">15,1226898710088</data>
+    <data columnname="Difference Absolut">-1,3337512803369</data>
+    <data columnname="Difference in %">-9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4646</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, NormalLockingMode, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">14,7366341265769</data>
+    <data columnname="Measured Value">15,8777268417088</data>
+    <data columnname="Difference Absolut">1,1410927151319</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4647</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, Options, AutoVacuumOn, SetAutoVacuum, SetCacheSize, LowerCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">14,5978011333879</data>
+    <data columnname="Measured Value">16,1693580920197</data>
+    <data columnname="Difference Absolut">1,5715569586318</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4648</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_QUICKBALANCE, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,7785608722125</data>
+    <data columnname="Measured Value">16,0949850835483</data>
+    <data columnname="Difference Absolut">-0,6835757886642</data>
+    <data columnname="Difference in %">-4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4649</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREone, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LOOKASIDE, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, StandardPageSize, </data>
+    <data columnname="Estimated Value">15,6827516404723</data>
+    <data columnname="Measured Value">16,1418475091552</data>
+    <data columnname="Difference Absolut">0,459095868682899</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4650</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREthree, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_LFS, OmitFeatures, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, HigherCacheSize, LockingMode, ExclusiveLock, PageSize, LowerPageSize, </data>
+    <data columnname="Estimated Value">13,5902591083002</data>
+    <data columnname="Measured Value">16,055756785264</data>
+    <data columnname="Difference Absolut">2,4654976769638</data>
+    <data columnname="Difference in %">15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4651</data>
+    <data columnname="Elements">OperatingSystemCharacteristics, SQLITE_SECURE_DELETE, ChooseSQLITE_TEMP_STORE, SQLITE_TEMP_STOREtwo, EnableFeatures, SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_ENABLE_STAT2, DisableFeatures, SQLITE_DISABLE_DIRSYNC, OmitFeatures, SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_OMIT_BTREECOUNT, SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_OMIT_SHARED_CACHE, SQLITE_OMIT_XFER_OPT, Options, AutoVacuumOff, SetAutoVacuum, SetCacheSize, StandardCacheSize, LockingMode, ExclusiveLock, PageSize, HigherPageSize, </data>
+    <data columnname="Estimated Value">16,5747527721549</data>
+    <data columnname="Measured Value">15,6467470638652</data>
+    <data columnname="Difference Absolut">-0,928005708289698</data>
+    <data columnname="Difference in %">-6</data>
+  </row>
+</results>

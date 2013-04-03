@@ -1,0 +1,5 @@
+SampleSize,AvgBreadth,AvgDepth,FaultRate,Accuracy
+16,7,3.6,15.1,84.9
+32,8.8,4,8.5,91.5
+48,7.2,3.6,7.2,92.8
+81,7.4,3.6,6.4,93.6

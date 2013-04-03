@@ -1,0 +1,4098 @@
+<results>
+  <row>
+    <data columname="Configuration">time_passes,</data>
+    <data columname="Measured Value">210,44</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,iv_users,</data>
+    <data columname="Measured Value">200,66</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">213,603333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">248,583333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">251,803333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">261,573333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">267,593333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">260,693333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">265,423333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">262,94</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">263,82</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">267,51</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">268,55</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">214,886666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">249,343333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">251,786666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,523333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">252,683333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">263,586666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,743333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">269,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">269,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">249,36</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">250,43</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">210,996666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">262,113333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">267,173333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">252,446666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">265,816666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">253,673333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">215,01</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">212,053333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">216,373333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">210,506666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">212,713333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">211,48</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">213,096666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,</data>
+    <data columname="Measured Value">202,386666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">214,406666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">215,733333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">215,946666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,</data>
+    <data columname="Measured Value">217,236666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">212,443333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">214,38</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">215,943333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">217,466666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">213,406666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">216,923333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">201,896666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">215,366666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">218,233333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">213</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">214,48</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">214,05</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">215,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">217,293333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">218,323333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">218,623333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,</data>
+    <data columname="Measured Value">219,636666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,ipsccp,</data>
+    <data columname="Measured Value">203,636666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,iv_users,</data>
+    <data columname="Measured Value">216,403333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,ipsccp,</data>
+    <data columname="Measured Value">218,816666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,ipsccp,iv_users,</data>
+    <data columname="Measured Value">219,283333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,</data>
+    <data columname="Measured Value">221,376666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">217,286666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,iv_users,</data>
+    <data columname="Measured Value">220,396666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">219,386666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,</data>
+    <data columname="Measured Value">222,433333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,iv_users,</data>
+    <data columname="Measured Value">218,096666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,</data>
+    <data columname="Measured Value">220,423333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">204,176666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">218,89</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,ipsccp,</data>
+    <data columname="Measured Value">221,166666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">221,01</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">222,086666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">223,296666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,</data>
+    <data columname="Measured Value">224,073333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">217,696666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">219,966666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">220,386666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,</data>
+    <data columname="Measured Value">222,52</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">205,13</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">219,333333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">222,186666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">221,726666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">224,176666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">218,563333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">220,573333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">220,21</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">222,266666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">221,26</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">223,07</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">205,99</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">223,286666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,</data>
+    <data columname="Measured Value">224,95</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,iv_users,</data>
+    <data columname="Measured Value">224,49</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,ipsccp,</data>
+    <data columname="Measured Value">227,013333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,ipsccp,iv_users,</data>
+    <data columname="Measured Value">227,4</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,</data>
+    <data columname="Measured Value">229,276666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">224,99</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,iv_users,</data>
+    <data columname="Measured Value">228,646666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">227,153333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,</data>
+    <data columname="Measured Value">230,536666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,</data>
+    <data columname="Measured Value">206,9</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">226,13</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">228,653333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">226,57</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">228,466666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">229,07</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">230,466666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">230,793333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,</data>
+    <data columname="Measured Value">232,116666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,iv_users,</data>
+    <data columname="Measured Value">226,883333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,ipsccp,</data>
+    <data columname="Measured Value">229,186666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">200,38</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">229,643333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,</data>
+    <data columname="Measured Value">231,39</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">228,266666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">231,253333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">230,773333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,</data>
+    <data columname="Measured Value">232,76</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">227,19</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">229,123333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">228,856666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">230,686666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">201,833333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">230,943333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">232,29</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">232,523333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,</data>
+    <data columname="Measured Value">234,08</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,iv_users,</data>
+    <data columname="Measured Value">217,093333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">219,396666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">219,746666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">221,783333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">217,9</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">220,863333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,iv_users,</data>
+    <data columname="Measured Value">210,34</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">203,53</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">219,913333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,</data>
+    <data columname="Measured Value">222,823333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">218,726666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">221,056666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">219,626666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">221,623333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">221,443333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">222,366666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">223,42</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,</data>
+    <data columname="Measured Value">224,326666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,</data>
+    <data columname="Measured Value">205,206666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,iv_users,</data>
+    <data columname="Measured Value">225,34</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">227,75</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">228,256666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,</data>
+    <data columname="Measured Value">230,08</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">227,733333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">230,573333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">230,14</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">232,143333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">225,796666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">227,53</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">202,063333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">227,99</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">229,946666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">229,56</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">231,686666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">231,206666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">233,276666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">218,123333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">220,37</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">220,803333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">222,896666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">205,363333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">219,076666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">221,86</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">220,976666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">223,773333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">226,746666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">229,296666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">227,286666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">228,973333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">229,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">230,823333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">203,976666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">231,196666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">232,66</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">219,87</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">222,163333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">222,556666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">224,506666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">229,206666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">231,77</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">231,326666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">233,276666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">207,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">220,82</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">222,626666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">229,553333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">231,16</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">223,52</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">232,96</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">225,156666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,</data>
+    <data columname="Measured Value">234,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,iv_users,</data>
+    <data columname="Measured Value">219,153333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,ipsccp,</data>
+    <data columname="Measured Value">224,43</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">201,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,ipsccp,iv_users,</data>
+    <data columname="Measured Value">223,683333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,</data>
+    <data columname="Measured Value">227,853333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">221,333333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,iv_users,</data>
+    <data columname="Measured Value">224,733333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">225,62</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,</data>
+    <data columname="Measured Value">229,166666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,iv_users,</data>
+    <data columname="Measured Value">221,25</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,</data>
+    <data columname="Measured Value">226,503333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">223,493333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,ipsccp,</data>
+    <data columname="Measured Value">227,78</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">203,19</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">225,503333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">226,566666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">229,79</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,</data>
+    <data columname="Measured Value">230,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">222,236666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">227,393333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">225,413333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,</data>
+    <data columname="Measured Value">229,676666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">224,336666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">227,183333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">203,19</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">229,243333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">231,336666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">223,213333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">227,443333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">225,26</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">229,313333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">226,58</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">228,336666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">230,653333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,</data>
+    <data columname="Measured Value">232,2</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">204,963333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,iv_users,</data>
+    <data columname="Measured Value">221,606666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">226,7</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">224,526666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">228,936666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">222,556666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">225,686666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">226,65</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">229,856666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">223,013333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">227,94</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,ipsccp,</data>
+    <data columname="Measured Value">201,153333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">204,73</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">223,976666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">227,906666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">226,086666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">227,026666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">230,313333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,</data>
+    <data columname="Measured Value">231,19</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">223,336666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">228,283333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">226,133333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">230,59</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">206,426666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">224,876666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">227,64</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">229,816666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">231,796666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">224,296666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">228,563333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">225,773333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">230,133333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">227,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">228,716666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">206,35</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">231,313333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,</data>
+    <data columname="Measured Value">232,7</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,iv_users,</data>
+    <data columname="Measured Value">234,87</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,ipsccp,</data>
+    <data columname="Measured Value">240,163333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,ipsccp,iv_users,</data>
+    <data columname="Measured Value">238,783333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,</data>
+    <data columname="Measured Value">242,916666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">236,886666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,iv_users,</data>
+    <data columname="Measured Value">239,656666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">241,7</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,</data>
+    <data columname="Measured Value">244,5</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,</data>
+    <data columname="Measured Value">208,046666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,iv_users,</data>
+    <data columname="Measured Value">237,75</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,</data>
+    <data columname="Measured Value">242,786666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">239,273333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,ipsccp,</data>
+    <data columname="Measured Value">243,366666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">241,016666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">241,97</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">245,156666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,</data>
+    <data columname="Measured Value">245,936666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,iv_users,</data>
+    <data columname="Measured Value">238,096666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">242,806666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,iv_users,</data>
+    <data columname="Measured Value">199,683333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">240,22</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,</data>
+    <data columname="Measured Value">244,49</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">239,926666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">242,086666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">244,593333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">246,026666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">238,703333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">242,56</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">240,406666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">244,26</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">201,546666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">241,326666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">242,856666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">245,22</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,</data>
+    <data columname="Measured Value">246,756666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">238,733333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">243,523333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">240,983333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">244,73</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">239,366666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">241,703333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">202,933333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">243,123333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">245,756666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">239,556666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">244,283333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">240,21</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">243,963333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">241,826666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">242,736666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">245,7</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,</data>
+    <data columname="Measured Value">246,48</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">204,686666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">240,34</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">245,196666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">242,426666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">246,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">241,233333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">243,26</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">246,16</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">247,276666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">240,983333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">244,606666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">200,82</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">241,78</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">245,596666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">243,443333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">244,233333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">247,166666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,</data>
+    <data columname="Measured Value">248,016666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,iv_users,</data>
+    <data columname="Measured Value">230,166666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,ipsccp,</data>
+    <data columname="Measured Value">236,243333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,ipsccp,iv_users,</data>
+    <data columname="Measured Value">233,666666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,</data>
+    <data columname="Measured Value">238,62</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">204,05</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">231,036666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,iv_users,</data>
+    <data columname="Measured Value">235,173333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">235,92</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,</data>
+    <data columname="Measured Value">239,976666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,iv_users,</data>
+    <data columname="Measured Value">232,86</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,</data>
+    <data columname="Measured Value">238,78</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">233,433333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,ipsccp,</data>
+    <data columname="Measured Value">238,253333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">235,97</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">237,443333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,ipsccp,iv_users,</data>
+    <data columname="Measured Value">202,233333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">202,69</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">240,993333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,</data>
+    <data columname="Measured Value">242,156666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">232,33</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">238,246666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">235,346666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,</data>
+    <data columname="Measured Value">240,233333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">234,653333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">237,866666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">240,986666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">242,546666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">205,946666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">232,956666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">237,69</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">235,533333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">240,05</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">237,036666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">239,32</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">241,57</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,</data>
+    <data columname="Measured Value">244,03</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,iv_users,</data>
+    <data columname="Measured Value">244,91</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,ipsccp,</data>
+    <data columname="Measured Value">251,58</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">200,923333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,ipsccp,iv_users,</data>
+    <data columname="Measured Value">247,503333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,</data>
+    <data columname="Measured Value">253,053333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">245,316666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,iv_users,</data>
+    <data columname="Measured Value">248,97</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">250,62</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,</data>
+    <data columname="Measured Value">253,963333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">246,94</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">253,256666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">247,266666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">252,14</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">202,936666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">249,566666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">250,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">254,256666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,</data>
+    <data columname="Measured Value">255,473333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,iv_users,</data>
+    <data columname="Measured Value">247,076666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,ipsccp,</data>
+    <data columname="Measured Value">253,636666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">249,81</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,</data>
+    <data columname="Measured Value">255,023333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">249,116666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">251,516666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">201,973333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">255,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,</data>
+    <data columname="Measured Value">256,453333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">247,716666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">252,683333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">249,343333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">254,143333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">251</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">252,58</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">256,183333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,</data>
+    <data columname="Measured Value">257,513333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">203,933333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,iv_users,</data>
+    <data columname="Measured Value">231,33</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">237,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">234,55</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">239,563333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">231,913333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">235,973333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">236,84</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,</data>
+    <data columname="Measured Value">240,826666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">234,25</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">240,623333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">204,293333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">235,03</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">239,79</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">237,523333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">239,06</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">242,5</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,</data>
+    <data columname="Measured Value">243,783333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,iv_users,</data>
+    <data columname="Measured Value">246,733333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">253,153333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">249,386666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,</data>
+    <data columname="Measured Value">254,336666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">205,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">248,893333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">251,41</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">255,39</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">256,473333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">247,08</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">252,06</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">249,28</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">254,13</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">250,493333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">252,513333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">206,226666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">255,363333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">257,54</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">233,743333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">240,073333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">236,95</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">241,896666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">234,336666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">238,46</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">239,243333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,</data>
+    <data columname="Measured Value">243,283333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,</data>
+    <data columname="Measured Value">207,233333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">248,536666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,</data>
+    <data columname="Measured Value">254,89</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,iv_users,</data>
+    <data columname="Measured Value">248,81</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">253,653333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">251,013333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,ipsccp,iv_users,</data>
+    <data columname="Measured Value">252,14</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">255,873333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">256,97</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">236,226666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">242,456666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,</data>
+    <data columname="Measured Value">204,053333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">201,703333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">239,51</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">244,253333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">250,726666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">253,1</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">257,17</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">258,05</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">236,893333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">241,693333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">250,863333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">255,623333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">203,56</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">240,543333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">254,243333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">245,343333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,licm,</data>
+    <data columname="Measured Value">258,826666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,iv_users,licm,</data>
+    <data columname="Measured Value">212,446666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,ipsccp,licm,</data>
+    <data columname="Measured Value">213,266666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">215,606666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,licm,</data>
+    <data columname="Measured Value">216,636666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">213,533333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">216,586666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">205,086666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">214,326666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,licm,</data>
+    <data columname="Measured Value">217,396666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">214,37</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">215,13</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">215,293333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">216,223333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">217,55</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">218,433333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">218,403333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,licm,</data>
+    <data columname="Measured Value">219,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,</data>
+    <data columname="Measured Value">206,616666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">213,48</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">214,283333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">216,716666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">217,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">215,19</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">218,296666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">216,23</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">219,306666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">214,653333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">215,483333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,ipsccp,</data>
+    <data columname="Measured Value">202,81</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">216,27</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">217,073333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">217,653333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">219,37</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">218,586666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,licm,</data>
+    <data columname="Measured Value">220,08</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">212,92</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">213,86</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">215,993333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">217,063333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,iv_users,</data>
+    <data columname="Measured Value">206,116666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">213,996666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">217,186666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">215,026666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">218,073333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">214,243333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">215,02</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">215,183333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">216,296666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">217,403333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">218,4</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">204,96</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">218,503333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">219,313333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">214,886666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">215,853333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">218,02</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">218,96</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">216,063333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">219,076666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">216,873333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">219,826666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">207,89</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">215,956666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">216,913333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">216,906666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">218,036666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">219,05</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">219,873333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">219,946666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,licm,</data>
+    <data columname="Measured Value">220,866666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,iv_users,licm,</data>
+    <data columname="Measured Value">241,776666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,ipsccp,licm,</data>
+    <data columname="Measured Value">243,793333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">202,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">246,126666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,licm,</data>
+    <data columname="Measured Value">246,956666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">243,083333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">247,37</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">244,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,licm,</data>
+    <data columname="Measured Value">248,196666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">256,94</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">259,393333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">261,013333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">260,88</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,</data>
+    <data columname="Measured Value">204,513333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">264,18</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">265,38</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,64</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,licm,</data>
+    <data columname="Measured Value">266,323333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">255,436666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">257,17</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">261,836666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">263,31</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">257,713333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,18</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">199,953333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">203,856666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">259,5</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">264,736666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">257,676666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">259,366666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">260,823333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">261,533333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">262,483333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">265,65</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,29</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,licm,</data>
+    <data columname="Measured Value">266,19</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">205,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">256,06</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">258,16</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">263,13</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">263,58</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">259,383333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">263,746666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">260,413333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">264,51</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">257,043333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">259,38</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">205,706666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">260,77</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">261,43</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">263,583333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">263,776666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,04</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">265,69</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">258,9</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">261,076666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">265,4</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">266,026666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">207,1</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">259,693333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">266,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">262,006666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">267,17</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">261,896666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">263,043333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">263,186666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">263,57</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">266,386666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">267,07</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">207,646666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">266,54</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,licm,</data>
+    <data columname="Measured Value">267,426666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,iv_users,licm,</data>
+    <data columname="Measured Value">228,3</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,ipsccp,licm,</data>
+    <data columname="Measured Value">232,616666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">232,18</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,licm,</data>
+    <data columname="Measured Value">236,21</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">230,236666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">233,326666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">234,1</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,licm,</data>
+    <data columname="Measured Value">237,133333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,</data>
+    <data columname="Measured Value">208,92</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">230,466666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">234,696666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">232,026666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">235,733333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">234,053333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">237,896666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,licm,</data>
+    <data columname="Measured Value">238,753333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">231,216666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">235,513333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,iv_users,</data>
+    <data columname="Measured Value">207,746666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">234,006666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">237,89</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">233,116666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,7</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">237,506666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">239,593333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">231,886666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">235,85</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">233,793333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">237,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,ipsccp,</data>
+    <data columname="Measured Value">209,703333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">234,95</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,586666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">238,823333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,licm,</data>
+    <data columname="Measured Value">240,346666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,iv_users,licm,</data>
+    <data columname="Measured Value">243,933333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,ipsccp,licm,</data>
+    <data columname="Measured Value">249,663333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">246,39</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,licm,</data>
+    <data columname="Measured Value">250,876666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">243,806666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">247,626666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,ipsccp,iv_users,</data>
+    <data columname="Measured Value">211,39</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">248,403333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,licm,</data>
+    <data columname="Measured Value">252,21</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">245,79</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">251,906666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">245,563333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">250,26</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">248,07</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">249,3</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">252,746666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,licm,</data>
+    <data columname="Measured Value">253,983333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,</data>
+    <data columname="Measured Value">213,183333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">246,376666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">252,126666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">248,783333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">253,393333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">248,603333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">250,443333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">254,266666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">255,173333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">246,086666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">250,566666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,iv_users,</data>
+    <data columname="Measured Value">203,18</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">208,37</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">248,063333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">252,52</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">250,04</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,566666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">254,59</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,licm,</data>
+    <data columname="Measured Value">256,223333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">230,79</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">235,21</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">233,55</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">237,333333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,iv_users,</data>
+    <data columname="Measured Value">212,936666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">231,443333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">234,24</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,313333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">238,203333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">232,493333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">237,063333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">233,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">236,976666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">235,233333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,946666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">210,236666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">239,036666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,licm,</data>
+    <data columname="Measured Value">239,963333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">245,21</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">251,09</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">247,373333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">252,043333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">247,79</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">249,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">253,82</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">254,393333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,</data>
+    <data columname="Measured Value">214,72</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">244,846666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">249,563333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">247,013333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">252,036666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">249,086666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,25</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">253,54</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">255,643333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">232,216666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">236,64</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,iv_users,</data>
+    <data columname="Measured Value">210,706666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">234,773333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">238,736666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">232,636666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">235,573333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,58</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">239,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">246,943333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">252,893333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">246,503333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">251,033333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,</data>
+    <data columname="Measured Value">212,516666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">249,046666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">250,23</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">253,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">255,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">234,053333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">238,556666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,38</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">240,43</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">249,616666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,31</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">211,186666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">255,423333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">256,226666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">234,45</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">238,273333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">248,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">253,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">237,346666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">252,623333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">241,226666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,licm,</data>
+    <data columname="Measured Value">257,333333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,ipsccp,</data>
+    <data columname="Measured Value">212,94</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,iv_users,licm,</data>
+    <data columname="Measured Value">230,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,ipsccp,licm,</data>
+    <data columname="Measured Value">231,996666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">233,446666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,licm,</data>
+    <data columname="Measured Value">234,266666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">231</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">233,66</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">232,046666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,licm,</data>
+    <data columname="Measured Value">234,866666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">232,22</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">233,543333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">214,25</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">232,65</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">233,85</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">235,163333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,06</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,36</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,licm,</data>
+    <data columname="Measured Value">237,103333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">231,62</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">232,636666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">233,43</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">234,42</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">215,853333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">233</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">234,873333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">234,223333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">235,853333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">231,63</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">232,59</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">232,99</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">234,25</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">235,073333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,53</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">201,52</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">215,883333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,17</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,licm,</data>
+    <data columname="Measured Value">237,696666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">231,323333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">232,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">233,23</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">234,383333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">231,756666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">234,613333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">232,983333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">235,91</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,</data>
+    <data columname="Measured Value">217,29</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">233,003333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">234,063333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">233,146666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">234,133333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">234,92</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,793333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,96</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">236,736666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">233,416666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">234,466666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,iv_users,</data>
+    <data columname="Measured Value">208,986666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,373333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">236,433333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">234,56</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">236,346666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">235,78</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">237,41</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">233,426666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">234,746666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">234,65</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">235,79</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,ipsccp,</data>
+    <data columname="Measured Value">211,273333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">236,306666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">237,226666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">237,36</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,licm,</data>
+    <data columname="Measured Value">238,23</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,iv_users,licm,</data>
+    <data columname="Measured Value">246,003333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,ipsccp,licm,</data>
+    <data columname="Measured Value">249,99</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">248,69</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,licm,</data>
+    <data columname="Measured Value">252,18</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">246,806666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">249,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,ipsccp,iv_users,</data>
+    <data columname="Measured Value">212,926666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">250,24</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,licm,</data>
+    <data columname="Measured Value">252,836666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">247,686666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">251,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">248,34</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">251,706666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">250,05</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">250,866666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">253,506666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,licm,</data>
+    <data columname="Measured Value">254,34</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,</data>
+    <data columname="Measured Value">214,343333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">247,803333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">251,846666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">249,576666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">252,986666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">249,436666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,01</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">253,49</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">254,466666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">247,613333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">251,323333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,ipsccp,</data>
+    <data columname="Measured Value">211,586666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">249,41</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">252,806666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">250,276666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,793333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">254,423333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,licm,</data>
+    <data columname="Measured Value">255,213333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">247,993333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">251,933333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">249,716666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">253,116666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,iv_users,</data>
+    <data columname="Measured Value">215,313333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">248,063333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">250,336666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,433333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">254,073333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">249,036666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">252,82</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">248,903333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">252,276666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">250,533333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,363333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,ipsccp,iv_users,</data>
+    <data columname="Measured Value">213,846666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">254,123333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">255,013333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">250,066666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">253,743333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,163333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">254,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">250,596666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,983333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">254,42</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">255,323333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,</data>
+    <data columname="Measured Value">216,836666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">249,46</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">252,873333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">250,48</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">253,57</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">251,813333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">252,77</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">255,43</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,licm,</data>
+    <data columname="Measured Value">256,246666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,iv_users,licm,</data>
+    <data columname="Measured Value">244,916666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,ipsccp,licm,</data>
+    <data columname="Measured Value">247,466666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,</data>
+    <data columname="Measured Value">204,986666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,iv_users,</data>
+    <data columname="Measured Value">209,84</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">248,02</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,licm,</data>
+    <data columname="Measured Value">248,896666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">245,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">249,053333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">246,32</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,licm,</data>
+    <data columname="Measured Value">250,163333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">247,253333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">249,786666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">247,426666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">248,43</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,</data>
+    <data columname="Measured Value">211,59</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">250,12</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,236666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,236666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,licm,</data>
+    <data columname="Measured Value">252,266666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">246,61</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">249,253333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">249,013333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">250,243333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">248,71</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,02</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,iv_users,</data>
+    <data columname="Measured Value">212,45</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,296666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">252,093333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">246,653333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">247,873333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">248,65</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">249,833333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">249,826666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,913333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,15</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,licm,</data>
+    <data columname="Measured Value">253,15</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">214,153333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,iv_users,licm,</data>
+    <data columname="Measured Value">258,556666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,ipsccp,licm,</data>
+    <data columname="Measured Value">264,6</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">260,326666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,licm,</data>
+    <data columname="Measured Value">264,993333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">258,023333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">261,436666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">262,736666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,licm,</data>
+    <data columname="Measured Value">266,096666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">260,496666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">266,45</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,ipsccp,</data>
+    <data columname="Measured Value">214,313333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">259,76</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">264,47</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">261,846666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">262,95</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">266,516666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,licm,</data>
+    <data columname="Measured Value">267,846666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">261,09</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">267,043333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">262,663333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,licm,</data>
+    <data columname="Measured Value">267,28</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">216,913333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">262,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,163333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">268,796666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">268,583333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">260,173333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">264,926666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">261,676666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">266,213333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">263,716666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,933333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,</data>
+    <data columname="Measured Value">215,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">268,416666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,licm,</data>
+    <data columname="Measured Value">269,516666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">245,793333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">248,186666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">248,416666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">249,493333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">246,006666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">249,533333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">247,26</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">250,596666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,</data>
+    <data columname="Measured Value">218,153333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">247,673333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">250,366666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">248,03</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">249,3</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">250,45</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,516666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">251,246666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,licm,</data>
+    <data columname="Measured Value">252,5</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,iv_users,licm,</data>
+    <data columname="Measured Value">260,166666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,ipsccp,licm,</data>
+    <data columname="Measured Value">266,11</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,iv_users,</data>
+    <data columname="Measured Value">209,583333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">261,686666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,licm,</data>
+    <data columname="Measured Value">266,476666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,ipsccp,licm,</data>
+    <data columname="Measured Value">262,22</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,iv_users,licm,</data>
+    <data columname="Measured Value">263,786666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">268,41</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,licm,</data>
+    <data columname="Measured Value">268,38</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">259,26</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,licm,</data>
+    <data columname="Measured Value">264,166666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">261,363333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">266,093333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,simplifycfg,ipsccp,</data>
+    <data columname="Measured Value">211,743333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">262,596666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">264,6</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">267,316666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,licm,</data>
+    <data columname="Measured Value">269,38</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,iv_users,licm,</data>
+    <data columname="Measured Value">247,13</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,ipsccp,licm,</data>
+    <data columname="Measured Value">249,74</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,ipsccp,iv_users,licm,</data>
+    <data columname="Measured Value">249,6</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,licm,</data>
+    <data columname="Measured Value">250,613333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,licm,</data>
+    <data columname="Measured Value">247,31</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,inline,jump_threading,simplifycfg,print_used_types,iv_users,licm,</data>
+    <data columname="Measured Value">250,753333333333</data>
+  </row>
+</results>

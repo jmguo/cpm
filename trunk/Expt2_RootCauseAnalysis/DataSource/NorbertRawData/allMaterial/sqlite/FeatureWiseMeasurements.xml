@@ -1,0 +1,106 @@
+<results>
+  <row>
+    <data columname="Configuration"> SQLITE_SECURE_DELETE, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,087726595374</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_AUTOMATIC_INDEX, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,1670167177885</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_BETWEEN_OPTIMIZATION, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,2809776530953</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_BTREECOUNT, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,3344235201398</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_LIKE_OPTIMIZATION, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,1069993003103</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_LOOKASIDE, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,2225692948399</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_OR_OPTIMIZATION, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,2286592646917</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_QUICKBALANCE, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,2471232316425</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_SHARED_CACHE, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,1374050654597</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_OMIT_XFER_OPT, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,3494044625002</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_TEMP_STORE 0, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,4001940098352</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,6952114252917</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 1, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,7019234878403</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 1000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">14,2376989088668</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 4000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,3587252315413</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 0, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,3348282329957</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 512,</data>
+    <data columname="Measured Value">13,4993184178456</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 2048,</data>
+    <data columname="Measured Value">13,4827773187025</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 8096,</data>
+    <data columname="Measured Value">13,9068635570979</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_TEMP_STORE 1, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">12,9124938270175</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_TEMP_STORE 2, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,3982485875091</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_TEMP_STORE 3, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,4402177638348</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_ENABLE_ATOMIC_WRITE, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,2769928216634</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_ENABLE_STAT2, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,3714471431291</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DISABLE_LFS, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">13,6114403043494</data>
+  </row>
+  <row>
+    <data columname="Configuration"> SQLITE_DISABLE_DIRSYNC, SQLITE_DEFAULT_AUTOVACUUM 0, SQLITE_DEFAULT_CACHE_SIZE 2000, SQLITE_DEFAULT_LOCKING_MODE 1, SQLITE_DEFAULT_PAGE_SIZE 1024,</data>
+    <data columname="Measured Value">12,9591850439916</data>
+  </row>
+</results>

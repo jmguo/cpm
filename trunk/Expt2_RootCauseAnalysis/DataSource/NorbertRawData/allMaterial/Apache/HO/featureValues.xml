@@ -1,0 +1,267 @@
+<results>
+  <row>
+    <data columnname="Name">Base</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">1200</data>
+  </row>
+  <row>
+    <data columnname="Name">HostnameLookups</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-210</data>
+  </row>
+  <row>
+    <data columnname="Name">KeepAlive</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">840</data>
+  </row>
+  <row>
+    <data columnname="Name">EnableSendfile</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">120</data>
+  </row>
+  <row>
+    <data columnname="Name">FollowSymLinks</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">AccessLog</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-120</data>
+  </row>
+  <row>
+    <data columnname="Name">ExtendedStatus</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-90</data>
+  </row>
+  <row>
+    <data columnname="Name">InMemory</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">210</data>
+  </row>
+  <row>
+    <data columnname="Name">Handle</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_KeepAlive</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">120</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_EnableSendfile</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_FollowSymLinks</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_EnableSendfile</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_FollowSymLinks</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-150</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-870</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_EnableSendfile_FollowSymLinks</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_EnableSendfile_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_EnableSendfile_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-150</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_AccessLog_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_AccessLog_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_ExtendedStatus_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_KeepAlive_EnableSendfile</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_KeepAlive_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_EnableSendfile_FollowSymLinks</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_EnableSendfile_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">90</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_FollowSymLinks_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">90</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_FollowSymLinks_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_HostnameLookups_AccessLog_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">90</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_EnableSendfile_FollowSymLinks</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_EnableSendfile_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_EnableSendfile_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_FollowSymLinks_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_FollowSymLinks_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">90</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_KeepAlive_AccessLog_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">360</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_EnableSendfile_FollowSymLinks_AccessLog</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_EnableSendfile_FollowSymLinks_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_EnableSendfile_AccessLog_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">120</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_HostnameLookups_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_KeepAlive_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-90</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_EnableSendfile_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-120</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_AccessLog_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">180</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_FollowSymLinks_ExtendedStatus_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">60</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_AccessLog_EnableSendfile_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">-30</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_AccessLog_ExtendedStatus_Handle</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">150</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_Handle_HostnameLookups_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">120</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_Handle_KeepAlive_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">300</data>
+  </row>
+  <row>
+    <data columnname="Name">derivative_Handle_EnableSendfile_ExtendedStatus</data>
+    <data columnname="Type">derivative</data>
+    <data columnname="Value">90</data>
+  </row>
+</results>

@@ -1,0 +1,13 @@
+SampleSize,NormalizedValue,Kind,AvgBreadth,AvgDepth,FaultRate,Accuracy,NmlzAvgBreadth,NmlzAvgDepth,NmlzAccuracy
+18,0.7,AvgBreadth,7,3.4,112.4,-12.4,0.7,0.34,-0.124
+18,0.34,AvgDepth,,,,,,,
+18,-0.124,Accuracy,,,,,,,
+36,0.68,AvgBreadth,6.8,3.8,98.3,1.7,0.68,0.38,0.017
+36,0.38,AvgDepth,,,,,,,
+36,0.017,Accuracy,,,,,,,
+54,0.72,AvgBreadth,7.2,3.8,46.8,53.2,0.72,0.38,0.532
+54,0.38,AvgDepth,,,,,,,
+54,0.532,Accuracy,,,,,,,
+139,1.28,AvgBreadth,12.8,5.6,7.8,92.2,1.28,0.56,0.922
+139,0.56,AvgDepth,,,,,,,
+139,0.922,Accuracy,,,,,,,

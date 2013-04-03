@@ -1,0 +1,54 @@
+<NfpModel>
+  <DirectlyAssigned />
+  <Inferred />
+  <Runtime>
+    <Footprint>
+      <measurement name="Measure DLL" type="runtime">
+        <appFile>C:\Dokumente und Einstellungen\a-nsiegmun\Desktop\MeasureDirectorySize.exe</appFile>
+        <envVariables>
+        </envVariables>
+        <startArgs>C:\Workspace\measurementFootprint\measure_C\db-4.4.20_VS8\build_win32\Release\ size.xml .lib</startArgs>
+        <execProcedurePerFeature>False</execProcedurePerFeature>
+        <inclFiles />
+        <outputPattern outputType="XML-based">
+          <XmlFile>$appFolder\size.xml</XmlFile>
+          <XpathExpr>//variant_size</XpathExpr>
+        </outputPattern>
+      </measurement>
+      <measured_values SplName="BerkeleyDbC">
+        <HAVE_CRYPTO id="1">
+          <clearedValue>19526</clearedValue>
+          <measuredValue>1824374</measuredValue>
+        </HAVE_CRYPTO>
+        <HAVE_HASH id="2">
+          <clearedValue>113856</clearedValue>
+          <measuredValue>1918704</measuredValue>
+        </HAVE_HASH>
+        <HAVE_QUEUE id="3">
+          <clearedValue>57926</clearedValue>
+          <measuredValue>1862774</measuredValue>
+        </HAVE_QUEUE>
+        <HAVE_REPLICATION id="4">
+          <clearedValue>89404</clearedValue>
+          <measuredValue>1894252</measuredValue>
+        </HAVE_REPLICATION>
+        <HAVE_VERIFY id="5">
+          <clearedValue>50766</clearedValue>
+          <measuredValue>1855614</measuredValue>
+        </HAVE_VERIFY>
+        <HAVE_SEQUENCE id="6">
+          <clearedValue>20374</clearedValue>
+          <measuredValue>1825222</measuredValue>
+        </HAVE_SEQUENCE>
+        <HAVE_STATISTICS id="7">
+          <clearedValue>285324</clearedValue>
+          <measuredValue>2090172</measuredValue>
+        </HAVE_STATISTICS>
+        <DIAGNOSTIC id="8">
+          <clearedValue>110716</clearedValue>
+          <measuredValue>1915564</measuredValue>
+        </DIAGNOSTIC>
+      </measured_values>
+    </Footprint>
+  </Runtime>
+</NfpModel>
