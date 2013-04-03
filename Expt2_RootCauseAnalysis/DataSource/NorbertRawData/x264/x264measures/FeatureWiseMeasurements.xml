@@ -1,0 +1,50 @@
+<results>
+  <row>
+    <data columname="Configuration">no_asm,no_8x8dct,ref_1,rc_lookahead_20,</data>
+    <data columname="Measured Value">254,63</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,rc_lookahead_60,ref_1,</data>
+    <data columname="Measured Value">271,97</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,ref_5,rc_lookahead_20,</data>
+    <data columname="Measured Value">442,034</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,ref_9,rc_lookahead_20,</data>
+    <data columname="Measured Value">610,44</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,no_cabac,ref_1,rc_lookahead_20,</data>
+    <data columname="Measured Value">260,388</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,no_deblock,ref_1,rc_lookahead_20,</data>
+    <data columname="Measured Value">268,064</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,no_fast_pskip,ref_1,rc_lookahead_20,</data>
+    <data columname="Measured Value">275,95</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,no_mbtree,ref_1,rc_lookahead_20,</data>
+    <data columname="Measured Value">305,236</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,no_mixed_refs,ref_1,rc_lookahead_20,</data>
+    <data columname="Measured Value">268,72</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,no_weightb,ref_1,rc_lookahead_20,</data>
+    <data columname="Measured Value">268,704</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,rc_lookahead_20,ref_1,</data>
+    <data columname="Measured Value">268,816</data>
+  </row>
+  <row>
+    <data columname="Configuration">no_asm,rc_lookahead_40,ref_1,</data>
+    <data columname="Measured Value">270,586</data>
+  </row>
+</results>

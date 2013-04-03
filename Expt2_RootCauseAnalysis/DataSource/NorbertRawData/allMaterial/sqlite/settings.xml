@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<VariantGenerationSettings>
+  <generationType>PP</generationType>
+  <PreprocessorType>define</PreprocessorType>
+  <progLanguage compilerArgs="VS">MakeFile</progLanguage>
+  <customGenFile customFile="no" />
+  <ExecutionSettings />
+</VariantGenerationSettings>

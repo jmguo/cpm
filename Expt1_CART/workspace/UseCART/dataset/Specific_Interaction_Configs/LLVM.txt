@@ -1,0 +1,117 @@
+#Configurations: 58
+time_passes,
+value: 210,44
+time_passes,iv_users,
+value: 210,34
+time_passes,licm,
+value: 258,826666666667
+time_passes,gvn,
+value: 234,68
+time_passes,instcombine,
+value: 219,636666666667
+time_passes,inline,
+value: 208,92
+time_passes,jump_threading,
+value: 208,046666666667
+time_passes,simplifycfg,
+value: 206,9
+time_passes,sccp,
+value: 204,986666666667
+time_passes,print_used_types,
+value: 204,053333333333
+time_passes,ipsccp,
+value: 201,153333333333
+time_passes,gvn,instcombine,inline,licm,
+value: 253,673333333333
+time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,
+value: 265,816666666667
+time_passes,gvn,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,
+value: 241,226666666667
+time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,
+value: 255,43
+time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,iv_users,licm,
+value: 268,416666666667
+time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,iv_users,licm,
+value: 267,316666666667
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,iv_users,licm,
+value: 267,51
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,iv_users,licm,
+value: 269,47
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,iv_users,licm,
+value: 262,113333333333
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,
+value: 252,446666666667
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,iv_users,
+value: 245,343333333333
+time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,
+value: 267,173333333333
+time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,ipsccp,licm,
+value: 251,813333333333
+time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,ipsccp,licm,
+value: 263,716666666667
+time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,ipsccp,licm,
+value: 262,596666666667
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,ipsccp,licm,
+value: 262,94
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,ipsccp,licm,
+value: 263,586666666667
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,licm,
+value: 250,43
+time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,print_used_types,licm,
+value: 269,47
+time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,print_used_types,licm,
+value: 252,873333333333
+time_passes,gvn,instcombine,inline,simplifycfg,sccp,print_used_types,licm,
+value: 264,926666666667
+time_passes,gvn,instcombine,inline,jump_threading,sccp,print_used_types,licm,
+value: 264,166666666667
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,print_used_types,licm,
+value: 267,593333333333
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,sccp,licm,
+value: 252,683333333333
+time_passes,instcombine,inline,jump_threading,simplifycfg,sccp,licm,
+value: 268,55
+time_passes,gvn,instcombine,jump_threading,simplifycfg,sccp,licm,
+value: 254,496666666667
+time_passes,gvn,instcombine,inline,simplifycfg,sccp,licm,
+value: 267,28
+time_passes,gvn,instcombine,inline,jump_threading,sccp,licm,
+value: 266,476666666667
+time_passes,gvn,instcombine,inline,jump_threading,simplifycfg,licm,
+value: 251,803333333333
+time_passes,instcombine,inline,jump_threading,simplifycfg,licm,
+value: 269,38
+time_passes,gvn,instcombine,jump_threading,simplifycfg,licm,
+value: 254,073333333333
+time_passes,gvn,instcombine,inline,simplifycfg,licm,
+value: 266,096666666667
+time_passes,gvn,instcombine,inline,jump_threading,licm,
+value: 252,5
+time_passes,instcombine,inline,jump_threading,licm,
+value: 269,516666666667
+time_passes,gvn,instcombine,jump_threading,licm,
+value: 254,34
+time_passes,gvn,instcombine,inline,licm,
+value: 253,15
+time_passes,instcombine,inline,licm,
+value: 256,246666666667
+time_passes,gvn,instcombine,licm,
+value: 238,23
+time_passes,instcombine,licm,
+value: 257,333333333333
+time_passes,gvn,instcombine,
+value: 232,7
+time_passes,instcombine,inline,
+value: 224,95
+time_passes,gvn,licm,
+value: 267,426666666667
+time_passes,inline,licm,
+value: 220,866666666667
+time_passes,gvn,inline,
+value: 248,016666666667
+time_passes,gvn,instcombine,inline,derivative_instcombine_gvn,derivative_instcombine_inline,derivative_gvn_inline,
+value: 244,03
+time_passes,gvn,inline,licm,derivative_licm_gvn,derivative_licm_inline,derivative_gvn_inline,
+value: 240,346666666667
+time_passes,gvn,instcombine,inline,licm,derivative_instcombine_licm,derivative_instcombine_gvn,derivative_instcombine_inline,derivative_licm_gvn,derivative_licm_inline,derivative_gvn_inline,derivative_instcombine_licm_gvn,derivative_instcombine_licm_inline,derivative_instcombine_gvn_inline,derivative_instcombine_licm_gvn_inline,
+value: 253,15

@@ -1,0 +1,197 @@
+<results>
+  <row>
+    <data columnname="Name">OperatingSystemCharacteristics</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_SECURE_DELETE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,3925151700823</data>
+  </row>
+  <row>
+    <data columnname="Name">ChooseSQLITE_TEMP_STORE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_TEMP_STOREzero</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,7049825845435</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_TEMP_STOREone</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_TEMP_STOREtwo</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,2969628377826</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_TEMP_STOREthree</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,2549936614569</data>
+  </row>
+  <row>
+    <data columnname="Name">EnableFeatures</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_ENABLE_ATOMIC_WRITE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,4182186036283</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_ENABLE_STAT2</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,3237642821626</data>
+  </row>
+  <row>
+    <data columnname="Name">DisableFeatures</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_DISABLE_LFS</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,0837711209423</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_DISABLE_DIRSYNC</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">OmitFeatures</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_AUTOMATIC_INDEX</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,4718052924968</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_BETWEEN_OPTIMIZATION</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,5857662278036</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_BTREECOUNT</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,6392120948481</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_LIKE_OPTIMIZATION</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,4117878750186</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_LOOKASIDE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,5273578695482</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_OR_OPTIMIZATION</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,5334478394</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_QUICKBALANCE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,5519118063508</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_SHARED_CACHE</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,442193640168</data>
+  </row>
+  <row>
+    <data columnname="Name">SQLITE_OMIT_XFER_OPT</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,6541930372085</data>
+  </row>
+  <row>
+    <data columnname="Name">Options</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">AutoVacuumOff</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">AutoVacuumOn</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,0067120625486</data>
+  </row>
+  <row>
+    <data columnname="Name">SetAutoVacuum</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">SetCacheSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">StandardCacheSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">LowerCacheSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0,5424874835751</data>
+  </row>
+  <row>
+    <data columnname="Name">HigherCacheSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,3364861937504</data>
+  </row>
+  <row>
+    <data columnname="Name">LockingMode</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">ExclusiveLock</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">NormalLockingMode</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">-0,360383192296</data>
+  </row>
+  <row>
+    <data columnname="Name">PageSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">0</data>
+  </row>
+  <row>
+    <data columnname="Name">StandardPageSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">13,6952114252917</data>
+  </row>
+  <row>
+    <data columnname="Name">LowerPageSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">13,4993184178456</data>
+  </row>
+  <row>
+    <data columnname="Name">HigherPageSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">13,4827773187025</data>
+  </row>
+  <row>
+    <data columnname="Name">HighestPageSize</data>
+    <data columnname="Type">feature</data>
+    <data columnname="Value">13,9068635570979</data>
+  </row>
+</results>

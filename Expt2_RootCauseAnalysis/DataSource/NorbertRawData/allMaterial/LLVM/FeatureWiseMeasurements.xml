@@ -1,0 +1,46 @@
+<results>
+  <row>
+    <data columname="Configuration">time_passes,</data>
+    <data columname="Measured Value">210,44</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,iv_users,</data>
+    <data columname="Measured Value">210,34</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,licm,</data>
+    <data columname="Measured Value">258,826666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,gvn,</data>
+    <data columname="Measured Value">234,68</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,instcombine,</data>
+    <data columname="Measured Value">219,636666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,inline,</data>
+    <data columname="Measured Value">208,92</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,jump_threading,</data>
+    <data columname="Measured Value">208,046666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,simplifycfg,</data>
+    <data columname="Measured Value">206,9</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,sccp,</data>
+    <data columname="Measured Value">204,986666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,print_used_types,</data>
+    <data columname="Measured Value">204,053333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration">time_passes,ipsccp,</data>
+    <data columname="Measured Value">201,153333333333</data>
+  </row>
+</results>

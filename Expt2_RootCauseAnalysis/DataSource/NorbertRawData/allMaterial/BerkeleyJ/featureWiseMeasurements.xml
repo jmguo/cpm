@@ -1,0 +1,42 @@
+<results>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,</data>
+    <data columname="Measured Value">3451</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,Statistics,</data>
+    <data columname="Measured Value">3138</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,NewIO,NIOBase,NIOType,ChunkedNIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,</data>
+    <data columname="Measured Value">3182</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,NewIO,NIOBase,NIOType,SingleWriteNIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,</data>
+    <data columname="Measured Value">3249</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,NewIO,NIOBase,NIOType,ChunkedNIO,DirectNIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,</data>
+    <data columname="Measured Value">3299</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,OldIO,LogSize,S1MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,</data>
+    <data columname="Measured Value">5231</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,INCompressor,IEvictor,Evictor,Critical_Eviction,</data>
+    <data columname="Measured Value">3314</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,INCompressor,IEvictor,Evictor,Critical_Eviction,Verifier,</data>
+    <data columname="Measured Value">3269</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,ITracing,Tracing,TracingLevel,Severe,</data>
+    <data columname="Measured Value">3269</data>
+  </row>
+  <row>
+    <data columname="Configuration">Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,ITracing,Tracing,TracingLevel,Finest,</data>
+    <data columname="Measured Value">4714</data>
+  </row>
+</results>

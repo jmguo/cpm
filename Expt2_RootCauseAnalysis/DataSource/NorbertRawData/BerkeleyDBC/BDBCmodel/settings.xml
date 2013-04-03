@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<VariantGenerationSettings>
+  <generationType>PP</generationType>
+  <progLanguage compilerArgs="Berkeley_DB.sln /Rebuild Release /project db_dll.vcproj">MSVS</progLanguage>
+  <customGenFile customFile="no" />
+  <ExecutionSettings />
+</VariantGenerationSettings>

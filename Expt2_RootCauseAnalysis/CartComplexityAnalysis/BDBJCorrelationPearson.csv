@@ -1,0 +1,5 @@
+,SampleSize,AvgBreadth,AvgDepth,Accuracy
+SampleSize,1,-0.2312872,-0.9955915,0.5967253
+AvgBreadth,-0.2312872,1,0.2626129,0.5864966
+AvgDepth,-0.9955915,0.2626129,1,-0.59555
+Accuracy,0.5967253,0.5864966,-0.59555,1

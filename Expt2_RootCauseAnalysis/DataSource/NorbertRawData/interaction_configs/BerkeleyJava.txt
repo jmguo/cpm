@@ -1,0 +1,21 @@
+#Configurations: 10
+Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,
+value: 3451
+Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,Statistics,
+value: 3138
+Base,Persistence,IO,NewIO,NIOBase,NIOType,ChunkedNIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,
+value: 3182
+Base,Persistence,IO,NewIO,NIOBase,NIOType,SingleWriteNIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,
+value: 3249
+Base,Persistence,IO,NewIO,NIOBase,NIOType,ChunkedNIO,DirectNIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,
+value: 3299
+Base,Persistence,IO,OldIO,LogSize,S1MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,
+value: 5231
+Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,INCompressor,IEvictor,Evictor,Critical_Eviction,
+value: 3314
+Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,INCompressor,IEvictor,Evictor,Critical_Eviction,Verifier,
+value: 3269
+Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,ITracing,Tracing,TracingLevel,Severe,
+value: 3269
+Base,Persistence,IO,OldIO,LogSize,S100MiB,Checksum,BTreeFeatures,IEvictor,Evictor,Critical_Eviction,ITracing,Tracing,TracingLevel,Finest,
+value: 4714

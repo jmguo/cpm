@@ -1,0 +1,62 @@
+<results>
+  <row>
+    <data columname="Configuration"> HAVE_CRYPTO, PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">3,21929751282051</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS8K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,482040052631579</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS16K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,616064289473684</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS32K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,917929</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS1K, CACHESIZE, CS16MB,</data>
+    <data columname="Measured Value">0,5044075</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS1K, CACHESIZE, CS64MB,</data>
+    <data columname="Measured Value">0,502207128205128</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS1K, CACHESIZE, CS512MB,</data>
+    <data columname="Measured Value">0,502442666666667</data>
+  </row>
+  <row>
+    <data columname="Configuration"> HAVE_HASH, PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,365789897435897</data>
+  </row>
+  <row>
+    <data columname="Configuration"> HAVE_REPLICATION, PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,518546692307692</data>
+  </row>
+  <row>
+    <data columname="Configuration"> HAVE_VERIFY, PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,535565435897436</data>
+  </row>
+  <row>
+    <data columname="Configuration"> HAVE_SEQUENCE, PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,505745282051282</data>
+  </row>
+  <row>
+    <data columname="Configuration"> HAVE_STATISTICS, PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,518685128205128</data>
+  </row>
+  <row>
+    <data columname="Configuration"> DIAGNOSTIC, PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,573065948717949</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS1K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,502896333333333</data>
+  </row>
+  <row>
+    <data columname="Configuration"> PAGESIZE, PS4K, CACHESIZE, CS32MB,</data>
+    <data columname="Measured Value">0,432443897435898</data>
+  </row>
+</results>

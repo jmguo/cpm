@@ -1,0 +1,1442 @@
+<results>
+  <row>
+    <data columnname="Configuration">0</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, </data>
+    <data columnname="Estimated Value">3451</data>
+    <data columnname="Measured Value">3451</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">1</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, </data>
+    <data columnname="Estimated Value">3138</data>
+    <data columnname="Measured Value">3138</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">2</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, </data>
+    <data columnname="Estimated Value">3182</data>
+    <data columnname="Measured Value">3182</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">3</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, </data>
+    <data columnname="Estimated Value">3249</data>
+    <data columnname="Measured Value">3249</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">4</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, derivative_DirectNIO_NewIO, derivative_DirectNIO_ChunkedNIO, </data>
+    <data columnname="Estimated Value">3299</data>
+    <data columnname="Measured Value">3299</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">5</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, </data>
+    <data columnname="Estimated Value">5231</data>
+    <data columnname="Measured Value">5231</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">6</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, </data>
+    <data columnname="Estimated Value">3314</data>
+    <data columnname="Measured Value">3314</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">7</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, </data>
+    <data columnname="Estimated Value">3269</data>
+    <data columnname="Measured Value">3269</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">8</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, </data>
+    <data columnname="Estimated Value">3269</data>
+    <data columnname="Measured Value">3269</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">9</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, </data>
+    <data columnname="Estimated Value">4714</data>
+    <data columnname="Measured Value">4714</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">10</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_Statistics_INCompressor, </data>
+    <data columnname="Estimated Value">3398</data>
+    <data columnname="Measured Value">3398</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">11</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_Statistics_INCompressor, </data>
+    <data columnname="Estimated Value">3353</data>
+    <data columnname="Measured Value">3333</data>
+    <data columnname="Difference Absolut">-20</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">12</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_Statistics_S1MiB, </data>
+    <data columnname="Estimated Value">5289</data>
+    <data columnname="Measured Value">5289</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">13</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_INCompressor_S1MiB, </data>
+    <data columnname="Estimated Value">5235</data>
+    <data columnname="Measured Value">5235</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">14</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_INCompressor, derivative_S1MiB_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">5304</data>
+    <data columnname="Measured Value">5304</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">15</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_INCompressor_S1MiB, </data>
+    <data columnname="Estimated Value">5190</data>
+    <data columnname="Measured Value">5241</data>
+    <data columnname="Difference Absolut">51</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">16</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_INCompressor, derivative_S1MiB_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">5259</data>
+    <data columnname="Measured Value">5338</data>
+    <data columnname="Difference Absolut">79</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">17</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_Statistics_Severe, </data>
+    <data columnname="Estimated Value">3139</data>
+    <data columnname="Measured Value">3139</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">18</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_INCompressor_Severe, </data>
+    <data columnname="Estimated Value">3264</data>
+    <data columnname="Measured Value">3264</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">19</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">3153</data>
+    <data columnname="Measured Value">3153</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">20</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_INCompressor_Severe, </data>
+    <data columnname="Estimated Value">3219</data>
+    <data columnname="Measured Value">3161</data>
+    <data columnname="Difference Absolut">-58</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">21</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">3108</data>
+    <data columnname="Measured Value">3512</data>
+    <data columnname="Difference Absolut">404</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">22</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_S1MiB_Severe, </data>
+    <data columnname="Estimated Value">5228</data>
+    <data columnname="Measured Value">5228</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">23</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_S1MiB_Severe, derivative_Statistics_S1MiB, derivative_Statistics_Severe, derivative_S1MiB_Severe_Statistics, </data>
+    <data columnname="Estimated Value">5328</data>
+    <data columnname="Measured Value">5328</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">24</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_S1MiB_Severe, derivative_INCompressor_S1MiB, derivative_INCompressor_Severe, derivative_S1MiB_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">5220</data>
+    <data columnname="Measured Value">5220</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">25</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_S1MiB_Severe, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4953</data>
+    <data columnname="Measured Value">5310</data>
+    <data columnname="Difference Absolut">357</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">26</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_S1MiB_Severe, derivative_INCompressor_S1MiB, derivative_INCompressor_Severe, derivative_S1MiB_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">5175</data>
+    <data columnname="Measured Value">5309</data>
+    <data columnname="Difference Absolut">134</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">27</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_S1MiB_Severe, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4908</data>
+    <data columnname="Measured Value">5328</data>
+    <data columnname="Difference Absolut">420</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">28</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_S1MiB_Finest, </data>
+    <data columnname="Estimated Value">14638</data>
+    <data columnname="Measured Value">14638</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">29</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_S1MiB_Finest, derivative_Statistics_S1MiB, derivative_Statistics_Finest, derivative_S1MiB_Finest_Statistics, </data>
+    <data columnname="Estimated Value">14761</data>
+    <data columnname="Measured Value">14761</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">30</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_S1MiB_Finest, derivative_INCompressor_S1MiB, derivative_INCompressor_Finest, </data>
+    <data columnname="Estimated Value">14833</data>
+    <data columnname="Measured Value">14562</data>
+    <data columnname="Difference Absolut">-271</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">31</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_S1MiB_Finest, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">14514</data>
+    <data columnname="Measured Value">14786</data>
+    <data columnname="Difference Absolut">272</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">32</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_S1MiB_Finest, derivative_INCompressor_S1MiB, derivative_INCompressor_Finest, </data>
+    <data columnname="Estimated Value">14788</data>
+    <data columnname="Measured Value">14580</data>
+    <data columnname="Difference Absolut">-208</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">33</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_S1MiB_Finest, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">14469</data>
+    <data columnname="Measured Value">14905</data>
+    <data columnname="Difference Absolut">436</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">34</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_Statistics_Finest, </data>
+    <data columnname="Estimated Value">4881</data>
+    <data columnname="Measured Value">4881</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">35</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_INCompressor_Finest, </data>
+    <data columnname="Estimated Value">4768</data>
+    <data columnname="Measured Value">4768</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">36</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4879</data>
+    <data columnname="Measured Value">4879</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">37</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_INCompressor_Finest, </data>
+    <data columnname="Estimated Value">4723</data>
+    <data columnname="Measured Value">4787</data>
+    <data columnname="Difference Absolut">64</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">38</data>
+    <data columnname="Elements">Base, Persistence, IO, OldIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4834</data>
+    <data columnname="Measured Value">4903</data>
+    <data columnname="Difference Absolut">69</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">39</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_Statistics_NewIO, derivative_Statistics_ChunkedNIO, </data>
+    <data columnname="Estimated Value">3232</data>
+    <data columnname="Measured Value">3232</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">40</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_DirectNIO, derivative_ChunkedNIO_DirectNIO_Statistics, </data>
+    <data columnname="Estimated Value">3428</data>
+    <data columnname="Measured Value">3428</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">41</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, </data>
+    <data columnname="Estimated Value">3268</data>
+    <data columnname="Measured Value">3268</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">42</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">3412</data>
+    <data columnname="Measured Value">3412</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">43</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_ChunkedNIO_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3089</data>
+    <data columnname="Measured Value">3089</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">44</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3169</data>
+    <data columnname="Measured Value">3605</data>
+    <data columnname="Difference Absolut">436</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">45</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, </data>
+    <data columnname="Estimated Value">3223</data>
+    <data columnname="Measured Value">3271</data>
+    <data columnname="Difference Absolut">48</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">46</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_ChunkedNIO_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3044</data>
+    <data columnname="Measured Value">3341</data>
+    <data columnname="Difference Absolut">297</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">47</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">3367</data>
+    <data columnname="Measured Value">3053</data>
+    <data columnname="Difference Absolut">-314</data>
+    <data columnname="Difference in %">-10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">48</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3124</data>
+    <data columnname="Measured Value">3429</data>
+    <data columnname="Difference Absolut">305</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">49</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, </data>
+    <data columnname="Estimated Value">5140</data>
+    <data columnname="Measured Value">5194</data>
+    <data columnname="Difference Absolut">54</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">50</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_Statistics_NewIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_S1MiB, derivative_S1MiB_NewIO_Statistics, </data>
+    <data columnname="Estimated Value">5350</data>
+    <data columnname="Measured Value">5350</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">51</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_DirectNIO_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5463</data>
+    <data columnname="Measured Value">5463</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">52</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_DirectNIO, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5543</data>
+    <data columnname="Measured Value">5468</data>
+    <data columnname="Difference Absolut">-75</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">53</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5231</data>
+    <data columnname="Measured Value">5231</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">54</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5258</data>
+    <data columnname="Measured Value">5432</data>
+    <data columnname="Difference Absolut">174</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">55</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5149</data>
+    <data columnname="Measured Value">5308</data>
+    <data columnname="Difference Absolut">159</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">56</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4903</data>
+    <data columnname="Measured Value">5515</data>
+    <data columnname="Difference Absolut">612</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">57</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5186</data>
+    <data columnname="Measured Value">5263</data>
+    <data columnname="Difference Absolut">77</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">58</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5104</data>
+    <data columnname="Measured Value">5316</data>
+    <data columnname="Difference Absolut">212</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">59</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5213</data>
+    <data columnname="Measured Value">5435</data>
+    <data columnname="Difference Absolut">222</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">60</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4858</data>
+    <data columnname="Measured Value">5494</data>
+    <data columnname="Difference Absolut">636</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">61</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, </data>
+    <data columnname="Estimated Value">5207</data>
+    <data columnname="Measured Value">5207</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">62</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_DirectNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5365</data>
+    <data columnname="Measured Value">5365</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">63</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_Statistics_NewIO, derivative_Statistics_S1MiB, derivative_S1MiB_NewIO_Statistics, </data>
+    <data columnname="Estimated Value">5295</data>
+    <data columnname="Measured Value">5295</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">64</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_DirectNIO, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_DirectNIO_Statistics, </data>
+    <data columnname="Estimated Value">5486</data>
+    <data columnname="Measured Value">5486</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">65</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_INCompressor_S1MiB, </data>
+    <data columnname="Estimated Value">5362</data>
+    <data columnname="Measured Value">5256</data>
+    <data columnname="Difference Absolut">-106</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">66</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, </data>
+    <data columnname="Estimated Value">5520</data>
+    <data columnname="Measured Value">5449</data>
+    <data columnname="Difference Absolut">-71</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">67</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">5016</data>
+    <data columnname="Measured Value">5328</data>
+    <data columnname="Difference Absolut">312</data>
+    <data columnname="Difference in %">6</data>
+  </row>
+  <row>
+    <data columnname="Configuration">68</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">5064</data>
+    <data columnname="Measured Value">5510</data>
+    <data columnname="Difference Absolut">446</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">69</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_INCompressor_S1MiB, </data>
+    <data columnname="Estimated Value">5317</data>
+    <data columnname="Measured Value">5235</data>
+    <data columnname="Difference Absolut">-82</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">70</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_NewIO_S1MiB, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4971</data>
+    <data columnname="Measured Value">5387</data>
+    <data columnname="Difference Absolut">416</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">71</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, </data>
+    <data columnname="Estimated Value">5475</data>
+    <data columnname="Measured Value">5421</data>
+    <data columnname="Difference Absolut">-54</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">72</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_NewIO_S1MiB, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">5019</data>
+    <data columnname="Measured Value">5502</data>
+    <data columnname="Difference Absolut">483</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">73</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, derivative_DirectNIO_NewIO, </data>
+    <data columnname="Estimated Value">3065</data>
+    <data columnname="Measured Value">3065</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">74</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_Statistics_NewIO, </data>
+    <data columnname="Estimated Value">3177</data>
+    <data columnname="Measured Value">3177</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">75</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_Statistics_DirectNIO, </data>
+    <data columnname="Estimated Value">3235</data>
+    <data columnname="Measured Value">3235</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">76</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_INCompressor_NewIO, </data>
+    <data columnname="Estimated Value">3263</data>
+    <data columnname="Measured Value">3263</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">77</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">3143</data>
+    <data columnname="Measured Value">3143</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">78</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, </data>
+    <data columnname="Estimated Value">3079</data>
+    <data columnname="Measured Value">3085</data>
+    <data columnname="Difference Absolut">6</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">79</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Statistics, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3058</data>
+    <data columnname="Measured Value">3058</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">80</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_INCompressor_NewIO, </data>
+    <data columnname="Estimated Value">3218</data>
+    <data columnname="Measured Value">3216</data>
+    <data columnname="Difference Absolut">-2</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">81</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, </data>
+    <data columnname="Estimated Value">3034</data>
+    <data columnname="Measured Value">3336</data>
+    <data columnname="Difference Absolut">302</data>
+    <data columnname="Difference in %">9</data>
+  </row>
+  <row>
+    <data columnname="Configuration">82</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">3098</data>
+    <data columnname="Measured Value">3347</data>
+    <data columnname="Difference Absolut">249</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">83</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, Statistics, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3013</data>
+    <data columnname="Measured Value">3517</data>
+    <data columnname="Difference Absolut">504</data>
+    <data columnname="Difference in %">14</data>
+  </row>
+  <row>
+    <data columnname="Configuration">84</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_S1MiB_NewIO_Severe, derivative_Severe_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5216</data>
+    <data columnname="Measured Value">5216</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">85</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_DirectNIO_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_DirectNIO, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_DirectNIO, derivative_DirectNIO_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5437</data>
+    <data columnname="Measured Value">5361</data>
+    <data columnname="Difference Absolut">-76</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">86</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_Statistics_NewIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_S1MiB, derivative_Statistics_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_Statistics, derivative_NewIO_Severe_Statistics, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_Statistics, </data>
+    <data columnname="Estimated Value">5404</data>
+    <data columnname="Measured Value">5356</data>
+    <data columnname="Difference Absolut">-48</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">87</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_NewIO_Severe_Statistics, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_Statistics, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5495</data>
+    <data columnname="Measured Value">5462</data>
+    <data columnname="Difference Absolut">-33</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">88</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_INCompressor, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5248</data>
+    <data columnname="Measured Value">5233</data>
+    <data columnname="Difference Absolut">-15</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">89</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">4766</data>
+    <data columnname="Measured Value">5343</data>
+    <data columnname="Difference Absolut">577</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">90</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5173</data>
+    <data columnname="Measured Value">5390</data>
+    <data columnname="Difference Absolut">217</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">91</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4418</data>
+    <data columnname="Measured Value">5548</data>
+    <data columnname="Difference Absolut">1130</data>
+    <data columnname="Difference in %">20</data>
+  </row>
+  <row>
+    <data columnname="Configuration">92</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_INCompressor, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5203</data>
+    <data columnname="Measured Value">5274</data>
+    <data columnname="Difference Absolut">71</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">93</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">5128</data>
+    <data columnname="Measured Value">5419</data>
+    <data columnname="Difference Absolut">291</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">94</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">4721</data>
+    <data columnname="Measured Value">5314</data>
+    <data columnname="Difference Absolut">593</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">95</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_S1MiB, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_INCompressor_ChunkedNIO_S1MiB, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4373</data>
+    <data columnname="Measured Value">5508</data>
+    <data columnname="Difference Absolut">1135</data>
+    <data columnname="Difference in %">21</data>
+  </row>
+  <row>
+    <data columnname="Configuration">96</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, </data>
+    <data columnname="Estimated Value">2986</data>
+    <data columnname="Measured Value">2986</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">97</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_Statistics_NewIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_Severe, derivative_NewIO_Severe_Statistics, derivative_Severe_ChunkedNIO_Statistics, </data>
+    <data columnname="Estimated Value">3155</data>
+    <data columnname="Measured Value">3155</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">98</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_DirectNIO_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_DirectNIO_Severe, derivative_Severe_ChunkedNIO_DirectNIO, </data>
+    <data columnname="Estimated Value">3171</data>
+    <data columnname="Measured Value">3171</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">99</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_NewIO_Severe_Statistics, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_Statistics, derivative_ChunkedNIO_DirectNIO_Statistics, </data>
+    <data columnname="Estimated Value">3419</data>
+    <data columnname="Measured Value">3325</data>
+    <data columnname="Difference Absolut">-94</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">100</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3157</data>
+    <data columnname="Measured Value">3157</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">101</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">3042</data>
+    <data columnname="Measured Value">2960</data>
+    <data columnname="Difference Absolut">-82</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">102</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3046</data>
+    <data columnname="Measured Value">3154</data>
+    <data columnname="Difference Absolut">108</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">103</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">2867</data>
+    <data columnname="Measured Value">3424</data>
+    <data columnname="Difference Absolut">557</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">104</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3112</data>
+    <data columnname="Measured Value">3195</data>
+    <data columnname="Difference Absolut">83</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">105</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">3001</data>
+    <data columnname="Measured Value">3258</data>
+    <data columnname="Difference Absolut">257</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">106</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">2997</data>
+    <data columnname="Measured Value">3155</data>
+    <data columnname="Difference Absolut">158</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">107</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_ChunkedNIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_ChunkedNIO_DirectNIO, derivative_Severe_ChunkedNIO_INCompressor, derivative_Severe_ChunkedNIO_Statistics, derivative_Severe_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">2822</data>
+    <data columnname="Measured Value">3457</data>
+    <data columnname="Difference Absolut">635</data>
+    <data columnname="Difference in %">18</data>
+  </row>
+  <row>
+    <data columnname="Configuration">108</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, </data>
+    <data columnname="Estimated Value">3165</data>
+    <data columnname="Measured Value">3165</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">109</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_Statistics_NewIO, derivative_Statistics_Severe, derivative_NewIO_Severe_Statistics, </data>
+    <data columnname="Estimated Value">3106</data>
+    <data columnname="Measured Value">3106</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">110</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_DirectNIO_NewIO, derivative_DirectNIO_Severe, </data>
+    <data columnname="Estimated Value">3161</data>
+    <data columnname="Measured Value">3161</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">111</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_NewIO_Severe_Statistics, </data>
+    <data columnname="Estimated Value">3344</data>
+    <data columnname="Measured Value">3303</data>
+    <data columnname="Difference Absolut">-41</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">112</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">3178</data>
+    <data columnname="Measured Value">3178</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">113</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">3174</data>
+    <data columnname="Measured Value">3127</data>
+    <data columnname="Difference Absolut">-47</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">114</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">2693</data>
+    <data columnname="Measured Value">3185</data>
+    <data columnname="Difference Absolut">492</data>
+    <data columnname="Difference in %">15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">115</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">2788</data>
+    <data columnname="Measured Value">3167</data>
+    <data columnname="Difference Absolut">379</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">116</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">3133</data>
+    <data columnname="Measured Value">3532</data>
+    <data columnname="Difference Absolut">399</data>
+    <data columnname="Difference in %">11</data>
+  </row>
+  <row>
+    <data columnname="Configuration">117</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">2687,4</data>
+    <data columnname="Measured Value">3238</data>
+    <data columnname="Difference Absolut">550,6</data>
+    <data columnname="Difference in %">17</data>
+  </row>
+  <row>
+    <data columnname="Configuration">118</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">3129</data>
+    <data columnname="Measured Value">3358</data>
+    <data columnname="Difference Absolut">229</data>
+    <data columnname="Difference in %">7</data>
+  </row>
+  <row>
+    <data columnname="Configuration">119</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">2743</data>
+    <data columnname="Measured Value">3230</data>
+    <data columnname="Difference Absolut">487</data>
+    <data columnname="Difference in %">15</data>
+  </row>
+  <row>
+    <data columnname="Configuration">120</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_S1MiB_NewIO_Severe, </data>
+    <data columnname="Estimated Value">5186</data>
+    <data columnname="Measured Value">5186</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">121</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_DirectNIO_S1MiB, derivative_DirectNIO_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_DirectNIO, </data>
+    <data columnname="Estimated Value">5354</data>
+    <data columnname="Measured Value">5354</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">122</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_Statistics_NewIO, derivative_Statistics_S1MiB, derivative_Statistics_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_Statistics, derivative_NewIO_Severe_Statistics, </data>
+    <data columnname="Estimated Value">5146</data>
+    <data columnname="Measured Value">5342</data>
+    <data columnname="Difference Absolut">196</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">123</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_NewIO_Severe_Statistics, </data>
+    <data columnname="Estimated Value">5347</data>
+    <data columnname="Measured Value">5499</data>
+    <data columnname="Difference Absolut">152</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">124</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">5196</data>
+    <data columnname="Measured Value">5230</data>
+    <data columnname="Difference Absolut">34</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">125</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">5364</data>
+    <data columnname="Measured Value">5465</data>
+    <data columnname="Difference Absolut">101</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">126</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4344</data>
+    <data columnname="Measured Value">5314</data>
+    <data columnname="Difference Absolut">970</data>
+    <data columnname="Difference in %">18</data>
+  </row>
+  <row>
+    <data columnname="Configuration">127</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4402</data>
+    <data columnname="Measured Value">5457</data>
+    <data columnname="Difference Absolut">1055</data>
+    <data columnname="Difference in %">19</data>
+  </row>
+  <row>
+    <data columnname="Configuration">128</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">5151</data>
+    <data columnname="Measured Value">5241</data>
+    <data columnname="Difference Absolut">90</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">129</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4299</data>
+    <data columnname="Measured Value">5339</data>
+    <data columnname="Difference Absolut">1040</data>
+    <data columnname="Difference in %">19</data>
+  </row>
+  <row>
+    <data columnname="Configuration">130</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_NewIO_Severe_INCompressor, </data>
+    <data columnname="Estimated Value">5319</data>
+    <data columnname="Measured Value">5420</data>
+    <data columnname="Difference Absolut">101</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">131</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Severe, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Severe, derivative_S1MiB_Severe, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Severe, derivative_INCompressor_Severe, derivative_Statistics_Severe, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Severe, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Severe_DirectNIO, derivative_S1MiB_Severe_INCompressor, derivative_S1MiB_Severe_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Severe_INCompressor, derivative_NewIO_Severe_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Severe_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4357</data>
+    <data columnname="Measured Value">5467</data>
+    <data columnname="Difference Absolut">1110</data>
+    <data columnname="Difference in %">20</data>
+  </row>
+  <row>
+    <data columnname="Configuration">132</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, </data>
+    <data columnname="Estimated Value">14740</data>
+    <data columnname="Measured Value">14685</data>
+    <data columnname="Difference Absolut">-55</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">133</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_DirectNIO_Finest, derivative_S1MiB_Finest_DirectNIO, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_DirectNIO_ChunkedNIO_Finest, </data>
+    <data columnname="Estimated Value">16238</data>
+    <data columnname="Measured Value">16342</data>
+    <data columnname="Difference Absolut">104</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">134</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_Statistics_NewIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_S1MiB, derivative_Statistics_Finest, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_Statistics, derivative_NewIO_Finest_Statistics, </data>
+    <data columnname="Estimated Value">14796</data>
+    <data columnname="Measured Value">14744</data>
+    <data columnname="Difference Absolut">-52</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">135</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_DirectNIO, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_NewIO_Finest_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_DirectNIO_ChunkedNIO_Finest, </data>
+    <data columnname="Estimated Value">15827</data>
+    <data columnname="Measured Value">16479</data>
+    <data columnname="Difference Absolut">652</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">136</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">14871</data>
+    <data columnname="Measured Value">14594</data>
+    <data columnname="Difference Absolut">-277</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">137</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">14182</data>
+    <data columnname="Measured Value">14694</data>
+    <data columnname="Difference Absolut">512</data>
+    <data columnname="Difference in %">3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">138</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_S1MiB_Finest_DirectNIO, derivative_NewIO_Finest_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_DirectNIO_ChunkedNIO_Finest, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">16073</data>
+    <data columnname="Measured Value">16351</data>
+    <data columnname="Difference Absolut">278</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">139</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_DirectNIO, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_DirectNIO_ChunkedNIO_Finest, derivative_INCompressor_ChunkedNIO_S1MiB, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">14774</data>
+    <data columnname="Measured Value">16440</data>
+    <data columnname="Difference Absolut">1666</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">140</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">14826</data>
+    <data columnname="Measured Value">14785</data>
+    <data columnname="Difference Absolut">-41</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">141</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_S1MiB_Finest_DirectNIO, derivative_NewIO_Finest_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_DirectNIO_ChunkedNIO_Finest, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">16028</data>
+    <data columnname="Measured Value">16399</data>
+    <data columnname="Difference Absolut">371</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">142</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_INCompressor_ChunkedNIO_S1MiB, </data>
+    <data columnname="Estimated Value">14137</data>
+    <data columnname="Measured Value">14656</data>
+    <data columnname="Difference Absolut">519</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">143</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_DirectNIO, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_S1MiB, derivative_DirectNIO_ChunkedNIO_Finest, derivative_INCompressor_ChunkedNIO_S1MiB, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">14729</data>
+    <data columnname="Measured Value">16448</data>
+    <data columnname="Difference Absolut">1719</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">144</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, </data>
+    <data columnname="Estimated Value">14807</data>
+    <data columnname="Measured Value">14653</data>
+    <data columnname="Difference Absolut">-154</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">145</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_Statistics_NewIO, derivative_Statistics_S1MiB, derivative_Statistics_Finest, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_Statistics, derivative_NewIO_Finest_Statistics, </data>
+    <data columnname="Estimated Value">14741</data>
+    <data columnname="Measured Value">14852</data>
+    <data columnname="Difference Absolut">111</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">146</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_DirectNIO_S1MiB, derivative_DirectNIO_Finest, derivative_S1MiB_Finest_DirectNIO, </data>
+    <data columnname="Estimated Value">16427</data>
+    <data columnname="Measured Value">16427</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">147</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_DirectNIO, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_NewIO_Finest_Statistics, derivative_Finest_DirectNIO_Statistics, </data>
+    <data columnname="Estimated Value">16057</data>
+    <data columnname="Measured Value">16446</data>
+    <data columnname="Difference Absolut">389</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">148</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">15002</data>
+    <data columnname="Measured Value">14627</data>
+    <data columnname="Difference Absolut">-375</data>
+    <data columnname="Difference in %">-3</data>
+  </row>
+  <row>
+    <data columnname="Configuration">149</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">14049</data>
+    <data columnname="Measured Value">14710</data>
+    <data columnname="Difference Absolut">661</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">150</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_S1MiB_Finest_DirectNIO, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">16622</data>
+    <data columnname="Measured Value">16401</data>
+    <data columnname="Difference Absolut">-221</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">151</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_DirectNIO, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">15222</data>
+    <data columnname="Measured Value">16531</data>
+    <data columnname="Difference Absolut">1309</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">152</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_S1MiB, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">14957</data>
+    <data columnname="Measured Value">14667</data>
+    <data columnname="Difference Absolut">-290</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">153</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_S1MiB_Finest_DirectNIO, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">16577</data>
+    <data columnname="Measured Value">16392</data>
+    <data columnname="Difference Absolut">-185</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">154</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">14004</data>
+    <data columnname="Measured Value">14727</data>
+    <data columnname="Difference Absolut">723</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">155</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S1MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_S1MiB, derivative_NewIO_Finest, derivative_S1MiB_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_S1MiB, derivative_INCompressor_S1MiB, derivative_Statistics_S1MiB, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_S1MiB_NewIO_Statistics, derivative_S1MiB_Finest_DirectNIO, derivative_S1MiB_Finest_Statistics, derivative_S1MiB_DirectNIO_Statistics, derivative_S1MiB_INCompressor_Statistics, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">15177</data>
+    <data columnname="Measured Value">16442</data>
+    <data columnname="Difference Absolut">1265</data>
+    <data columnname="Difference in %">8</data>
+  </row>
+  <row>
+    <data columnname="Configuration">156</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, </data>
+    <data columnname="Estimated Value">4705</data>
+    <data columnname="Measured Value">4705</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">157</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_Statistics_NewIO, derivative_Statistics_Finest, derivative_NewIO_Finest_Statistics, </data>
+    <data columnname="Estimated Value">4894</data>
+    <data columnname="Measured Value">4894</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">158</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_DirectNIO_Finest, </data>
+    <data columnname="Estimated Value">4951</data>
+    <data columnname="Measured Value">4951</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">159</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_NewIO_Finest_Statistics, derivative_Finest_DirectNIO_Statistics, </data>
+    <data columnname="Estimated Value">5045</data>
+    <data columnname="Measured Value">5045</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">160</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">4759</data>
+    <data columnname="Measured Value">4759</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">161</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">5005</data>
+    <data columnname="Measured Value">4920</data>
+    <data columnname="Difference Absolut">-85</data>
+    <data columnname="Difference in %">-2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">162</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4447</data>
+    <data columnname="Measured Value">4915</data>
+    <data columnname="Difference Absolut">468</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">163</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4455</data>
+    <data columnname="Measured Value">5048</data>
+    <data columnname="Difference Absolut">593</data>
+    <data columnname="Difference in %">12</data>
+  </row>
+  <row>
+    <data columnname="Configuration">164</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">4714</data>
+    <data columnname="Measured Value">4668</data>
+    <data columnname="Difference Absolut">-46</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">165</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4402</data>
+    <data columnname="Measured Value">4897</data>
+    <data columnname="Difference Absolut">495</data>
+    <data columnname="Difference in %">10</data>
+  </row>
+  <row>
+    <data columnname="Configuration">166</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">4960</data>
+    <data columnname="Measured Value">4957</data>
+    <data columnname="Difference Absolut">-3</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">167</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, SingleWriteNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4410</data>
+    <data columnname="Measured Value">5091</data>
+    <data columnname="Difference Absolut">681</data>
+    <data columnname="Difference in %">13</data>
+  </row>
+  <row>
+    <data columnname="Configuration">168</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, </data>
+    <data columnname="Estimated Value">4638</data>
+    <data columnname="Measured Value">4669</data>
+    <data columnname="Difference Absolut">31</data>
+    <data columnname="Difference in %">1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">169</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_DirectNIO_Finest, derivative_DirectNIO_ChunkedNIO_Finest, </data>
+    <data columnname="Estimated Value">4898</data>
+    <data columnname="Measured Value">4898</data>
+    <data columnname="Difference Absolut">0</data>
+    <data columnname="Difference in %">0</data>
+  </row>
+  <row>
+    <data columnname="Configuration">170</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_Statistics_NewIO, derivative_Statistics_ChunkedNIO, derivative_Statistics_Finest, derivative_NewIO_Finest_Statistics, </data>
+    <data columnname="Estimated Value">4949</data>
+    <data columnname="Measured Value">4907</data>
+    <data columnname="Difference Absolut">-42</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">171</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_NewIO_Finest_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_DirectNIO_ChunkedNIO_Finest, </data>
+    <data columnname="Estimated Value">4951</data>
+    <data columnname="Measured Value">5044</data>
+    <data columnname="Difference Absolut">93</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">172</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">4764</data>
+    <data columnname="Measured Value">4698</data>
+    <data columnname="Difference Absolut">-66</data>
+    <data columnname="Difference in %">-1</data>
+  </row>
+  <row>
+    <data columnname="Configuration">173</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_Finest, </data>
+    <data columnname="Estimated Value">4728</data>
+    <data columnname="Measured Value">4943</data>
+    <data columnname="Difference Absolut">215</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">174</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4716</data>
+    <data columnname="Measured Value">4913</data>
+    <data columnname="Difference Absolut">197</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">175</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_Finest, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4279</data>
+    <data columnname="Measured Value">5090</data>
+    <data columnname="Difference Absolut">811</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+  <row>
+    <data columnname="Configuration">176</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_INCompressor_ChunkedNIO, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, </data>
+    <data columnname="Estimated Value">4719</data>
+    <data columnname="Measured Value">4792</data>
+    <data columnname="Difference Absolut">73</data>
+    <data columnname="Difference in %">2</data>
+  </row>
+  <row>
+    <data columnname="Configuration">177</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, </data>
+    <data columnname="Estimated Value">4671</data>
+    <data columnname="Measured Value">4880</data>
+    <data columnname="Difference Absolut">209</data>
+    <data columnname="Difference in %">4</data>
+  </row>
+  <row>
+    <data columnname="Configuration">178</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_NewIO_Finest_INCompressor, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_DirectNIO_ChunkedNIO_Finest, </data>
+    <data columnname="Estimated Value">4683</data>
+    <data columnname="Measured Value">4953</data>
+    <data columnname="Difference Absolut">270</data>
+    <data columnname="Difference in %">5</data>
+  </row>
+  <row>
+    <data columnname="Configuration">179</data>
+    <data columnname="Elements">Base, Persistence, IO, NewIO, NIOBase, NIOType, ChunkedNIO, DirectNIO, LogSize, S100MiB, Checksum, BTreeFeatures, INCompressor, IEvictor, Evictor, Critical_Eviction, Verifier, ITracing, Tracing, TracingLevel, Finest, Statistics, derivative_NewIO_Finest, derivative_DirectNIO_NewIO, derivative_INCompressor_NewIO, derivative_Statistics_NewIO, derivative_DirectNIO_ChunkedNIO, derivative_INCompressor_ChunkedNIO, derivative_Statistics_ChunkedNIO, derivative_DirectNIO_Finest, derivative_INCompressor_Finest, derivative_Statistics_Finest, derivative_Statistics_DirectNIO, derivative_Statistics_INCompressor, derivative_NewIO_Finest_INCompressor, derivative_NewIO_Finest_Statistics, derivative_NewIO_INCompressor_Statistics, derivative_Finest_DirectNIO_Statistics, derivative_Finest_INCompressor_Statistics, derivative_ChunkedNIO_DirectNIO_INCompressor, derivative_ChunkedNIO_DirectNIO_Statistics, derivative_ChunkedNIO_INCompressor_Statistics, derivative_DirectNIO_ChunkedNIO_Finest, derivative_Statistics_DirectNIO_INCompressor, </data>
+    <data columnname="Estimated Value">4234</data>
+    <data columnname="Measured Value">5062</data>
+    <data columnname="Difference Absolut">828</data>
+    <data columnname="Difference in %">16</data>
+  </row>
+</results>
