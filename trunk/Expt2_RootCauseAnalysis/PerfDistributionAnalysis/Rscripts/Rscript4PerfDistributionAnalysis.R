@@ -1,131 +1,149 @@
 ## Apache
 
-dspvset <- read.csv("../DataSet/PerfDistribution/ApachePerfValues.csv", header = TRUE, sep = ",")
+dspvset <- read.csv("../ApachePerfValues.csv", header = TRUE, sep = ",")
 
-pdf("../DataSet/PerfDistribution/ApachePerfDistribution.pdf")
+for (j in 1:5){
 
-par(mfrow=c(3, 2))
+ path=paste("../ApacheN",j,".pdf", sep = "")
 
-colnames <- c("N", "2*N", "3*N", "M", "All", "X100")
+ pdf(path)
 
-for (i in 1:5) {
+ for (i in j:j) {
    
-   hs <- hist(na.omit(dspvset[,i]), xlim=c(840, 2640), breaks=seq(840, 2640, 200), main= colnames[i], ylab="Frequency", xlab="Performance", col="grey90", border=TRUE)
-   rug(na.omit(dspvset[,i]))
+   hs <- hist(na.omit(dspvset[,i]), xlim=c(840, 2640), breaks=seq(840, 2640, 200), xaxt="n",yaxt="n", xlab=NULL, ylab=NULL,main=NULL, col="grey90", border=TRUE)
    dens <- density(na.omit(dspvset[,i]))
    rs <- max(hs$counts)/max(dens$y)
-   lines(dens$x, dens$y*rs, type="l", col="red")
+   lines(dens$x, dens$y*rs, type="l", col="black")
    
+ }
+
+ dev.off()
 }
 
-dev.off()
+#pdf("../DataSet/PerfDistribution/ApachePerfDistribution.pdf")
+
+#par(mfrow=c(3, 2))
+
+#colnames <- c("N", "2*N", "3*N", "M", "All", "X100")
+
+#for (i in 1:5) {
+   
+#   hs <- hist(na.omit(dspvset[,i]), xlim=c(840, 2640), breaks=seq(840, 2640, 200), main= colnames[i], ylab="Frequency", xlab="Performance", col="grey90", border=TRUE)
+#   rug(na.omit(dspvset[,i]))
+#   dens <- density(na.omit(dspvset[,i]))
+#   rs[i] <- max(hs$counts)/max(dens$y)
+#   lines(dens$x, dens$y*rs[i], type="l", col="red")
+#}
+
+#dev.off()
 
 ## BDBC
 
-dspvset <- read.csv("../DataSet/PerfDistribution/BDBCPerfValues.csv", header = TRUE, sep = ",")
+dspvset <- read.csv("../BDBCPerfValues.csv", header = TRUE, sep = ",")
 
-pdf("../DataSet/PerfDistribution/BDBCPerfDistribution.pdf")
+for (j in 1:5){
 
-par(mfrow=c(3, 2))
+ path=paste("../BDBCN",j,".pdf", sep = "")
 
-colnames <- c("N", "2*N", "3*N", "M", "All", "X100")
+ pdf(path)
 
-for (i in 1:5) {
+ for (i in j:j) {
    
-   hs <- hist(na.omit(dspvset[,i]), xlim=c(0, 40), breaks=seq(0, 40, 4), main= colnames[i], ylab="Frequency", xlab="Performance", col="grey90", border=TRUE)
-   rug(na.omit(dspvset[,i]))
+   hs <- hist(na.omit(dspvset[,i]), xlim=c(0, 40), breaks=seq(0, 40, 4), xaxt="n",yaxt="n", xlab=NULL, ylab=NULL,main=NULL, col="grey90", border=TRUE)
    dens <- density(na.omit(dspvset[,i]))
    rs <- max(hs$counts)/max(dens$y)
-   lines(dens$x, dens$y*rs, type="l", col="red")
+   lines(dens$x, dens$y*rs, type="l", col="black")
    
+ }
+
+ dev.off()
 }
 
-dev.off()
 
 ## BDBJ
 
-dspvset <- read.csv("../DataSet/PerfDistribution/BDBJPerfValues.csv", header = TRUE, sep = ",")
+dspvset <- read.csv("../BDBJPerfValues.csv", header = TRUE, sep = ",")
 
-pdf("../DataSet/PerfDistribution/BDBJPerfDistribution.pdf")
+for (j in 1:5){
 
-par(mfrow=c(3, 2))
+ path=paste("../BDBJN",j,".pdf", sep = "")
 
-colnames <- c("N", "2*N", "3*N", "M", "All", "X100")
+ pdf(path)
 
-for (i in 1:5) {
+ for (i in j:j) {
    
-   hs <- hist(na.omit(dspvset[,i]), xlim=c(2950, 16550), breaks=seq(2950, 16550, 1360), main= colnames[i], ylab="Frequency", xlab="Performance", col="grey90", border=TRUE)
-   rug(na.omit(dspvset[,i]))
+   hs <- hist(na.omit(dspvset[,i]), xlim=c(2950, 16550), breaks=seq(2950, 16550, 1360), xaxt="n",yaxt="n", xlab=NULL, ylab=NULL,main=NULL, col="grey90", border=TRUE)
    dens <- density(na.omit(dspvset[,i]))
    rs <- max(hs$counts)/max(dens$y)
-   lines(dens$x, dens$y*rs, type="l", col="red")
+   lines(dens$x, dens$y*rs, type="l", col="black")
    
-}
+ }
 
-dev.off()
+ dev.off()
+}
 
 ## LLVM
 
-dspvset <- read.csv("../DataSet/PerfDistribution/LLVMPerfValues.csv", header = TRUE, sep = ",")
+dspvset <- read.csv("../LLVMPerfValues.csv", header = TRUE, sep = ",")
 
-pdf("../DataSet/PerfDistribution/LLVMPerfDistribution.pdf")
+for (j in 1:5){
 
-par(mfrow=c(3, 2))
+ path=paste("../LLVMN",j,".pdf", sep = "")
 
-colnames <- c("N", "2*N", "3*N", "M", "All", "X100")
+ pdf(path)
 
-for (i in 1:5) {
+ for (i in j:j) {
    
-   hs <- hist(na.omit(dspvset[,i]), xlim=c(198, 270), breaks=seq(198, 270, 8), main= colnames[i], ylab="Frequency", xlab="Performance", col="grey90", border=TRUE)
-   rug(na.omit(dspvset[,i]))
+   hs <- hist(na.omit(dspvset[,i]), xlim=c(198, 270), breaks=seq(198, 270, 8), xaxt="n",yaxt="n", xlab=NULL, ylab=NULL,main=NULL, col="grey90", border=TRUE)
    dens <- density(na.omit(dspvset[,i]))
    rs <- max(hs$counts)/max(dens$y)
-   lines(dens$x, dens$y*rs, type="l", col="red")
+   lines(dens$x, dens$y*rs, type="l", col="black")
    
-}
+ }
 
-dev.off()
+ dev.off()
+}
 
 ## X264
 
-dspvset <- read.csv("../DataSet/PerfDistribution/X264PerfValues.csv", header = TRUE, sep = ",")
+dspvset <- read.csv("../X264PerfValues.csv", header = TRUE, sep = ",")
 
-pdf("../DataSet/PerfDistribution/X264PerfDistribution.pdf")
+for (j in 1:5){
 
-par(mfrow=c(3, 2))
+ path=paste("../x264N",j,".pdf", sep = "")
 
-colnames <- c("N", "2*N", "3*N", "M", "All", "X100")
+ pdf(path)
 
-for (i in 1:5) {
+ for (i in j:j) {
    
-   hs <- hist(na.omit(dspvset[,i]), xlim=c(244,824), breaks=seq(244,824, 58), main= colnames[i], ylab="Frequency", xlab="Performance", col="grey90", border=TRUE)
-   rug(na.omit(dspvset[,i]))
+   hs <- hist(na.omit(dspvset[,i]), xlim=c(244,824), breaks=seq(244,824, 58), xaxt="n",yaxt="n", xlab=NULL, ylab=NULL,main=NULL, col="grey90", border=TRUE)
    dens <- density(na.omit(dspvset[,i]))
    rs <- max(hs$counts)/max(dens$y)
-   lines(dens$x, dens$y*rs, type="l", col="red")
+   lines(dens$x, dens$y*rs, type="l", col="black")
    
-}
+ }
 
-dev.off()
+ dev.off()
+}
 
 ## SQL
 
-dspvset <- read.csv("../DataSet/PerfDistribution/SQLPerfValues.csv", header = TRUE, sep = ",")
+dspvset <- read.csv("../SQLPerfValues.csv", header = TRUE, sep = ",")
 
-pdf("../DataSet/PerfDistribution/SQLPerfDistribution.pdf")
+for (j in 1:5){
 
-par(mfrow=c(3, 2))
+ path=paste("../SQLN",j,".pdf", sep = "")
 
-colnames <- c("N", "2*N", "3*N", "M", "All", "X100")
+ pdf(path)
 
-for (i in 1:6) {
+ for (i in j:j) {
    
-   hs <- hist(na.omit(dspvset[,i]), xlim=c(12.5, 17), breaks=seq(12.5, 17, 0.5), main= colnames[i], ylab="Frequency", xlab="Performance", col="grey90", border=TRUE)
-   rug(na.omit(dspvset[,i]))
+   hs <- hist(na.omit(dspvset[,i]), xlim=c(12.5, 17), breaks=seq(12.5, 17, 0.5), xaxt="n",yaxt="n", xlab=NULL, ylab=NULL,main=NULL, col="grey90", border=TRUE)
    dens <- density(na.omit(dspvset[,i]))
    rs <- max(hs$counts)/max(dens$y)
-   lines(dens$x, dens$y*rs, type="l", col="red")
+   lines(dens$x, dens$y*rs, type="l", col="black")
    
-}
+ }
 
-dev.off()
+ dev.off()
+}
