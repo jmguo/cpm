@@ -1,0 +1,17 @@
+no_asm,no_8x8dct,no_cabac,no_deblock,no_fast_pskip,no_mbtree,no_mixed_refs,no_weightb,rc_lookahead,rc_lookahead_20,rc_lookahead_40,rc_lookahead_60,ref,ref_1,ref_5,ref_9,Performance
+Y,N,N,N,Y,N,N,N,Y,Y,N,N,Y,N,Y,N,514.170
+Y,Y,N,N,N,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,414.670
+Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,N,279.810
+Y,Y,Y,Y,Y,N,N,Y,Y,N,N,Y,Y,N,Y,N,488.260
+Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,N,Y,555.203
+Y,N,N,Y,Y,N,Y,Y,Y,N,Y,N,Y,N,N,Y,631.053
+Y,N,Y,Y,N,N,N,N,Y,N,Y,N,Y,Y,N,N,262.233
+Y,N,Y,N,Y,Y,N,N,Y,N,N,Y,Y,N,Y,N,562.923
+Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,N,N,Y,643.983
+Y,Y,N,N,N,Y,Y,N,Y,N,Y,N,Y,N,N,Y,561.960
+Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,N,Y,N,N,Y,706.590
+Y,Y,Y,Y,N,N,Y,Y,Y,N,Y,N,Y,Y,N,N,246.237
+Y,Y,Y,Y,N,Y,N,Y,Y,Y,N,N,Y,N,Y,N,486.817
+Y,Y,N,Y,Y,Y,Y,N,Y,Y,N,N,Y,N,Y,N,462.627
+Y,N,N,N,N,Y,N,Y,Y,Y,N,N,Y,Y,N,N,305.283
+Y,N,N,Y,Y,N,N,Y,Y,N,N,Y,Y,Y,N,N,279.083
